@@ -1,0 +1,33 @@
+version: '3.5'
+
+services:
+
+    db:
+        image: mariadb:10.1.41
+        container_name: db_brevan
+        ports:
+            - "3311:3306"
+        volumes:
+            - db_brevan:/var/lib/mysql/
+        command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8 --collation-server=utf8_general_ci
+        environment:
+            MYSQL_USER: ${DB_USERNAME}
+            MYSQL_PASSWORD: ${DB_PASSWORD}
+            MYSQL_ROOT_PASSWORD: root
+            MYSQL_DATABASE: ${DB_DATABASE}
+
+    php:
+        build: .
+        container_name: php_brevan
+        volumes:
+            - ./:/var/www/html/:delegated
+        ports:
+            - "8011:80"
+        links:
+            - db:db
+        depends_on:
+            - db
+
+volumes:
+    db_brevan:
+
