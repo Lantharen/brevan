@@ -1,0 +1,18 @@
+{
+    "data": {
+        "img": {
+            "childImageSharp": {
+                "original": {
+                    "src": "/static/dot-map-bg-88922458056841756d298c337b4b8afd.jpg",
+                    "width": 1920
+                },
+                "fluid": {
+                    "aspectRatio": 1.605351170568562,
+                    "src": "/static/88922458056841756d298c337b4b8afd/b1e91/dot-map-bg.jpg",
+                    "srcSet": "/static/88922458056841756d298c337b4b8afd/ce222/dot-map-bg.jpg 480w,\n/static/88922458056841756d298c337b4b8afd/39fae/dot-map-bg.jpg 960w,\n/static/88922458056841756d298c337b4b8afd/b1e91/dot-map-bg.jpg 1920w",
+                    "sizes": "(max-width: 1920px) 100vw, 1920px"
+                }
+            }
+        }
+    }
+}

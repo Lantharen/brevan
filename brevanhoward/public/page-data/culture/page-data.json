@@ -1,0 +1,435 @@
+{
+    "componentChunkName": "component---src-templates-culture-js",
+    "path": "/culture/",
+    "result": {
+        "data": {
+            "wpgraphql": {
+                "page": {
+                    "title": "Culture",
+                    "cultureacf": {
+                        "ourTenetsSectionName": "Our values",
+                        "ourTenetsContent": [
+                            {
+                                "text": "Centralising collaboration brings a vibrant exchange of ideas and resources, maximising our collective expertise.",
+                                "title": "Collaboration <br />\r\n& Transparency",
+                                "image": {
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/tenets-1.jpg",
+                                    "mediaItemId": 1060,
+                                    "modified": "2021-04-05 10:20:30",
+                                    "localImageFile": {
+                                        "childImageSharp": {
+                                            "original": {
+                                                "src": "/static/tenets-1-4a47561c1a2c7b2d8e1c014e6fbb87c1.jpg",
+                                                "width": 516
+                                            },
+                                            "fluid": {
+                                                "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQA/9oADAMBAAIQAxAAAAF51hk8vLRQtazRNZnF4o//xAAbEAADAAMBAQAAAAAAAAAAAAABAgMABBIRMv/aAAgBAQABBQI1KYKln3bMuxTqy+VGNotcp0uKeA2/CbVw/Wf/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRAxIx/9oACAEDAQE/AV0ljdiiqNmf/8QAGREAAwADAAAAAAAAAAAAAAAAAAECERIh/9oACAECAQE/AWKlgddNUf/EACAQAQACAQQCAwAAAAAAAAAAAAEAAhEQEiFBMVFhcYH/2gAIAQEABj8CFdMFk4hg8T2/E3t06hXFzHeJWq82ib0/IaH0T//EAB4QAQACAgIDAQAAAAAAAAAAAAEAESExQVEQscHw/9oACAEBAAE/ISwU4auCBrTqKcEYIcHq1HBCoqxoidQdLi2IZVrh2dZmdsR4/wBfU4/LBP/aAAwDAQACAAMAAAAQb++B/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxA6AZjuqTtf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxCEqThuGKB//8QAHxABAAICAgIDAAAAAAAAAAAAARExACFhcRCxQaHB/9oACAEBAAE/EJ4JRlC7Lx5HGwRqBMKQGkIrkx7KUdQhnfZeOEoBeIN/eV0yRkFM4Gz2ZVPkw4D003E11hl3JCvks4by/b9z0+zxl//Z",
+                                                "aspectRatio": 0.8012820512820513,
+                                                "src": "/static/4a47561c1a2c7b2d8e1c014e6fbb87c1/ba9ae/tenets-1.jpg",
+                                                "srcSet": "/static/4a47561c1a2c7b2d8e1c014e6fbb87c1/86d0f/tenets-1.jpg 125w,\n/static/4a47561c1a2c7b2d8e1c014e6fbb87c1/520da/tenets-1.jpg 250w,\n/static/4a47561c1a2c7b2d8e1c014e6fbb87c1/ba9ae/tenets-1.jpg 500w,\n/static/4a47561c1a2c7b2d8e1c014e6fbb87c1/8077d/tenets-1.jpg 516w",
+                                                "sizes": "(max-width: 500px) 100vw, 500px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "text": "We invest in the growth and development of our team members to support them in reaching their full potential.",
+                                "title": "Nurturing<br />\r\nGreat Talent",
+                                "image": {
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/tenets-2.jpg",
+                                    "mediaItemId": 1061,
+                                    "modified": "2021-04-05 10:20:31",
+                                    "localImageFile": {
+                                        "childImageSharp": {
+                                            "original": {
+                                                "src": "/static/tenets-2-0fc0a33e372a11547e28d1f8209a5b6d.jpg",
+                                                "width": 400
+                                            },
+                                            "fluid": {
+                                                "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/aAAwDAQACEAMQAAAB25I5w8R0jDPsk3AKz//EABwQAAEEAwEAAAAAAAAAAAAAAAMBAgQTABESIf/aAAgBAQABBQIjq0mbrVCbKW2RCIj8MDog/T1sTJD3IT//xAAaEQADAAMBAAAAAAAAAAAAAAAAAQISITEy/9oACAEDAQE/AZpS9mKJ8D6f/8QAGhEBAAEFAAAAAAAAAAAAAAAAABEBAhIxMv/aAAgBAgEBPwGJZLu1NP/EACAQAAEDBAIDAAAAAAAAAAAAAAEAAhESITFRAxAiMkH/2gAIAQEABj8CQjMdTVDGjGyqOVxv6hX46kG/NIeAzpWcQv/EAB0QAQADAAIDAQAAAAAAAAAAAAEAETFRYSFBcdH/2gAIAQEAAT8hoGtdnczl7+xHTrhZRdz22ADzBRRchEpNvVkAIFBXCJz5D2z/2gAMAwEAAgADAAAAEKc3Av/EABkRAAMAAwAAAAAAAAAAAAAAAAABMRFR0f/aAAgBAwEBPxBAab4PNSxY/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMWH/2gAIAQIBAT8QcHOCaYZGR//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExQXGRocH/2gAIAQEAAT8QYocCihrz3m1KOBLBl+Lkw7RnTBAaoDHs41rH191glW16rMC/yPqfJjnoBFQjROMaNIgCr1rAYzVHB0fhn//Z",
+                                                "aspectRatio": 1.1261261261261262,
+                                                "src": "/static/0fc0a33e372a11547e28d1f8209a5b6d/c2a2a/tenets-2.jpg",
+                                                "srcSet": "/static/0fc0a33e372a11547e28d1f8209a5b6d/86d0f/tenets-2.jpg 125w,\n/static/0fc0a33e372a11547e28d1f8209a5b6d/520da/tenets-2.jpg 250w,\n/static/0fc0a33e372a11547e28d1f8209a5b6d/c2a2a/tenets-2.jpg 400w",
+                                                "sizes": "(max-width: 400px) 100vw, 400px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "text": "We focus on succeeding together and delivering the best outcomes for our collective long-standing success.",
+                                "title": "Long-Term<br />\r\nMindset",
+                                "image": {
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/tenets-3.jpg",
+                                    "mediaItemId": 1062,
+                                    "modified": "2021-04-05 10:20:32",
+                                    "localImageFile": {
+                                        "childImageSharp": {
+                                            "original": {
+                                                "src": "/static/tenets-3-d1e4a4c88fd8909a545fdd0d0cba1c01.jpg",
+                                                "width": 320
+                                            },
+                                            "fluid": {
+                                                "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUDBP/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/2gAMAwEAAhADEAAAAb/Tx7CTGh5y6YLmJ6P/xAAaEAADAAMBAAAAAAAAAAAAAAABAgMEEhMR/9oACAEBAAEFAnsIMtdqZybXsU6+kUy3AtjWdmFx0pKjN//EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8Bi9Ssf//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwFFa//EAB8QAAICAgEFAAAAAAAAAAAAAAABAhESITFBUVJxgf/aAAgBAQAGPwJKpScuxjicdBeUVsuj4TeW29lOtlwgmvaP/8QAGxAAAwEAAwEAAAAAAAAAAAAAAAERITFBUYH/2gAIAQEAAT8hdbiCgoUS9Zo08jnyTxs7oVIHHgaWpq7g1QwwgHLD/9oADAMBAAIAAwAAABDv58P/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQBh/9oACAEDAQE/EFLi1nId0b//xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EKriI0//xAAeEAEBAAMAAgMBAAAAAAAAAAABEQAhMWFxQYGx4f/aAAgBAQABPxA45UWhzGglY21C8/uKJ0Oh7wNFZlwAg+cL4aFrxhnxgWSv5khmIBgecNuQgCCM11DL0wXo/b6z/9k=",
+                                                "aspectRatio": 0.8503401360544217,
+                                                "src": "/static/d1e4a4c88fd8909a545fdd0d0cba1c01/ef340/tenets-3.jpg",
+                                                "srcSet": "/static/d1e4a4c88fd8909a545fdd0d0cba1c01/86d0f/tenets-3.jpg 125w,\n/static/d1e4a4c88fd8909a545fdd0d0cba1c01/520da/tenets-3.jpg 250w,\n/static/d1e4a4c88fd8909a545fdd0d0cba1c01/ef340/tenets-3.jpg 320w",
+                                                "sizes": "(max-width: 320px) 100vw, 320px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "text": "We embrace a long-term learning process by examining past decisions, learning from mistakes and improving through practice.",
+                                "title": "Growth From<br />\r\nLearning",
+                                "image": {
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/tenets-4.jpg",
+                                    "mediaItemId": 1063,
+                                    "modified": "2021-04-05 10:20:33",
+                                    "localImageFile": {
+                                        "childImageSharp": {
+                                            "original": {
+                                                "src": "/static/tenets-4-dc161ec91252aedcc45df4836df3b545.jpg",
+                                                "width": 516
+                                            },
+                                            "fluid": {
+                                                "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBQT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAd8n9qa6BIkNbRtoKEif/8QAHxAAAgECBwAAAAAAAAAAAAAAAgMBADIFERIhMTRC/9oACAEBAAEFAl8eZKsNYwjnKSO5ZaHLAQEi3Z3Isr//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGFP//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/AWP/xAAeEAABAwQDAAAAAAAAAAAAAAABAAIQESFBUWFxcv/aAAgBAQAGPwKXVJO01uReAeUTnZg+0e4//8QAHhABAAICAQUAAAAAAAAAAAAAAQARITFBUWFxofD/2gAIAQEAAT8h3711uFbvMqQviGYLydRUjI+MwwjhDZQzAdamlMyxs+fvPbRn/9oADAMBAAIAAwAAABA0Bn3/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QIFmT/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREDH/2gAIAQIBAT8QYpF3P//EAB4QAQACAgMAAwAAAAAAAAAAAAEAESFBMWGhcbHw/9oACAEBAAE/EA0NsKs6eSigCqhauVRxG4gFVzKVz1mL8KTHAKPWAQBkF+amDMhYRWtbzL46IFBqVY4xPM+k/c6nKf/Z",
+                                                "aspectRatio": 0.8012820512820513,
+                                                "src": "/static/dc161ec91252aedcc45df4836df3b545/ba9ae/tenets-4.jpg",
+                                                "srcSet": "/static/dc161ec91252aedcc45df4836df3b545/86d0f/tenets-4.jpg 125w,\n/static/dc161ec91252aedcc45df4836df3b545/520da/tenets-4.jpg 250w,\n/static/dc161ec91252aedcc45df4836df3b545/ba9ae/tenets-4.jpg 500w,\n/static/dc161ec91252aedcc45df4836df3b545/8077d/tenets-4.jpg 516w",
+                                                "sizes": "(max-width: 500px) 100vw, 500px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "ourTenetsImageLarge": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/tenets-lg.jpg",
+                            "mediaItemId": 1059,
+                            "modified": "2021-04-05 10:19:53",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/tenets-lg-51ec14c251930c91c4869b151d43cd54.jpg",
+                                        "width": 1920
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAAB0mA2d2OK/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAAwQx/9oACAEBAAEFAsrA147BGCk4+Z43f//EABcRAAMBAAAAAAAAAAAAAAAAAAECECH/2gAIAQMBAT8BUbP/xAAWEQADAAAAAAAAAAAAAAAAAAABAhD/2gAIAQIBAT8BYz//xAAbEAADAAIDAAAAAAAAAAAAAAAAAQIQUTFygf/aAAgBAQAGPwKlqik9nBfdHuP/xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhMVFxkfD/2gAIAQEAAT8hknap7FFgOrLCH82xs8Sg/9oADAMBAAIAAwAAABC4P//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QPEgPL//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAgEBPxDBhUv/xAAfEAEAAgEDBQAAAAAAAAAAAAABABEhMUFRgZGxwfH/2gAIAQEAAT8QI62pzh4gLnRDpLwy1Vxl1y29oYGP2jQpcntn/9k=",
+                                        "aspectRatio": 1.7777777777777777,
+                                        "src": "/static/51ec14c251930c91c4869b151d43cd54/b1e91/tenets-lg.jpg",
+                                        "srcSet": "/static/51ec14c251930c91c4869b151d43cd54/ce222/tenets-lg.jpg 480w,\n/static/51ec14c251930c91c4869b151d43cd54/39fae/tenets-lg.jpg 960w,\n/static/51ec14c251930c91c4869b151d43cd54/b1e91/tenets-lg.jpg 1920w",
+                                        "sizes": "(max-width: 1920px) 100vw, 1920px"
+                                    }
+                                }
+                            }
+                        },
+                        "communityInitiatives": {
+                            "name": "Community Initiatives",
+                            "title": "Social Impact",
+                            "text": "We actively encourage a culture & mindset of giving back and we continue to support a number of initiatives to promote charitable efforts and effective community interactions.",
+                            "imageCaption": "“Complete Immersion” by artist Martin Wade, part of Brevan Howard’s “Art for Good Causes” programme",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/social-impact.jpg",
+                                "mediaItemId": 1064,
+                                "modified": "2021-04-05 10:22:24",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/social-impact-2668d93b5ddb15c149809b6ea17f7935.jpg",
+                                            "width": 746
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAANABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAUpCtBTLF//EABsQAQACAgMAAAAAAAAAAAAAAAIDBAABERMh/9oACAEBAAEFArDsByOTv27GCRCccPNx+//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAABEBAP/aAAgBAgEBPwFZIZ3/xAAgEAABAwMFAQAAAAAAAAAAAAABABEhAgMxEhMyYYGR/9oACAEBAAY/AreyKmIkAOhQDC5V+BaMhnRzPai7c+r/xAAcEAEAAwACAwAAAAAAAAAAAAABABEhUXExQcH/2gAIAQEAAT8hA1X6AbBCfO8mXg2ipabw2RJYJ6jo6jFAHR+T/9oADAMBAAIAAwAAABAHP//EABgRAAMBAQAAAAAAAAAAAAAAAAABESFh/9oACAEDAQE/EJG9J0//xAAYEQACAwAAAAAAAAAAAAAAAAABEBEhof/aAAgBAgEBPxA1AI1P/8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFBYZGx/9oACAEBAAE/EDSiUM9HkfrRYXcM0gUbnBLeZN/RUT3usyKOCVWvw5yR+AdfsUz/2Q==",
+                                            "aspectRatio": 1.492063492063492,
+                                            "src": "/static/2668d93b5ddb15c149809b6ea17f7935/74330/social-impact.jpg",
+                                            "srcSet": "/static/2668d93b5ddb15c149809b6ea17f7935/9b206/social-impact.jpg 188w,\n/static/2668d93b5ddb15c149809b6ea17f7935/f34a2/social-impact.jpg 375w,\n/static/2668d93b5ddb15c149809b6ea17f7935/74330/social-impact.jpg 746w",
+                                            "sizes": "(max-width: 746px) 100vw, 746px"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "brevanExperience": {
+                            "columnTextLeft": "Central to our unique culture are our people, whose innovation and application are the bedrock of Brevan Howard and fuel our collective success.<br />\r\n<br />\r\nWe bring together talented and devoted individuals with a wide range of synergistic skills and independent thinking and support them via a deeply collaborative firm culture that rewards results, taking initiative and succeeding with integrity. ",
+                            "columnTextRight": "We support our team members in reaching their full potential by investing in their growth and development whilst also ensuring they have the best possible tools to succeed through our market leading technology and infrastructure.<br />\r\n<br />\r\nOur diverse and inclusive global community is relationship-centric, committed to building and sustaining long-term internal and external partnerships, that are grounded in trust and transparency.",
+                            "name": "our culture",
+                            "title": "The Brevan Howard <br />\r\nExperience",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/bh-exp-culture.jpg",
+                                "mediaItemId": 1056,
+                                "modified": "2021-04-05 10:11:42",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/bh-exp-culture-424bead7e006329dc296928c1be21c59.jpg",
+                                            "width": 1600
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFCawD/xAAZEAADAQEBAAAAAAAAAAAAAAABAgMFEhX/2gAIAQEAAQUCjpEr6DRLas+v/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BZ//EABsQAAEFAQEAAAAAAAAAAAAAAAEAAhESIRMi/9oACAEBAAY/Aj1aHSc1PtABPmplZ0X/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPyEO0ThzyJo2pXD5sclkeqMn/9oADAMBAAIAAwAAABADz//EABcRAQADAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8QjFP/xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8QBZn/xAAbEAEBAQACAwAAAAAAAAAAAAABESEAQTFRYf/aAAgBAQABPxA7017nSAyT3wjqhhSaKGneTebZ4UNfPOc//9k=",
+                                            "aspectRatio": 2.5,
+                                            "src": "/static/424bead7e006329dc296928c1be21c59/3c629/bh-exp-culture.jpg",
+                                            "srcSet": "/static/424bead7e006329dc296928c1be21c59/c2a2a/bh-exp-culture.jpg 400w,\n/static/424bead7e006329dc296928c1be21c59/807a7/bh-exp-culture.jpg 800w,\n/static/424bead7e006329dc296928c1be21c59/3c629/bh-exp-culture.jpg 1600w",
+                                            "sizes": "(max-width: 1600px) 100vw, 1600px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/culture-intro-mobile.jpg",
+                                "mediaItemId": 1131,
+                                "modified": "2021-04-08 08:44:02",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/culture-intro-mobile-05b205b7150145bf1630f31b68943e65.jpg",
+                                            "width": 660
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABeZxTRq8QiP/EABkQAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/aAAgBAQABBQLV6C2NHgi63RgZowAS8mxaSz//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwEn/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BSf/EACAQAAICAQMFAAAAAAAAAAAAAAECABESEyFRIjFBYZL/2gAIAQEABj8CbNlXgRn1ve0NvRvzLwW+TOtSdj2ENJ9AT//EABwQAQEBAAMAAwAAAAAAAAAAAAERACExQVGBsf/aAAgBAQABPyGT0SXfx97jHCoQ5C5rY70uQqIXymcY0kAzKuL6H83/2gAMAwEAAgADAAAAEMMP/8QAGREAAQUAAAAAAAAAAAAAAAAAAAERITFR/9oACAEDAQE/EJPotn//xAAWEQEBAQAAAAAAAAAAAAAAAAARAQD/2gAIAQIBAT8QhB0Df//EABsQAQACAwEBAAAAAAAAAAAAAAERIQAxQVGB/9oACAEBAAE/EB1bu9mUr6uuYmCJUGtAlrjQ6JBwifE+jljZBC2CWmTkYFAAB6t7fmFWcqqYO4//2Q==",
+                                            "aspectRatio": 1.4184397163120568,
+                                            "src": "/static/05b205b7150145bf1630f31b68943e65/b6ae7/culture-intro-mobile.jpg",
+                                            "srcSet": "/static/05b205b7150145bf1630f31b68943e65/00333/culture-intro-mobile.jpg 200w,\n/static/05b205b7150145bf1630f31b68943e65/c2a2a/culture-intro-mobile.jpg 400w,\n/static/05b205b7150145bf1630f31b68943e65/b6ae7/culture-intro-mobile.jpg 660w",
+                                            "sizes": "(max-width: 660px) 100vw, 660px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageLarge": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2022/05/BH_office_interior.png",
+                                "mediaItemId": 1432,
+                                "modified": "2022-05-30 16:04:11",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/BH_office_interior-adfccbffad9fc04f57f27cee4a4b6568.png",
+                                            "width": 1920
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADKUlEQVQozx2QW0yTBxSA/6cFpNEYojPTdrKwaYwbOuqAyDQsGqK7xEWHLtseME4297Ali4FBakYyYQ1jm8BmQUEuJRQZkxYYQZyuOO3oCm2hQC9cS6WlpfSqdXv59o+Hk5OTnPOd7xwhHPTzOBYmGg7yaM6J2zlFLLyK8c8/0Ha3MTTQRSIWJBby419eoKqyFO/S7HoN/3Jb28GtFhX/RFYJ+5cR1lZXRGCEWCSEZ9YhQh08TcRFoJ5h/R0MhmES8TCRUIDAiofu7nZWvG7i0SDO6XHqqivo6WwjsbbCmncJISQC49GwuHWRecckS7N20TDIyAM95lETExPjPH0SJSJaR8UYHzWs51jYT6XiEpIt6ZR8VUYi+Ajfgks0DPhYds/jslmYnZ4Qsxm3axKD/i5WyxjTU1MkHv9/QZBVsXf4dh8uq5H4mpe6qmqStu6mqOgCcd8CvnkHQsDnwTluZtExwfKcHY/LRmBpZh1oMY/hsNuJi+9wLy5gNlv4/d49+sUT9YM6isvKeSY1nQuffkbI7RRnJxFs4lDZRQVKRTl9XRo0rU0oSooZ0GkxmUxYLFZmXDMYjaM8MIzQ3dPLrxoN75/+gIN577Blu2h4/hOeeOfw2K0IvbVXOHvuc/btyUGekU3azhc5nJtHR5ua3r7f+Gvkb2y2SUZNZu7ff0iz+iY9mk6+LyvhzNsnkMp2cez4CRpqain+4kuE1ksKLn9dgTzzMLnZhziYeYD8I8f4TqnkvVMF3NL1Yxyzckf/kP4hPdfVXfQP3qVVreFM/lGkaXuQ7ZJzJO84OVmHEAoLCig6d578o29y4NVMdu6QkiWX80PVt1yuKKex6RrXG+upu1pH9ZVqlFWVKJXfUFp6kW3bnmNz6rOkbt2OdIeMNJkUIS/nNT46+S6Fp0/y1huvs/elF8ja9zI3rtWj0/UwNDTIwEAfWu0v3OxU065u4kajioarNaQ9L2VDUhIbkpPZKEkhJTkJ4eOzhRQVfkiufD9ZGXvJ2J1O9v5XUP1US3u7mo5ODfUNDbS0ttDcLMJEY5XqZ2pqfkQmlYogCZIUCZs3bRRjE/8BpJFuOf24+qUAAAAASUVORK5CYII=",
+                                            "aspectRatio": 1.7777777777777777,
+                                            "src": "/static/adfccbffad9fc04f57f27cee4a4b6568/87046/BH_office_interior.png",
+                                            "srcSet": "/static/adfccbffad9fc04f57f27cee4a4b6568/74ce8/BH_office_interior.png 480w,\n/static/adfccbffad9fc04f57f27cee4a4b6568/2d886/BH_office_interior.png 960w,\n/static/adfccbffad9fc04f57f27cee4a4b6568/87046/BH_office_interior.png 1920w",
+                                            "sizes": "(max-width: 1920px) 100vw, 1920px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageLargeMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/culture-large-mobile.jpg",
+                                "mediaItemId": 1134,
+                                "modified": "2021-04-08 08:44:41",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/culture-large-mobile-fbe4cdbd6d56b99d907ca9ebb8684e53.jpg",
+                                            "width": 780
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAYCBAUD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHt4bc2NI9Bcac70dosEeKnmytcN//EAB8QAAICAQQDAAAAAAAAAAAAAAECAAMRBBQVIRITMf/aAAgBAQABBQLSju9BudvSYjKGF9nKA9WBnWt/Xq+TUQgQ/ctPNs3dPmf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AV//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AV//xAAkEAACAQEHBQEAAAAAAAAAAAAAAQIxAxARITNRcRIiQWGRcv/aAAgBAQAGPwK2/ZYdq95GlH4NbkIuba6qXPB+dyznLPBmnIrL6Pkqyo+bv//EAB4QAQACAQQDAAAAAAAAAAAAAAEAETEQIUFRYbHx/9oACAEBAAE/IRMVLiSFFacioAtiwjVZ5jbIe7ibCEbD0owV2co3cwDSQaVXlPsQoQNv29y0/9oADAMBAAIAAwAAABDD8DOPz//EABcRAAMBAAAAAAAAAAAAAAAAAAAQEUH/2gAIAQMBAT8Qrpi//8QAFxEBAQEBAAAAAAAAAAAAAAAAARARAP/aAAgBAgEBPxANg9hf/8QAHhABAAMAAgIDAAAAAAAAAAAAAQARITFBUXGxwdH/2gAIAQEAAT8QP64BWcS9iXCrHJ3tQIuvdYZgTp3Jb6YkvGJgRw8H5E5OoSVWFiO6emIgC5op89+4gFAObGWAyeacLkAA8hbG770Bofc2F3501d7n/9k=",
+                                            "aspectRatio": 0.5571030640668524,
+                                            "src": "/static/fbe4cdbd6d56b99d907ca9ebb8684e53/4e86b/culture-large-mobile.jpg",
+                                            "srcSet": "/static/fbe4cdbd6d56b99d907ca9ebb8684e53/00333/culture-large-mobile.jpg 200w,\n/static/fbe4cdbd6d56b99d907ca9ebb8684e53/c2a2a/culture-large-mobile.jpg 400w,\n/static/fbe4cdbd6d56b99d907ca9ebb8684e53/4e86b/culture-large-mobile.jpg 780w",
+                                            "sizes": "(max-width: 780px) 100vw, 780px"
+                                        }
+                                    }
+                                }
+                            },
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "Join the Team",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/careers/"
+                                }
+                            }
+                        },
+                        "responsibilitySection": {
+                            "text": "Responsible investing and management principles are integral to our philosophy and mission. We incorporate ESG considerations through a range of initiatives across the firm and when applicable, into our investment decisions.",
+                            "title": "Responsibility",
+                            "name": "Corporate Responsibility",
+                            "membershipTitle": "Industry Leadership<br />\r\n& Membership",
+                            "sustainabilityTitle": "Sustainability <br />\r\nInitiatives",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/corporate-responsibility.jpg",
+                                "mediaItemId": 1067,
+                                "modified": "2021-04-05 10:24:10",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/corporate-responsibility-860b60f2f7acbbc5a28827c4299ce343.jpg",
+                                            "width": 802
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/2gAMAwEAAhADEAAAAb0oQzzOmT//xAAZEAADAQEBAAAAAAAAAAAAAAABAgMTAAT/2gAIAQEAAQUCtBm5fLUhqFTfVX8+tFzI7//EABURAQEAAAAAAAAAAAAAAAAAABAS/9oACAEDAQE/AaP/xAAZEQACAwEAAAAAAAAAAAAAAAAAARESE2H/2gAIAQIBAT8ByTclOn//xAAgEAABAwIHAAAAAAAAAAAAAAABAAIRA1EEEiEiMUGR/9oACAEBAAY/AtADa6DgckKKmHbUd24qWmCAt3pXK//EABwQAQADAQADAQAAAAAAAAAAAAEAESExQWFxkf/aAAgBAQABPyEvhDR/UA71Dis87Cob8zkYDKV7lsu9xIZGf//aAAwDAQACAAMAAAAQm+//xAAYEQACAwAAAAAAAAAAAAAAAAAAARFBUf/aAAgBAwEBPxBUJeH/xAAYEQEBAAMAAAAAAAAAAAAAAAABABFBof/aAAgBAgEBPxByJk64v//EAB8QAQACAgICAwAAAAAAAAAAAAERIQAxQVFxgZGx8P/aAAgBAQABPxCKrtVpHA+veE5i0aKIXVbn4vFSf2S/l7yVhTQQ0pHDUTkgCuSqPfjANndGf//Z",
+                                            "aspectRatio": 1.3605442176870748,
+                                            "src": "/static/860b60f2f7acbbc5a28827c4299ce343/807a7/corporate-responsibility.jpg",
+                                            "srcSet": "/static/860b60f2f7acbbc5a28827c4299ce343/00333/corporate-responsibility.jpg 200w,\n/static/860b60f2f7acbbc5a28827c4299ce343/c2a2a/corporate-responsibility.jpg 400w,\n/static/860b60f2f7acbbc5a28827c4299ce343/807a7/corporate-responsibility.jpg 800w,\n/static/860b60f2f7acbbc5a28827c4299ce343/cf126/corporate-responsibility.jpg 802w",
+                                            "sizes": "(max-width: 800px) 100vw, 800px"
+                                        }
+                                    }
+                                }
+                            },
+                            "sustainabilityImage": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/sustainability.jpg",
+                                "mediaItemId": 1072,
+                                "modified": "2021-04-05 10:31:09",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/sustainability-fe253c4fa76499899b639c3e62dde808.jpg",
+                                            "width": 480
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBAwIFBv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAd/ZbhMyXg+BalPAdEil/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECEgMREyIx/9oACAEBAAEFAlAoVNoWRWE5yfbXK0PxiP/EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwEiM//EABgRAQEAAwAAAAAAAAAAAAAAAAARAQIS/9oACAECAQE/AarG3Sv/xAAdEAACAgEFAAAAAAAAAAAAAAABEAAREiExYYGR/9oACAEBAAY/AnvMbCsH2a2DzKzK7X//xAAeEAACAgEFAQAAAAAAAAAAAAAAAREhMUFRYXGRgf/aAAgBAQABPyEUhE4XpZvQUbovRjozC7pRkcV7FknVsVJ/CNVvJ//aAAwDAQACAAMAAAAQQANB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAwEBPxAJzE0N/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBECH/2gAIAQIBAT8Q3RoaD//EAB4QAQEBAAICAwEAAAAAAAAAAAERACExQVFhgaHw/9oACAEBAAE/EA9b1sS6wQNRZYzHRrGOj+NUoh8OROPQT+3eUWDAuRzYnjK0+E85fvJImAZxZPWYgTxPUM2UkRyu/9k=",
+                                            "aspectRatio": 0.7361963190184049,
+                                            "src": "/static/fe253c4fa76499899b639c3e62dde808/ce222/sustainability.jpg",
+                                            "srcSet": "/static/fe253c4fa76499899b639c3e62dde808/2d034/sustainability.jpg 120w,\n/static/fe253c4fa76499899b639c3e62dde808/2ae96/sustainability.jpg 240w,\n/static/fe253c4fa76499899b639c3e62dde808/ce222/sustainability.jpg 480w",
+                                            "sizes": "(max-width: 480px) 100vw, 480px"
+                                        }
+                                    }
+                                }
+                            },
+                            "list": [
+                                {
+                                    "text": "Carbon offsets <br />\r\nfor plane travel"
+                                },
+                                {
+                                    "text": "In-office <br />\r\nrecycling facilities"
+                                },
+                                {
+                                    "text": "No single use <br />\r\nplastics "
+                                },
+                                {
+                                    "text": "Various energy <br />\r\nsaving initiatives"
+                                },
+                                {
+                                    "text": "Funding for sustainable <br />\r\ndevelopment projects"
+                                }
+                            ],
+                            "logoList": [
+                                {
+                                    "text": "Member of the AIMA Sustainable Investment Working Group",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/aima.jpg",
+                                        "mediaItemId": 1066,
+                                        "modified": "2021-04-05 10:23:11",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/aima-8cdac367ab782032455280ab0ec462c8.jpg",
+                                                    "width": 178
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "text": "A climate neutral company through a carbon offsetting programme that is run and certified by Climate Impact Partners",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2023/02/cip-bm-01-b68c083db64a3b37975386166bfce032-1.png",
+                                        "mediaItemId": 1596,
+                                        "modified": "2023-02-28 13:30:41",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/cip-bm-01-b68c083db64a3b37975386166bfce032-1-b68c083db64a3b37975386166bfce032.png",
+                                                    "width": 232
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "text": "Signatory for the UNPRI since July 2020",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/pri-logo.png",
+                                        "mediaItemId": 1070,
+                                        "modified": "2021-04-05 10:25:55",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/pri-logo-b9394c44ea6baebd5ec1b897dcb2ed2d.png",
+                                                    "width": 277
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "banner": {
+                            "name": null,
+                            "title": "Careers at<br />\r\nBrevan Howard",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/pre-footer-cu.jpg",
+                                "mediaItemId": 1074,
+                                "modified": "2021-04-05 10:33:17",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/pre-footer-cu-4da65c5beb7c7e48521ca07d4847f126.jpg",
+                                            "width": 1920
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/2gAMAwEAAhADEAAAAc1fBqhn/8QAGxAAAgEFAAAAAAAAAAAAAAAAAgMAAQQREyH/2gAIAQEAAQUC5m2UB01tn//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhL/2gAIAQMBAT8Bwo3Jf//EABgRAAIDAAAAAAAAAAAAAAAAAAABAhIh/9oACAECAQE/AZrCzP/EABsQAAIBBQAAAAAAAAAAAAAAAAABEQMhIjFR/9oACAEBAAY/AhRUy41ocWP/xAAYEAEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAgBAQABPyEyjuqEqhQhs7q7P//aAAwDAQACAAMAAAAQ88//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QE4ztf//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxAlrGF//8QAGhABAQACAwAAAAAAAAAAAAAAAREAMSFBcf/aAAgBAQABPxBqqvmQSnAkWQebd49AhQ3Vd95//9k=",
+                                            "aspectRatio": 2.4096385542168677,
+                                            "src": "/static/4da65c5beb7c7e48521ca07d4847f126/807a7/pre-footer-cu.jpg",
+                                            "srcSet": "/static/4da65c5beb7c7e48521ca07d4847f126/00333/pre-footer-cu.jpg 200w,\n/static/4da65c5beb7c7e48521ca07d4847f126/c2a2a/pre-footer-cu.jpg 400w,\n/static/4da65c5beb7c7e48521ca07d4847f126/807a7/pre-footer-cu.jpg 800w,\n/static/4da65c5beb7c7e48521ca07d4847f126/f43cc/pre-footer-cu.jpg 1200w,\n/static/4da65c5beb7c7e48521ca07d4847f126/3c629/pre-footer-cu.jpg 1600w,\n/static/4da65c5beb7c7e48521ca07d4847f126/b1e91/pre-footer-cu.jpg 1920w",
+                                            "sizes": "(max-width: 800px) 100vw, 800px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/culture-banner-m.jpg",
+                                "mediaItemId": 1129,
+                                "modified": "2021-04-08 08:43:45",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/culture-banner-m-5d79d91a10bb9e76a246aa57b65c5822.jpg",
+                                            "width": 780
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAiABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQFAgb/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/2gAMAwEAAhADEAAAAcO2eTCXI2ppWYnWh9CkC2ReMeeLP//EABwQAAIDAQADAAAAAAAAAAAAAAECAAMRBBMiMv/aAAgBAQABBQL5FCqzbLqrBZriCC4iV2hp4q5sV8KdPrOlQEn/xAAcEQABAwUAAAAAAAAAAAAAAAAAARMhAhASUWH/2gAIAQMBAT8Bcgf4JBnToS3/xAAbEQABBAMAAAAAAAAAAAAAAAAAAQIQExIhUf/aAAgBAgEBPwHDZSKVv7P/xAAgEAACAQEJAAAAAAAAAAAAAAAAASEQAhESICIxMkFh/9oACAEBAAY/AknuaiDG1Hh2iaSzgstm5JU//8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFBYXGh/9oACAEBAAE/IThtpoFKWmUbdLxHNvlzlhfy4yyXa4zuYlhvcyKurapGElURy+zp9iap4Q1P/9oADAMBAAIAAwAAABDc3vAL3//EABsRAAMAAgMAAAAAAAAAAAAAAAABERAhMUGx/9oACAEDAQE/EJUmuvRTVC7xwx//xAAZEQADAQEBAAAAAAAAAAAAAAAAAREhEDH/2gAIAQIBAT8Q3RL2iJqMdMD95//EAB4QAQACAgIDAQAAAAAAAAAAAAEAESFBMVFhcYGx/9oACAEBAAE/EH6WHmniYCCBEGjwwdyKw6vEVE7rADA9ROCgtRFdnQwXop2QQrxq4tfAQIfIq0EBVXdxazAiKVErJb5QBFBEfse2LtEWJ2Z//9k=",
+                                            "aspectRatio": 0.5813953488372093,
+                                            "src": "/static/5d79d91a10bb9e76a246aa57b65c5822/4e86b/culture-banner-m.jpg",
+                                            "srcSet": "/static/5d79d91a10bb9e76a246aa57b65c5822/00333/culture-banner-m.jpg 200w,\n/static/5d79d91a10bb9e76a246aa57b65c5822/c2a2a/culture-banner-m.jpg 400w,\n/static/5d79d91a10bb9e76a246aa57b65c5822/4e86b/culture-banner-m.jpg 780w",
+                                            "sizes": "(max-width: 780px) 100vw, 780px"
+                                        }
+                                    }
+                                }
+                            },
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "More Details",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/careers/"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "pageContext": {
+            "id": "cG9zdDo1MQ=="
+        }
+    },
+    "staticQueryHashes": [
+        "1296785774",
+        "2997433256",
+        "63159454",
+        "886364674"
+    ]
+}

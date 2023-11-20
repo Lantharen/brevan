@@ -1,0 +1,33 @@
+{
+    "data": {
+        "wpgraphql": {
+            "themeSettings": {
+                "themesettingsacf": {
+                    "contactIrEmail": "ir@brevanhoward.com",
+                    "contactIrLabel": "Investor Relations / Fund Enquiries:",
+                    "contactIrPhoneLink": "+442070226250",
+                    "contactIrPhoneText": "UK: +44 20 7022 6250",
+                    "otherEnquiriesEmail": "enquiries@brevanhoward.com",
+                    "otherEnquiriesLabel": "All Other Enquiries:",
+                    "otherEnquiriesPhoneLink": "+442070226200",
+                    "otherEnquiriesPhoneText": "+44 20 7022 6200",
+                    "pressEnquiriesGroupName": "Hillary Yaffe </br> Head of Communications",
+                    "pressEnquiriesLabel": "Press Enquiries:",
+                    "pressEnquiriesUkEmail": "Hillary.Yaffe@brevanhoward.com",
+                    "pressEnquiriesUkEmailText": "Hillary.Yaffe@brevanhoward.com",
+                    "pressEnquiriesUkPhoneLink": "+12126027938",
+                    "pressEnquiriesUsaEmail": "bh@peregrinecommunications.com",
+                    "pressEnquiriesUkPhoneText": "+ 1 (212) 602–7938",
+                    "pressEnquiriesUsaEmailText": "bh@peregrinecommunications.com",
+                    "pressEnquiriesUsaPhoneLink": null,
+                    "pressEnquiriesUsaPhoneText": "Peregrine Communications Group",
+                    "siteSocialLabel": "Social:",
+                    "siteSocialLinkedinLink": "https://www.linkedin.com/company/brevan-howard/",
+                    "siteSocialLinkedinLinkText": "linkedin.com/brevanhoward",
+                    "siteSocialBhDigitalLinkedinLink": "https://uk.linkedin.com/company/bh-digital-brevanhoward",
+                    "siteSocialBhDigitalLinkedinLinkText": "https://www.linkedin.com/company/bh-digital-brevanhoward/"
+                }
+            }
+        }
+    }
+}

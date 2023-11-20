@@ -1,0 +1,26 @@
+{
+    "data": {
+        "pointGlobe": null,
+        "jsonPointsGeo": {
+            "publicURL": "/static/aa142ff4ba1b7f260292f4a835b90c46/globe-geo.json"
+        },
+        "jsonPoints": {
+            "publicURL": "/static/413bdbbcfe22a79b9cb0fbcfd0f58b24/globe-points.json"
+        },
+        "gkweb": {
+            "publicURL": "/static/1b347ccdf127d574e67d9f97b68398e4/gkweb_bg.wasm"
+        },
+        "icosphereTexture": {
+            "publicURL": "/static/8b142706c57415405d542f4dfd1ff558/icosphere.png"
+        },
+        "couldsTexture": {
+            "publicURL": "/static/dfddeaeb9c0df8715bb0c0ea05626ceb/clouds.png"
+        },
+        "bgTexture": {
+            "publicURL": "/static/27061c6478f9d37214833b7c853ecde9/bg.png"
+        },
+        "atmosphereTexture": {
+            "publicURL": "/static/9f3b18e03638d565a48517fb6fce3e27/disk.png"
+        }
+    }
+}

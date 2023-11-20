@@ -1,0 +1,624 @@
+{
+    "componentChunkName": "component---src-templates-careers-js",
+    "path": "/careers/",
+    "result": {
+        "data": {
+            "wpgraphql": {
+                "page": {
+                    "title": "Careers",
+                    "careersacf": {
+                        "featuredPositionsVisibility": null,
+                        "featuredPositionsLinkText": "Contact Us",
+                        "featuredPositionsSectionName": "opportunities",
+                        "featuredPositionsTitle": "Featured Positions",
+                        "fpImageTopRight": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/featured-positions-top-right.jpg",
+                            "mediaItemId": 1038,
+                            "modified": "2021-04-05 08:15:23",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/featured-positions-top-right-417160cf80ebdc7c3e955a198ec6411a.jpg",
+                                        "width": 240
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAaABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBAEDBv/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAP/aAAwDAQACEAMQAAABxubVJ6ucwMv1y+qXMiVn/8QAHhAAAQQBBQAAAAAAAAAAAAAAAgABAwQSERMyM0H/2gAIAQEAAQUCBjqMUhZZKcRePadTd0d0BG3cc1qpOfq//8QAGREAAgMBAAAAAAAAAAAAAAAAABIBAhEQ/9oACAEDAQE/AZowg85nP//EABgRAAMBAQAAAAAAAAAAAAAAAAEQEgMR/9oACAECAQE/Aa4hmKpf/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQACEQMQMRMhQRIjQnGx/9oACAEBAAY/Ant8Z2HJQWVg7nIWo4yE6HSumqXzytOk7t/bO93/AP/EAB8QAQADAAEEAwAAAAAAAAAAAAEAESFBMVFhcZGhsf/aAAgBAQABPyEytjZ8koTW9p5UfcVDcGOnmJ0curVfXEIoYW7uL+57pN2Z3iCNe7+xgn//2gAMAwEAAgADAAAAEIfK8//EABgRAQEBAQEAAAAAAAAAAAAAAAEAETFh/9oACAEDAQE/EOokDmz4dl//xAAaEQACAgMAAAAAAAAAAAAAAAAAARARITFR/9oACAECAQE/EO4reRHZcf/EABwQAQEAAgMBAQAAAAAAAAAAAAERACExQXFhUf/aAAgBAQABPxAhDst4DY44NTN6k0tZ7TNNH+SDO+gTPuDzv44SaSyeQ6D8+44z4F87mLW2qYPYBwfMMQ0JBq7bdzAmJpba31mz8zhn/9k=",
+                                        "aspectRatio": 0.7777777777777778,
+                                        "src": "/static/417160cf80ebdc7c3e955a198ec6411a/2ae96/featured-positions-top-right.jpg",
+                                        "srcSet": "/static/417160cf80ebdc7c3e955a198ec6411a/db5a0/featured-positions-top-right.jpg 63w,\n/static/417160cf80ebdc7c3e955a198ec6411a/86d0f/featured-positions-top-right.jpg 125w,\n/static/417160cf80ebdc7c3e955a198ec6411a/2ae96/featured-positions-top-right.jpg 240w",
+                                        "sizes": "(max-width: 240px) 100vw, 240px"
+                                    }
+                                }
+                            }
+                        },
+                        "fpImageBottomLeft": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/featured-positions-bottom-left.jpg",
+                            "mediaItemId": 1042,
+                            "modified": "2021-04-05 08:17:54",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/featured-positions-bottom-left-bc2bc0016864a6c77b6d35ccba4e2ea0.jpg",
+                                        "width": 320
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAhABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQb/xAAXAQEAAwAAAAAAAAAAAAAAAAACAAED/9oADAMBAAIQAxAAAAHfs589MZLZVzkKFk30rmhebsklsFf/xAAeEAACAgICAwAAAAAAAAAAAAABAgADBBEUMRIkQf/aAAgBAQABBQKjtzqalVh5DW+x4Q21nJW5eQMlDEatocesMK1Exoe/n//EABgRAQADAQAAAAAAAAAAAAAAAAEAEBIx/9oACAEDAQE/ATkzAor/xAAZEQACAwEAAAAAAAAAAAAAAAAAEAECEkH/2gAIAQIBAT8B6aJVl//EACMQAAEDAwIHAAAAAAAAAAAAAAEAAiEQERIyYQMxM0FxgZH/2gAIAQEABj8CtsoNMTYDFNYNJ70a4OjGEZgELmmOd8C1EbLqlcD2h4p//8QAIBAAAgEDBQEBAAAAAAAAAAAAAREAITFREEFxgbGh8P/aAAgBAQABPyFibZfYYrh80BHdFnMIAgI92+gYBz5RuK9FgyqIO5XGSQUhXhiS03lHoUHRKXcvU/NzBZP/2gAMAwEAAgADAAAAEKwpQAQf/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREDH/2gAIAQMBAT8QZ0iy1Kzt5//EABkRAAIDAQAAAAAAAAAAAAAAAAABEBFBIf/aAAgBAgEBPxB6KjUcMR//xAAjEAEAAgEBCAMAAAAAAAAAAAABABEhMUFhcYGRobHwEFHR/9oACAEBAAE/EMwAWK+412FYha2k2mhIEtp0JU3wkXYsrl7iCS6OsU+OoYRY9yFdiEdrH5PGDqptU28RGsQRO2U3pllKagQ3jIUBs5wQ84BJW+9X4A7X4j2cZ//Z",
+                                        "aspectRatio": 0.5971223021582733,
+                                        "src": "/static/bc2bc0016864a6c77b6d35ccba4e2ea0/ef340/featured-positions-bottom-left.jpg",
+                                        "srcSet": "/static/bc2bc0016864a6c77b6d35ccba4e2ea0/04e73/featured-positions-bottom-left.jpg 83w,\n/static/bc2bc0016864a6c77b6d35ccba4e2ea0/3cbe1/featured-positions-bottom-left.jpg 165w,\n/static/bc2bc0016864a6c77b6d35ccba4e2ea0/ef340/featured-positions-bottom-left.jpg 320w",
+                                        "sizes": "(max-width: 320px) 100vw, 320px"
+                                    }
+                                }
+                            }
+                        },
+                        "testimonialsHeader": {
+                            "text": "We proudly invest in nurturing and developing our people, striving to make each individual reach their full potential and maximise their success at Brevan Howard.",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/testimonials-header.jpg",
+                                "mediaItemId": 1043,
+                                "modified": "2021-04-05 08:18:01",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/testimonials-header-73f67d6ed183adb8dcd3e4b923cdb759.jpg",
+                                            "width": 1600
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAIABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABm0SKsBP/xAAZEAACAwEAAAAAAAAAAAAAAAABAwACEhP/2gAIAQEAAQUCYMzIFlN6U//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAiH/2gAIAQMBAT8BxkZO3//EABgRAQEAAwAAAAAAAAAAAAAAAAEAAgMR/9oACAECAQE/AdmaQ9L/xAAcEAABBAMBAAAAAAAAAAAAAAABAAIREgMiMWH/2gAIAQEABj8CBKblBDteSprXxf/EABkQAAIDAQAAAAAAAAAAAAAAABEhAAFRQf/aAAgBAQABPyEcNZkrl/qAVKHTAp//2gAMAwEAAgADAAAAEIA//8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oACAEDAQE/EMSARf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAIVH/2gAIAQIBAT8Q0Ozgt//EABoQAQEAAwEBAAAAAAAAAAAAAAERACExYXH/2gAIAQEAAT8QErVzdhSvr1mENYQtWmmBe4duCalE+Ln/2Q==",
+                                            "aspectRatio": 2.5,
+                                            "src": "/static/73f67d6ed183adb8dcd3e4b923cdb759/3c629/testimonials-header.jpg",
+                                            "srcSet": "/static/73f67d6ed183adb8dcd3e4b923cdb759/c2a2a/testimonials-header.jpg 400w,\n/static/73f67d6ed183adb8dcd3e4b923cdb759/807a7/testimonials-header.jpg 800w,\n/static/73f67d6ed183adb8dcd3e4b923cdb759/3c629/testimonials-header.jpg 1600w",
+                                            "sizes": "(max-width: 1600px) 100vw, 1600px"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "testimonialsSection": {
+                            "list": [
+                                {
+                                    "quoteLabel": "portfolio manager",
+                                    "quoteName": "Claire McCathie",
+                                    "quoteText": "The firm’s commitment to portfolio managers’ long-term development and sourcing exceptional talent has created a fulfilling environment which supports and challenges.",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/testimonials-0.jpg",
+                                        "mediaItemId": 1031,
+                                        "modified": "2021-04-05 08:10:42",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/testimonials-0-69247963bcf8c680fc505be38f3c5e0b.jpg",
+                                                    "width": 190
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQFAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB3otGEPRdmJ/AKpFn/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxESE//aAAgBAQABBQInhKrb/TJgKooNk2BALJ//xAAXEQEBAQEAAAAAAAAAAAAAAAABEAIR/9oACAEDAQE/AchyE//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/AWP/xAAdEAAABQUAAAAAAAAAAAAAAAAAARAREgIjUWGx/9oACAEBAAY/AjqwLsY8RjDK+k//xAAdEAADAAICAwAAAAAAAAAAAAAAAREhMRBBUWGR/9oACAEBAAE/Icb2LBHsNwPIo6Gsiu0l+8UrBfTqp7G35P/aAAwDAQACAAMAAAAQxMi+/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EEJYk2f/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QaJkQn//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExURBBgZHB/9oACAEBAAE/EDUz45PEAAWgaU66B+VYjEGxuu7ND4iZg+yqIRqCEOC1X6WBUGT/2Q==",
+                                                    "aspectRatio": 0.9411764705882353,
+                                                    "src": "/static/69247963bcf8c680fc505be38f3c5e0b/d3a74/testimonials-0.jpg",
+                                                    "srcSet": "/static/69247963bcf8c680fc505be38f3c5e0b/12de4/testimonials-0.jpg 48w,\n/static/69247963bcf8c680fc505be38f3c5e0b/77aef/testimonials-0.jpg 95w,\n/static/69247963bcf8c680fc505be38f3c5e0b/d3a74/testimonials-0.jpg 190w",
+                                                    "sizes": "(max-width: 190px) 100vw, 190px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "imageMobile": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/testimonials-0-m.jpg",
+                                        "mediaItemId": 1148,
+                                        "modified": "2021-04-08 13:08:58",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/testimonials-0-m-0a76cc8c2bead743d9d9e9802f4a946d.jpg",
+                                                    "width": 660
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHej0Ig73QxPOFVCz//xAAaEAACAwEBAAAAAAAAAAAAAAACAwABERIT/9oACAEBAAEFAiLhaWP9MmVYqGrZNgBQt25//8QAFxEBAQEBAAAAAAAAAAAAAAAAARACEf/aAAgBAwEBPwHIchP/xAAWEQADAAAAAAAAAAAAAAAAAAABIDH/2gAIAQIBAT8BNT//xAAeEAAABAcAAAAAAAAAAAAAAAABEBFRAAIDEiAhYf/aAAgBAQAGPwIZmhKtqcJBw0xf/8QAGxAAAwEAAwEAAAAAAAAAAAAAAAERITFBcZH/2gAIAQEAAT8hwOxwIaD/AAx6Gz4CBczfexlKlBUVJDR2f//aAAwDAQACAAMAAAAQxw++/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QQliQZ//EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBIJiWZ/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITGRQVGx8P/aAAgBAQABPxCrr1T2fB3La4+KW4J6EU0Gavitg+jZtwq8HUGwyKqqp0bltBrGCqL19ilC/M//2Q==",
+                                                    "aspectRatio": 0.966183574879227,
+                                                    "src": "/static/0a76cc8c2bead743d9d9e9802f4a946d/b6ae7/testimonials-0-m.jpg",
+                                                    "srcSet": "/static/0a76cc8c2bead743d9d9e9802f4a946d/00333/testimonials-0-m.jpg 200w,\n/static/0a76cc8c2bead743d9d9e9802f4a946d/c2a2a/testimonials-0-m.jpg 400w,\n/static/0a76cc8c2bead743d9d9e9802f4a946d/b6ae7/testimonials-0-m.jpg 660w",
+                                                    "sizes": "(max-width: 660px) 100vw, 660px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "quoteLabel": "portfolio manager",
+                                    "quoteName": "Michael Graham",
+                                    "quoteText": "I joined straight from university and worked in several teams before moving into portfolio management. The environment is very open and I enjoy learning from the talented people around me. We have a pragmatic and collaborative approach to markets.",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/testimonials-1.jpg",
+                                        "mediaItemId": 1030,
+                                        "modified": "2021-04-05 08:10:41",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/testimonials-1-6c889abc54eccdb7b9cda7ab635daed1.jpg",
+                                                    "width": 190
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQf/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAdmlYqlayJHmwRmNv//EABkQAQEBAQEBAAAAAAAAAAAAAAIBAwAEEf/aAAgBAQABBQJWzPKM6dpsMgfTnlfsvJVKqrolJ//EABYRAQEBAAAAAAAAAAAAAAAAABEBIP/aAAgBAwEBPwGBj//EABYRAAMAAAAAAAAAAAAAAAAAABEgIf/aAAgBAgEBPwGlP//EAB0QAAICAgMBAAAAAAAAAAAAAAABAhEhMRASE4H/2gAIAQEABj8Cbjsv0nK3lS4ubF3e2WnZbdsy9GJNfT//xAAcEAEBAQACAwEAAAAAAAAAAAABEQAhMUFRoeH/2gAIAQEAAT8h8WjjHosuh+aZMDngLy5SmQG/cFiD0mbOTtc+WYhp4r0Rv//aAAwDAQACAAMAAAAQxMfA/8QAFhEAAwAAAAAAAAAAAAAAAAAAESAh/9oACAEDAQE/ELCn/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREg/9oACAECAQE/EEhMf//EAB0QAQEBAAEFAQAAAAAAAAAAAAERACExQVGBoWH/2gAIAQEAAT8QmNMX0FZfuYYMhULKeQ+Mw4RLhCEWEPeOUY7hz3fh3xvmEkR9mQfNRVc8ySj0Nzqi1D47/9k=",
+                                                    "aspectRatio": 0.9411764705882353,
+                                                    "src": "/static/6c889abc54eccdb7b9cda7ab635daed1/d3a74/testimonials-1.jpg",
+                                                    "srcSet": "/static/6c889abc54eccdb7b9cda7ab635daed1/12de4/testimonials-1.jpg 48w,\n/static/6c889abc54eccdb7b9cda7ab635daed1/77aef/testimonials-1.jpg 95w,\n/static/6c889abc54eccdb7b9cda7ab635daed1/d3a74/testimonials-1.jpg 190w",
+                                                    "sizes": "(max-width: 190px) 100vw, 190px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "imageMobile": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/testimonials-1-m.jpg",
+                                        "mediaItemId": 1149,
+                                        "modified": "2021-04-08 13:09:00",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/testimonials-1-m-212f780fee482e8772ca958eae9d5d6d.jpg",
+                                                    "width": 660
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAQFAQMH/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAG5hyIxVowR5sEdo2//xAAYEAEBAQEBAAAAAAAAAAAAAAACAwEABP/aAAgBAQABBQJ7uThiFOpUyA9M5rmk0mnptUZ//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQEg/9oACAEDAQE/AYGP/8QAFhEAAwAAAAAAAAAAAAAAAAAAESAh/9oACAECAQE/AaU//8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAERASAzEiI2H/2gAIAQEABj8CJXuD2OwbsNi2g3arNDGzGzPIyl5GA+Gf/8QAHhABAAICAQUAAAAAAAAAAAAAAQARITFhEEFxgaH/2gAIAQEAAT8h8FmLFkyL98dEi7wHdYQllC/Zd5IoSjtYAUaKnEZlJ//aAAwDAQACAAMAAAAQZMD9/8QAFhEAAwAAAAAAAAAAAAAAAAAAESAh/9oACAEDAQE/ELSn/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREg/9oACAECAQE/EEhMf//EAB4QAQEAAgICAwAAAAAAAAAAAAERACExQVGBYXHh/9oACAEBAAE/EHVCAaWKhZ8W5phnCRsF5CcHWJHBtgy4oYQ+8K4QHDSi8HXsyCbB2JscU15XL+YyRIV4DBIw0IHq5//Z",
+                                                    "aspectRatio": 0.966183574879227,
+                                                    "src": "/static/212f780fee482e8772ca958eae9d5d6d/b6ae7/testimonials-1-m.jpg",
+                                                    "srcSet": "/static/212f780fee482e8772ca958eae9d5d6d/00333/testimonials-1-m.jpg 200w,\n/static/212f780fee482e8772ca958eae9d5d6d/c2a2a/testimonials-1-m.jpg 400w,\n/static/212f780fee482e8772ca958eae9d5d6d/b6ae7/testimonials-1-m.jpg 660w",
+                                                    "sizes": "(max-width: 660px) 100vw, 660px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "quoteLabel": "general counsel",
+                                    "quoteName": "Rachel Thomas",
+                                    "quoteText": "Our friendly and down to earth culture combined with many brilliant minds allows us to provide the best possible solutions and experience for investors.",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/testimonials-2.jpg",
+                                        "mediaItemId": 1029,
+                                        "modified": "2021-04-05 08:10:40",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/testimonials-2-1b342354f1f2b7dabe7fc2dbe2285246.jpg",
+                                                    "width": 190
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQFAQIGB//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAG7ibV0X0LC486jhMB//8QAGRAAAgMBAAAAAAAAAAAAAAAAAQMAAhIE/9oACAEBAAEFArXwtV7gmPvlC+1U0LR/QxzNHS+lqx//xAAWEQADAAAAAAAAAAAAAAAAAAACESD/2gAIAQMBAT8BFR//xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPwFj/8QAIRAAAQMDBAMAAAAAAAAAAAAAAQACERIhUQMQIjFBQnH/2gAIAQEABj8CLsKXasz67Oz4QJs7otUgyFUT8GFVN1xd2ZX/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFxYf/aAAgBAQABPyGVqLs9dQbC1az1GNmwAbcDUk7IpWVwORbo+4tFCx7P/9oADAMBAAIAAwAAABAHBzz/xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8QCG4//8QAFxEBAAMAAAAAAAAAAAAAAAAAAREgIf/aAAgBAgEBPxBM5T//xAAfEAEBAAIBBAMAAAAAAAAAAAABEQAxQSFhgcGRsdH/2gAIAQEAAT8QJ00+Kz3hWsJI24JzMi86Lowlu2vGKMM5nU2dvWAtdFphIlIkB2/cktAiPdNY52AXlL9Z/9k=",
+                                                    "aspectRatio": 0.9411764705882353,
+                                                    "src": "/static/1b342354f1f2b7dabe7fc2dbe2285246/d3a74/testimonials-2.jpg",
+                                                    "srcSet": "/static/1b342354f1f2b7dabe7fc2dbe2285246/12de4/testimonials-2.jpg 48w,\n/static/1b342354f1f2b7dabe7fc2dbe2285246/77aef/testimonials-2.jpg 95w,\n/static/1b342354f1f2b7dabe7fc2dbe2285246/d3a74/testimonials-2.jpg 190w",
+                                                    "sizes": "(max-width: 190px) 100vw, 190px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "imageMobile": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/testimonials-2-m.jpg",
+                                        "mediaItemId": 1150,
+                                        "modified": "2021-04-08 13:09:01",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/testimonials-2-m-49c21ce40fe111184b7a4328e0cff771.jpg",
+                                                    "width": 660
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEEBQf/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAdqspB7yDHPKxltDb//EABsQAAICAwEAAAAAAAAAAAAAAAMEAQIAERIT/9oACAEBAAEFAr38xhteLYxflcTgpncTjDJDF7ntRsgxf//EABYRAQEBAAAAAAAAAAAAAAAAABECIP/aAAgBAwEBPwGQx//EABYRAAMAAAAAAAAAAAAAAAAAAAEgMf/aAAgBAgEBPwE1P//EACAQAAECBQUAAAAAAAAAAAAAABEAAQISITFRAxAiQUL/2gAIAQEABj8CeJc9WY+dos9KF7OQEWRdwLNhTmqlvVf/xAAdEAEAAgICAwAAAAAAAAAAAAABACERYTFBUXHR/9oACAEBAAE/IdDwM2pldeolzYlDyx6uQInD8nMBHsiRoVDUG0c5ioUzbn//2gAMAwEAAgADAAAAEOfPvP/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPxAJXH//xAAXEQADAQAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/ECOFF//EAB4QAQEAAgICAwAAAAAAAAAAAAERACExYUGBUXGR/9oACAEBAAE/ED+Ek6usEgpAO/TiGTeG0SIguyyfRiJz+b51/W8ZQtRKPvFD8HwONdvlwpCns3F9EDXFBQ9195//2Q==",
+                                                    "aspectRatio": 0.966183574879227,
+                                                    "src": "/static/49c21ce40fe111184b7a4328e0cff771/b6ae7/testimonials-2-m.jpg",
+                                                    "srcSet": "/static/49c21ce40fe111184b7a4328e0cff771/00333/testimonials-2-m.jpg 200w,\n/static/49c21ce40fe111184b7a4328e0cff771/c2a2a/testimonials-2-m.jpg 400w,\n/static/49c21ce40fe111184b7a4328e0cff771/b6ae7/testimonials-2-m.jpg 660w",
+                                                    "sizes": "(max-width: 660px) 100vw, 660px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "quoteLabel": "portfolio manager",
+                                    "quoteName": "Rishi Shah",
+                                    "quoteText": "Collaboration is at the core of what we do. We encourage a culture of teamwork and provide our traders with the resources necessary to problem solve, innovate and succeed.",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/06/shah-cropped_-190-200.jpg",
+                                        "mediaItemId": 1239,
+                                        "modified": "2021-06-09 10:54:59",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/shah-cropped_-190-200-45d6fe1d6ec1dc6545d6555a7138fd47.jpg",
+                                                    "width": 190
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/aAAwDAQACEAMQAAABuRzxh2WTHD1Lxrjc/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIDBAAFExH/2gAIAQEAAQUClYog6I2SEeAgDNeOl25IZbC2JIx//8QAGREAAwADAAAAAAAAAAAAAAAAAAEREBJB/9oACAEDAQE/AVNccKz/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAgEBPwF250iP/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACEQMhMUEQEiKh/9oACAEBAAY/ApGU3tUFQO+cQc6CDneRqRw0uvtOnAsAurTZf//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQVFhEP/aAAgBAQABPyGtpZAvRKv0SUxUDcLbOWCcI0qLfPPm0DOUEMFqcBNVLvM//9oADAMBAAIAAwAAABDbz3//xAAZEQEAAgMAAAAAAAAAAAAAAAABABARMWH/2gAIAQMBAT8QOZd0s9J//8QAGREBAAIDAAAAAAAAAAAAAAAAAQAREDGR/9oACAECAQE/EFWGAOY3an//xAAeEAEAAgIDAAMAAAAAAAAAAAABESEAMUFRYRCh4f/aAAgBAQABPxBK4xbi7fDPNYugokNlR8J6KlBSaA5yPXfj6PDvV4NYT9AZtLH7gYj6lIj73m3UkDTwnjP/2Q==",
+                                                    "aspectRatio": 0.9411764705882353,
+                                                    "src": "/static/45d6fe1d6ec1dc6545d6555a7138fd47/d3a74/shah-cropped_-190-200.jpg",
+                                                    "srcSet": "/static/45d6fe1d6ec1dc6545d6555a7138fd47/12de4/shah-cropped_-190-200.jpg 48w,\n/static/45d6fe1d6ec1dc6545d6555a7138fd47/77aef/shah-cropped_-190-200.jpg 95w,\n/static/45d6fe1d6ec1dc6545d6555a7138fd47/d3a74/shah-cropped_-190-200.jpg 190w",
+                                                    "sizes": "(max-width: 190px) 100vw, 190px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "imageMobile": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/06/shah-cropped_660-684.jpg",
+                                        "mediaItemId": 1240,
+                                        "modified": "2021-06-09 10:55:06",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/shah-cropped_660-684-fd686c89c34659689349b5e832cf2c04.jpg",
+                                                    "width": 660
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAAB2QtiHpDHFqLxAr//xAAcEAADAAIDAQAAAAAAAAAAAAABAgMABAUREhP/2gAIAQEAAQUCsxRF9o+UI6DADOOH03dqhreWw6J//8QAGREAAgMBAAAAAAAAAAAAAAAAABEBEBJB/9oACAEDAQE/AYWa4M//xAAYEQEAAwEAAAAAAAAAAAAAAAABABARQf/aAAgBAgEBPwF3a7EJ/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACEQMQITEiQRJxof/aAAgBAQAGPwLjuYymh1QVA75aDvoJrncZ1NgXZwSnT1gBeO/a/8QAHRABAAIBBQEAAAAAAAAAAAAAARExABAhQWGR0f/aAAgBAQABPyGSwkA0O8B1C4B8caHmErOXCAA4ihX5paRYx22i6AZFCAdrZ//aAAwDAQACAAMAAAAQOMB+/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxAbL2yWiy//xAAYEQEAAwEAAAAAAAAAAAAAAAABABExEP/aAAgBAgEBPxBVhnAJsZP/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMVEQQWGR4f/aAAgBAQABPxCLueBX27nWNM0wwlHso5MDIsMiluBiKqMMrc+HF43PBJYUbVn7hdCpOHQD6uVhMQoIavWf/9k=",
+                                                    "aspectRatio": 0.966183574879227,
+                                                    "src": "/static/fd686c89c34659689349b5e832cf2c04/b6ae7/shah-cropped_660-684.jpg",
+                                                    "srcSet": "/static/fd686c89c34659689349b5e832cf2c04/00333/shah-cropped_660-684.jpg 200w,\n/static/fd686c89c34659689349b5e832cf2c04/c2a2a/shah-cropped_660-684.jpg 400w,\n/static/fd686c89c34659689349b5e832cf2c04/b6ae7/shah-cropped_660-684.jpg 660w",
+                                                    "sizes": "(max-width: 660px) 100vw, 660px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "diversitySection": {
+                            "name": "Diversity & Inclusion",
+                            "title": "An Inclusive <br />\r\nWorkspace",
+                            "text": "As a firm built on inclusivity and collaboration, we believe diversity drives results, strengthens our competitive advantage and accelerates innovation.<br />\r\n<br />\r\nWith over 20 nationalities represented across the business, we are empowered by the commonalities and differences found within our diverse team.<br />\r\n<br />\r\nWe are committed to attracting and developing the best and brightest individuals through our recruiting initiatives, training program and professional development offerings.",
+                            "imagesLeft": [
+                                {
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/diversity-first.jpg",
+                                        "mediaItemId": 1033,
+                                        "modified": "2021-04-05 08:13:58",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/diversity-first-f7a3a4c6eacad85212d45f7442ecb2dc.jpg",
+                                                    "width": 378
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAXABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAQBAwUG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/2gAMAwEAAhADEAAAAeNtqrNMLxJ5G8cOyIv/xAAcEAACAgMBAQAAAAAAAAAAAAACAwAEARMhETP/2gAIAQEAAQUC3MOclf5ssrbKwV/AriOE44w0ixV1ev8A/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDEQISITH/2gAIAQMBAT8Bjlrg2rMPaNj/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQISMUH/2gAIAQIBAT8BuOiK0YI//8QAIRABAAIBAwQDAAAAAAAAAAAAAQACESEiMQMQEjJBYXL/2gAIAQEABj8Ct55CAOV+O3qWrG3T2uMTFVxNeBm0tT88Q1s/aT//xAAdEAADAAMAAwEAAAAAAAAAAAAAAREhMYFBUWGR/9oACAEBAAE/IbY0qp+yWrXseBk+xBn7GyY22ith1YBWq5H6PVxb2bjMg6gz/9oADAMBAAIAAwAAABBXP4L/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxBwYyYmwtHJW+X/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/EDmsi4RjDt//xAAeEAEAAwADAAMBAAAAAAAAAAABABEhMUFhUZGhwf/aAAgBAQABPxC0UOU1vOe+dgtqS1VbnrRcwHT/AJAByArVvkTRmTtlsu7Lv7jVZN7VujzyCKWQXk6RORDUF4gkDeqXQ/Bn/9k=",
+                                                    "aspectRatio": 0.8771929824561403,
+                                                    "src": "/static/f7a3a4c6eacad85212d45f7442ecb2dc/781e4/diversity-first.jpg",
+                                                    "srcSet": "/static/f7a3a4c6eacad85212d45f7442ecb2dc/4c7fd/diversity-first.jpg 100w,\n/static/f7a3a4c6eacad85212d45f7442ecb2dc/00333/diversity-first.jpg 200w,\n/static/f7a3a4c6eacad85212d45f7442ecb2dc/781e4/diversity-first.jpg 378w",
+                                                    "sizes": "(max-width: 378px) 100vw, 378px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/diversity-second.jpg",
+                                        "mediaItemId": 1034,
+                                        "modified": "2021-04-05 08:13:59",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/diversity-second-8dc99e1ae01bf9a67596e994d77830fd.jpg",
+                                                    "width": 378
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAFjapjJTcCv/8QAGxABAAMAAwEAAAAAAAAAAAAAAwECBQAEEhT/2gAIAQEAAQUC+9Pc6cVVdNZu+dR7zkjwumJU/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Bp//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEv/aAAgBAgEBPwESv//EACAQAAEEAgEFAAAAAAAAAAAAAAEAAhIhEUEiIzFhcZH/2gAIAQEABj8Ce3Io1rAV2zZGiuhGHkKQdEnuhyd9UYg+wv/EABsQAQEBAAMBAQAAAAAAAAAAAAERACExQXHh/9oACAEBAAE/IUbxcV0jan7MJah9rnjEHXvE4PzOfxhJh9Jd/9oADAMBAAIAAwAAABAf/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAABAP/aAAgBAwEBPxBYBf/EABgRAAIDAAAAAAAAAAAAAAAAAAABEUFR/9oACAECAQE/ENCVR//EABsQAQEBAQEAAwAAAAAAAAAAAAERACExQXGx/9oACAEBAAE/EEtNIIGVUSqBNNgCRcCycvnc6SgC1RV+umbI9AQBAD46W55FRAfuCd2vtDZZv//Z",
+                                                    "aspectRatio": 1.4285714285714286,
+                                                    "src": "/static/8dc99e1ae01bf9a67596e994d77830fd/781e4/diversity-second.jpg",
+                                                    "srcSet": "/static/8dc99e1ae01bf9a67596e994d77830fd/4c7fd/diversity-second.jpg 100w,\n/static/8dc99e1ae01bf9a67596e994d77830fd/00333/diversity-second.jpg 200w,\n/static/8dc99e1ae01bf9a67596e994d77830fd/781e4/diversity-second.jpg 378w",
+                                                    "sizes": "(max-width: 378px) 100vw, 378px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            ],
+                            "imagesRight": [
+                                {
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/diversity-third.jpg",
+                                        "mediaItemId": 1035,
+                                        "modified": "2021-04-05 08:14:08",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/diversity-third-0dc4ec11018a1d655cdec86b70682214.jpg",
+                                                    "width": 378
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAf/aAAwDAQACEAMQAAABhZnzmu2Rm5j1SNonvFjTf//EABwQAAICAgMAAAAAAAAAAAAAAAIDARMABBASMf/aAAgBAQABBQJYMqWzYy8sjcYtUbTq1vGvpEAsIKKsLxXH/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAECAxEQMWH/2gAIAQMBAT8BR9F9JNY//8QAGREBAAIDAAAAAAAAAAAAAAAAABESAjFh/9oACAECAQE/AayrxjtD/8QAJBAAAgEBBgcAAAAAAAAAAAAAAAECUQMQERJBQhMiMTKBkaL/2gAIAQEABj8CVrHpHUx2a1Fz/Jw7OawMiYs/cJ1I1Nvu7zd//8QAHxABAAIBBQADAAAAAAAAAAAAAQARITFBUXGBEJHB/9oACAEBAAE/Ia/UR1ZaTQMJftMAdJxZlI20SUpwG7DL3G+lFLbdpCDHIiXceJ+M1fD/2gAMAwEAAgADAAAAEBgezf/EABoRAQACAwEAAAAAAAAAAAAAAAEAESFR0bH/2gAIAQMBAT8QBKwDn29htJiuQXc//8QAGREAAwADAAAAAAAAAAAAAAAAAAERIdHx/9oACAECAQE/EKwiJ5WiFAx//8QAHhABAAEEAwEBAAAAAAAAAAAAAREAITFBYXGxEIH/2gAIAQEAAT8QCgnBQiDWdlCykGkLcDy47ptwtZn6rzRN9G8WjJxQV/kadZZNPLGDNQW/dM2Apo7ohTgiJ3eltS0IVg68V7PPn//Z",
+                                                    "aspectRatio": 0.8,
+                                                    "src": "/static/0dc4ec11018a1d655cdec86b70682214/781e4/diversity-third.jpg",
+                                                    "srcSet": "/static/0dc4ec11018a1d655cdec86b70682214/4c7fd/diversity-third.jpg 100w,\n/static/0dc4ec11018a1d655cdec86b70682214/00333/diversity-third.jpg 200w,\n/static/0dc4ec11018a1d655cdec86b70682214/781e4/diversity-third.jpg 378w",
+                                                    "sizes": "(max-width: 378px) 100vw, 378px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/diversity-fourth.jpg",
+                                        "mediaItemId": 1036,
+                                        "modified": "2021-04-05 08:14:10",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/diversity-fourth-069776c6ac89468f5fb282fe269eff41.jpg",
+                                                    "width": 378
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAgMG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/9oADAMBAAIQAxAAAAHBVCqdui5DRKuy3Q86XAtP/8QAHhAAAgICAgMAAAAAAAAAAAAAAgMBBAASERMzNET/2gAIAQEAAQUC4mcWoiBux4k53G0Ky7OF1ksmy6vJXSEtaXu/a7y//8QAGREBAQEAAwAAAAAAAAAAAAAAAQARAhIh/9oACAEDAQE/Ae6Gzuw+Ryv/xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQEjL/2gAIAQIBAT8B1VgkoPrH/8QAJBAAAgIAAwkBAAAAAAAAAAAAAAECEQMxchITIkFRUnFzgcH/2gAIAQEABj8C4ZZjmrsg12mGlN3eTNzT6GHp/SC2L5/CMazVkfAvUiGkZ//EACAQAQACAQMFAQAAAAAAAAAAAAEAESExQVFhcaGx8OH/2gAIAQEAAT8hbWxUMaQ5kHStuYyMv7YhhwUYDeBLbgPeNBfxQAJFM9phlaV9LirbxXTqz6XBHy/c8+f/2gAMAwEAAgADAAAAEN/ZAf/EABoRAAMBAAMAAAAAAAAAAAAAAAABETFBYcH/2gAIAQMBAT8QcZy/BrTKZe6UVP/EABkRAAMBAQEAAAAAAAAAAAAAAAABESFRYf/aAAgBAgEBPxBOpwlUvXkGtP/EACAQAQACAgIBBQAAAAAAAAAAAAEAESExUWEQQXGRofD/2gAIAQEAAT8QaTUacGVs1cUt1TglcOYSRRkkSNpVFjg36+0sWiTQaXZfcJ5kuolZ4dfCmBwH6Q1CHbiGoGINENXh/wDo8Z9lP//Z",
+                                                    "aspectRatio": 0.7874015748031497,
+                                                    "src": "/static/069776c6ac89468f5fb282fe269eff41/781e4/diversity-fourth.jpg",
+                                                    "srcSet": "/static/069776c6ac89468f5fb282fe269eff41/4c7fd/diversity-fourth.jpg 100w,\n/static/069776c6ac89468f5fb282fe269eff41/00333/diversity-fourth.jpg 200w,\n/static/069776c6ac89468f5fb282fe269eff41/781e4/diversity-fourth.jpg 378w",
+                                                    "sizes": "(max-width: 378px) 100vw, 378px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "useStaticFileForAllPositions": null,
+                        "allPositionsLinkType": "email",
+                        "allPositionsEmail": "careers@brevanhoward.com",
+                        "allPositionsFile": {
+                            "mediaItemId": 592,
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/placeholder.pdf",
+                            "modified": "2020-12-17 13:07:38",
+                            "localStaticUrl": "/static/placeholder-bb618df67540e83b54825188f1a5848f.pdf"
+                        },
+                        "joinUsOurTeam": {
+                            "name": "JOIN OUR TEAM",
+                            "title": "Interested in Working<br />\r\nat Brevan Howard?",
+                            "items": [
+                                {
+                                    "title": "Professionals",
+                                    "text": "If you are ready to challenge yourself in a performance-driven culture that recognises and rewards success, we would like to meet you.",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/professionals.jpg",
+                                        "mediaItemId": 1045,
+                                        "modified": "2021-04-05 08:55:56",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/professionals-f64b7bcd8989c4ab01059f41c8b9ad30.jpg",
+                                                    "width": 560
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABfDBps4YoX//EABsQAAEFAQEAAAAAAAAAAAAAAAMAAQIEERMS/9oACAEBAAEFAok7GtWnMPliJ4eUaTRr7i//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oACAEDAQE/AVpEf//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGtr//EACAQAAICAQMFAAAAAAAAAAAAAAECABEhAxJBEzJCcZH/2gAIAQEABj8CXqarDZbXQFQqmqxTkMBO4zyr3GOHNc4lZ+z/xAAdEAABBAIDAAAAAAAAAAAAAAABABEhcTFBUYGR/9oACAEBAAE/ISngmmiUjM7Ao80tADUriz8DojvdYGWeIgUIQv8A/9oADAMBAAIAAwAAABA0H//EABkRAQACAwAAAAAAAAAAAAAAAAEAESExkf/aAAgBAwEBPxA0VsxTKHJ//8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARMZH/2gAIAQIBAT8QRdmSvF6T/8QAHRABAAIDAAMBAAAAAAAAAAAAAREhADFBUWFxkf/aAAgBAQABPxAjvPEZBaU0u8CfI6H4IINdwchByr9xpgIVivESzSs3ObVJBCTptP2sTAhtFx9mf//Z",
+                                                    "aspectRatio": 1.4736842105263157,
+                                                    "src": "/static/f64b7bcd8989c4ab01059f41c8b9ad30/92ddd/professionals.jpg",
+                                                    "srcSet": "/static/f64b7bcd8989c4ab01059f41c8b9ad30/62899/professionals.jpg 140w,\n/static/f64b7bcd8989c4ab01059f41c8b9ad30/f5783/professionals.jpg 280w,\n/static/f64b7bcd8989c4ab01059f41c8b9ad30/92ddd/professionals.jpg 560w",
+                                                    "sizes": "(max-width: 560px) 100vw, 560px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "acfLink": {
+                                        "externalUrl": "mailto: recruitment@brevanhoward.com",
+                                        "fieldGroupName": "acf_link",
+                                        "linkText": "Contact Us",
+                                        "type": "external",
+                                        "openInNewWindow": null,
+                                        "linkToPage": null
+                                    }
+                                },
+                                {
+                                    "title": "Students",
+                                    "text": "Do you have curiosity about global financial markets, and possess the creativity and critical thinking to drive the future of Brevan Howard?",
+                                    "image": {
+                                        "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/students.jpg",
+                                        "mediaItemId": 1046,
+                                        "modified": "2021-04-05 08:56:01",
+                                        "localImageFile": {
+                                            "childImageSharp": {
+                                                "original": {
+                                                    "src": "/static/students-d52edb6b8e0e2cf8612f97f804504fc7.jpg",
+                                                    "width": 560
+                                                },
+                                                "fluid": {
+                                                    "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQDBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/aAAwDAQACEAMQAAABiderRXJjwkf/xAAYEAEBAQEBAAAAAAAAAAAAAAACAwEEEf/aAAgBAQABBQKHFOGPyc6Ft5065KzmD2M5/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECESH/2gAIAQMBAT8BUcKR/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECIf/aAAgBAgEBPwF0jT//xAAeEAACAAYDAAAAAAAAAAAAAAAAAQIDERIhYRMxcf/aAAgBAQAGPwJxtRTH4PilZeirGrdGSnZ//8QAGhAAAgMBAQAAAAAAAAAAAAAAASEAETFBcf/aAAgBAQABPyGoJqoJAyQdJCTb2JELA3MuIxGH3Ilmf//aAAwDAQACAAMAAAAQxA//xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhYf/aAAgBAwEBPxB9VYdD/8QAGREAAwADAAAAAAAAAAAAAAAAABEhAVFx/9oACAECAQE/EGsW8Hof/8QAGxABAQACAwEAAAAAAAAAAAAAAREAITFBYfD/2gAIAQEAAT8QQz0ZyLxvnrbrOt0wUowuqYMlWvhk9JgQL6dGIQ2BKSuuTPQBAPPhn//Z",
+                                                    "aspectRatio": 1.4736842105263157,
+                                                    "src": "/static/d52edb6b8e0e2cf8612f97f804504fc7/92ddd/students.jpg",
+                                                    "srcSet": "/static/d52edb6b8e0e2cf8612f97f804504fc7/62899/students.jpg 140w,\n/static/d52edb6b8e0e2cf8612f97f804504fc7/f5783/students.jpg 280w,\n/static/d52edb6b8e0e2cf8612f97f804504fc7/92ddd/students.jpg 560w",
+                                                    "sizes": "(max-width: 560px) 100vw, 560px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "acfLink": {
+                                        "externalUrl": "mailto:BHCampusteam@brevanhoward.com",
+                                        "fieldGroupName": "acf_link",
+                                        "linkText": "Apply for Internships",
+                                        "type": "external",
+                                        "openInNewWindow": null,
+                                        "linkToPage": null
+                                    }
+                                }
+                            ]
+                        },
+                        "featuredPositionsEmpty": "There are no featured positions.",
+                        "featuresPositionsList": [
+                            {
+                                "location": "Hong Kong",
+                                "position": "Compliance Officer",
+                                "type": null,
+                                "email": "careers@brevanhoward.com",
+                                "useStaticFile": null,
+                                "file": {
+                                    "mediaItemId": 592,
+                                    "modified": "2020-12-17 13:07:38",
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/placeholder.pdf",
+                                    "localStaticUrl": "/static/placeholder-bb618df67540e83b54825188f1a5848f.pdf"
+                                }
+                            },
+                            {
+                                "location": "Geneva",
+                                "position": "Market Risk Officer",
+                                "type": null,
+                                "email": "careers@brevanhoward.com",
+                                "useStaticFile": null,
+                                "file": null
+                            },
+                            {
+                                "location": "Singapore",
+                                "position": "Executive Assistant",
+                                "type": null,
+                                "email": "careers@brevanhoward.com",
+                                "useStaticFile": null,
+                                "file": null
+                            },
+                            {
+                                "location": "London",
+                                "position": "Paralegal",
+                                "type": null,
+                                "email": "careers@brevanhoward.com",
+                                "useStaticFile": null,
+                                "file": {
+                                    "mediaItemId": 592,
+                                    "modified": "2020-12-17 13:07:38",
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/placeholder.pdf",
+                                    "localStaticUrl": "/static/placeholder-bb618df67540e83b54825188f1a5848f.pdf"
+                                }
+                            },
+                            {
+                                "location": "Jersey",
+                                "position": "Paralegal",
+                                "type": null,
+                                "email": "careers@brevanhoward.com",
+                                "useStaticFile": null,
+                                "file": {
+                                    "mediaItemId": 592,
+                                    "modified": "2020-12-17 13:07:38",
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/placeholder.pdf",
+                                    "localStaticUrl": "/static/placeholder-bb618df67540e83b54825188f1a5848f.pdf"
+                                }
+                            },
+                            {
+                                "location": "Singapore",
+                                "position": "China Economist",
+                                "type": null,
+                                "email": "careers@brevanhoward.com",
+                                "useStaticFile": null,
+                                "file": {
+                                    "mediaItemId": 592,
+                                    "modified": "2020-12-17 13:07:38",
+                                    "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/placeholder.pdf",
+                                    "localStaticUrl": "/static/placeholder-bb618df67540e83b54825188f1a5848f.pdf"
+                                }
+                            }
+                        ],
+                        "careersStats": {
+                            "columnTextLeft": "We combine a dedication to meeting our clients’ needs with a commitment to our people.<br />\r\n<br />\r\nAt Brevan Howard, you will find the dynamism and entrepreneurial spirit of a small firm with the infrastructure, technology and support of a large organisation.",
+                            "columnTextRight": "We are always looking for exceptional talent to join our global community. From undergraduates to experienced professionals, we look for individuals who are intellectually curious, passionate and share our mission and principles.",
+                            "name": "careers",
+                            "title": "Join Our Team",
+                            "acfLink": {
+                                "externalUrl": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers",
+                                "fieldGroupName": "acf_link",
+                                "linkText": "Join the Team",
+                                "type": "external",
+                                "openInNewWindow": true,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/careers/"
+                                }
+                            },
+                            "listSmall": [
+                                {
+                                    "title": "Portfolio Managers"
+                                },
+                                {
+                                    "title": "Economists"
+                                },
+                                {
+                                    "title": "Risk Officers"
+                                },
+                                {
+                                    "title": "Portfolio Analysts"
+                                },
+                                {
+                                    "title": "Strategists"
+                                },
+                                {
+                                    "title": "Quantitative Analysts"
+                                },
+                                {
+                                    "title": "Execution Traders"
+                                }
+                            ],
+                            "listLarge": [
+                                {
+                                    "symbol": "+",
+                                    "number": 1122,
+                                    "label": "Global Team Members"
+                                }
+                            ]
+                        },
+                        "banner": {
+                            "name": null,
+                            "title": "Contact Us",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/careers-pre-footer.jpg",
+                                "mediaItemId": 1017,
+                                "modified": "2021-04-05 07:29:48",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/careers-pre-footer-13492dbbc4a73da1de3382fb1b986120.jpg",
+                                            "width": 1920
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHPuFxEJ//EABgQAQEAAwAAAAAAAAAAAAAAAAIAEhMh/9oACAEBAAEFAge5k28X/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAXEAADAQAAAAAAAAAAAAAAAAAAECEx/9oACAEBAAY/AtVP/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEhQWFx8f/aAAgBAQABPyHgiQVvBJR7P//aAAwDAQACAAMAAAAQB/8A/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Qqn//xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAgBAgEBPxAYX//EABgQAQEBAQEAAAAAAAAAAAAAAAERACEx/9oACAEBAAE/ED6Oj1IMLElVxoAByZ//2Q==",
+                                            "aspectRatio": 2.4096385542168677,
+                                            "src": "/static/13492dbbc4a73da1de3382fb1b986120/807a7/careers-pre-footer.jpg",
+                                            "srcSet": "/static/13492dbbc4a73da1de3382fb1b986120/00333/careers-pre-footer.jpg 200w,\n/static/13492dbbc4a73da1de3382fb1b986120/c2a2a/careers-pre-footer.jpg 400w,\n/static/13492dbbc4a73da1de3382fb1b986120/807a7/careers-pre-footer.jpg 800w,\n/static/13492dbbc4a73da1de3382fb1b986120/f43cc/careers-pre-footer.jpg 1200w,\n/static/13492dbbc4a73da1de3382fb1b986120/3c629/careers-pre-footer.jpg 1600w,\n/static/13492dbbc4a73da1de3382fb1b986120/b1e91/careers-pre-footer.jpg 1920w",
+                                            "sizes": "(max-width: 800px) 100vw, 800px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/careers-banner-m.jpg",
+                                "mediaItemId": 1125,
+                                "modified": "2021-04-08 08:41:33",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/careers-banner-m-6fd1979063d574c213eec22bb052aca0.jpg",
+                                            "width": 780
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAiABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQFAwL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAc33RdvMTTFH2zuaXISTCpRq/8QAIBAAAQMDBQEAAAAAAAAAAAAAAQACAxETIRIUIjEyQf/aAAgBAQABBQLb4bGbYiNGlMGEKInS28nyURdwErQPp8nv/8QAFhEBAQEAAAAAAAAAAAAAAAAAEBEA/9oACAEDAQE/AdCv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVRN/8QAHxAAAgECBwAAAAAAAAAAAAAAAAEQAiERIDEyQWFx/9oACAEBAAY/Aux+mhfJY30owQ0cQ4//xAAcEAADAQADAQEAAAAAAAAAAAAAAREhMWFxEEH/2gAIAQEAAT8hn90I5ZDEEVFewgQgaiUcPegU0NZxlJSJ4Ph78fIf/9oADAMBAAIAAwAAABBAKH333//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESD/2gAIAQMBAT8QAqXD/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIP/aAAgBAgEBPxCzAC//xAAeEAEAAwACAgMAAAAAAAAAAAABABEhMUFRcYGhwf/aAAgBAQABPxAMUi3cH1HJYvqJEhmdEMlKBibcIh26+YAMhQCj0RQI7pLjUO+W1FbUcp58RFK7cnOwA0GUAiW16RvN3+xvI8z/2Q==",
+                                            "aspectRatio": 0.5813953488372093,
+                                            "src": "/static/6fd1979063d574c213eec22bb052aca0/4e86b/careers-banner-m.jpg",
+                                            "srcSet": "/static/6fd1979063d574c213eec22bb052aca0/00333/careers-banner-m.jpg 200w,\n/static/6fd1979063d574c213eec22bb052aca0/c2a2a/careers-banner-m.jpg 400w,\n/static/6fd1979063d574c213eec22bb052aca0/4e86b/careers-banner-m.jpg 780w",
+                                            "sizes": "(max-width: 780px) 100vw, 780px"
+                                        }
+                                    }
+                                }
+                            },
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "More Details",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/contact/"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "pageContext": {
+            "id": "cG9zdDo1Mg=="
+        }
+    },
+    "staticQueryHashes": [
+        "1296785774",
+        "2997433256",
+        "63159454",
+        "886364674"
+    ]
+}

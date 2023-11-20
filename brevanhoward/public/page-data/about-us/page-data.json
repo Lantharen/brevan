@@ -1,0 +1,429 @@
+{
+    "componentChunkName": "component---src-templates-about-us-js",
+    "path": "/about-us/",
+    "result": {
+        "data": {
+            "wpgraphql": {
+                "page": {
+                    "title": "About Us",
+                    "aboutusacf": {
+                        "atAGlanceSectionName": null,
+                        "atAGlanceTitle": "Hallmarks of Brevan Howard",
+                        "atAGlanceItems": [
+                            {
+                                "itemIcon": "talent",
+                                "text": "Our deep and diverse talent pool is supported by a collaborative culture where we nurture talent and grow as a community of unique, creative and independent thinkers. ",
+                                "title": "Extraordinary People"
+                            },
+                            {
+                                "itemIcon": "technology",
+                                "text": "Heavy investment and ongoing development ensures our team members have the best tools possible to succeed.",
+                                "title": "Best-in-Class Technology"
+                            },
+                            {
+                                "itemIcon": "product",
+                                "text": "Our broad range of diversified investment products are distinct yet complementary to one another and solve for a wide range of portfolio needs.",
+                                "title": "Diversified Investment Products"
+                            },
+                            {
+                                "itemIcon": "macro",
+                                "text": "Our macro analysis & research is our critical differentiator, driving our investment philosophy regardless of investment strategy.",
+                                "title": "Outstanding Macro Analysis"
+                            },
+                            {
+                                "itemIcon": "collaborative",
+                                "text": "We leverage our structuring expertise to optimise the investment outcomes of our research ideas.",
+                                "title": "Structuring Expertise"
+                            },
+                            {
+                                "itemIcon": "risk",
+                                "text": "Extensive use and continual development of stress testing allows us to examine tail risks and mitigate potential loss scenarios.",
+                                "title": "Excellence in Risk Management"
+                            }
+                        ],
+                        "macroThinkingTitle": "Macro <br />\r\nThinking",
+                        "macroThinkingImage": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-num-1-3.jpg",
+                            "mediaItemId": 1090,
+                            "modified": "2021-04-05 11:50:42",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/ph-num-1-3-a740e36be5049c0ad1bc79431181280a.jpg",
+                                        "width": 721
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAdABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwYF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGb9aoLpwDTpUc4kL2lBeX/xAAcEAACAgMBAQAAAAAAAAAAAAACAwEEABITESH/2gAIAQEAAQUCoN1STvvWcfW8HWCYd2QPr2XZtglRHuRNNZsMmFn/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQISIRFB/9oACAEDAQE/AZRfhVluLDT/xAAaEQACAgMAAAAAAAAAAAAAAAABEAIREiEx/9oACAECAQE/AbCwJlvi/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIAETEQEiFBEyNRYXH/2gAIAQEABj8CKNw27B1dl7NmoNuPzMK+PH3LAYc8dSiPb1NxqMEcrR+ZbGzp/8QAHRABAAMAAwADAAAAAAAAAAAAAQARITFBUWGh8P/aAAgBAQABPyG/1aeJrJ1UnzfUYZldyZtd+ikCLkrYAZfSvU20R+LGYbPhChSBUW3v2wZ//9oADAMBAAIAAwAAABCM9YD/xAAaEQEAAQUAAAAAAAAAAAAAAAABABARITFx/9oACAEDAQE/EOBRDZGYqdz/xAAZEQACAwEAAAAAAAAAAAAAAAAAAREhQXH/2gAIAQIBAT8QUlkFw3Aklh//xAAfEAEAAgICAgMAAAAAAAAAAAABESEAQTGBUWEQccH/2gAIAQEAAT8QMH2SAtD3k4IZ6n9+EkTkEm+VPrx4ntRCghEA5T0TEuAEhwsLG8DPAkU7Oac54OhdcTo6LzfYdZhOJ9iAUMUmAl7YrEjP/9k=",
+                                        "aspectRatio": 0.7006369426751592,
+                                        "src": "/static/a740e36be5049c0ad1bc79431181280a/941d9/ph-num-1-3.jpg",
+                                        "srcSet": "/static/a740e36be5049c0ad1bc79431181280a/8d9ee/ph-num-1-3.jpg 220w,\n/static/a740e36be5049c0ad1bc79431181280a/68753/ph-num-1-3.jpg 440w,\n/static/a740e36be5049c0ad1bc79431181280a/941d9/ph-num-1-3.jpg 721w",
+                                        "sizes": "(max-width: 721px) 100vw, 721px"
+                                    }
+                                }
+                            }
+                        },
+                        "macroThinkingContent": [
+                            {
+                                "text": "We leverage our global network of independent and critical thinkers to support our research process.",
+                                "title": "Research & Analysis"
+                            },
+                            {
+                                "text": "We encourage information flow and transparency throughout the firm, maintaining a community of creative, free-thinking investment professionals where original and differentiated thought is encouraged, and views are challenged.",
+                                "title": "Debate & Challenge"
+                            },
+                            {
+                                "text": "We believe in the power and value of contrarian thought. Intellectual humility, flexibility and imagination are critical to long term success.",
+                                "title": "Non-Consensus"
+                            }
+                        ],
+                        "tradeStructuringTitle": "Trade <br />\r\nStructuring",
+                        "tradeStructuringImage": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-num-2-1.jpg",
+                            "mediaItemId": 1091,
+                            "modified": "2021-04-05 11:51:01",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/ph-num-2-1-11c99d82719f48b2e44fc96f77a109d1.jpg",
+                                        "width": 430
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAwUCBv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAfN3PZQaJSLVJbiVDRJGv//EABsQAQEBAAIDAAAAAAAAAAAAAAIBAwQRBRIg/9oACAEBAAEFAnxdhV2YJPXyHNvKGmtsyXYe7StqsSnx/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBIQISUf/aAAgBAwEBPwHXpGNDZZ//xAAYEQADAQEAAAAAAAAAAAAAAAAAASECMf/aAAgBAgEBPwFag2cIf//EACEQAQABAwIHAAAAAAAAAAAAAAEAAhEhEDESEyAiQVFx/9oACAEBAAY/Au+lp+kFMPnSg5TRwvuG+JdjmXZY26P/xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhMUEQUf/aAAgBAQABPyGqsPohH1tAyltM0QN7CYqP6GrwGcsvGXbW9iWr8LTFo//aAAwDAQACAAMAAAAQsMOP/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhEUH/2gAIAQMBAT8QztkkGzUS4Z//xAAZEQEBAQADAAAAAAAAAAAAAAABACERMXH/2gAIAQIBAT8QXocNq7ADLxf/xAAeEAEAAgMAAgMAAAAAAAAAAAABABEhMUFRcRCBwf/aAAgBAQABPxAkWam4d9J6BMA+vsigF1UbYVVnaBWjWYZwNIsLj8DMrAatA8neLoSkvxrkUsVl5gNAausfK1T/2Q==",
+                                        "aspectRatio": 0.8,
+                                        "src": "/static/11c99d82719f48b2e44fc96f77a109d1/37953/ph-num-2-1.jpg",
+                                        "srcSet": "/static/11c99d82719f48b2e44fc96f77a109d1/8d9ee/ph-num-2-1.jpg 220w,\n/static/11c99d82719f48b2e44fc96f77a109d1/37953/ph-num-2-1.jpg 430w",
+                                        "sizes": "(max-width: 430px) 100vw, 430px"
+                                    }
+                                }
+                            }
+                        },
+                        "tradeStructuringImage2": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-num-2-3.jpg",
+                            "mediaItemId": 1092,
+                            "modified": "2021-04-05 11:51:04",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/ph-num-2-3-758faa79fbf7c8c7724ffecdfe95262f.jpg",
+                                        "width": 320
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/2gAMAwEAAhADEAAAAZDeDG7ZEQX55yTowXxoFv/EABwQAAMBAAIDAAAAAAAAAAAAAAECAwAEERIhMf/aAAgBAQABBQIewjadHCIQRFS+MnXeQ6nyAspMio31cd//xAAYEQEAAwEAAAAAAAAAAAAAAAAAAREhMf/aAAgBAwEBPwGKVDjX/8QAGBEAAgMAAAAAAAAAAAAAAAAAACEBEBH/2gAIAQIBAT8B2pYj/8QAIBAAAgIBAwUAAAAAAAAAAAAAAAECESEQIlIxQmFxgf/aAAgBAQAGPwL0ipLBipLyOuJjJSRxKcOvcmbpz+aLT//EAB4QAAICAgIDAAAAAAAAAAAAAAERACExURCBYZHw/9oACAEBAAE/IRYXgmyHa+wYCDXE0e46VtXcDVAu7xCTBHuLBklsW4aWWFAqKj7rwmIcec//2gAMAwEAAgADAAAAEIDfQ//EABsRAQEAAQUAAAAAAAAAAAAAAAEAMREhUZHw/9oACAEDAQE/ECtyNDEcYSZ93f/EABkRAAIDAQAAAAAAAAAAAAAAAAABITFBUf/aAAgBAgEBPxBtKHdnQlh//8QAHxABAAICAgMBAQAAAAAAAAAAAQARITFBUWGBobHx/9oACAEBAAE/EHfyonCXUDBs5bT2P9OYuwtKJ0L2QES1i7Le8RwuSAHJM9Gd6hKgB2U8XM6hgJC8nHqFsUFAqhPkoHWJoVxuzcaqbAaI3G2l17g+T8n/2Q==",
+                                        "aspectRatio": 0.7719298245614035,
+                                        "src": "/static/758faa79fbf7c8c7724ffecdfe95262f/ef340/ph-num-2-3.jpg",
+                                        "srcSet": "/static/758faa79fbf7c8c7724ffecdfe95262f/8d9ee/ph-num-2-3.jpg 220w,\n/static/758faa79fbf7c8c7724ffecdfe95262f/ef340/ph-num-2-3.jpg 320w",
+                                        "sizes": "(max-width: 320px) 100vw, 320px"
+                                    }
+                                }
+                            }
+                        },
+                        "tradeStructuringContent": [
+                            {
+                                "text": "Structuring trades with inherent asymmetric P&L potential allows us to better understand the probabilities of different outcomes as priced by the markets and create attractive risk-reward outcomes. ",
+                                "title": null,
+                                "footnoteSymbol": "1"
+                            },
+                            {
+                                "text": "We create asymmetry using options and option-like trading structures, as well as through the disciplined use of stop losses.",
+                                "title": null,
+                                "footnoteSymbol": "2"
+                            },
+                            {
+                                "text": "Views on optimal trade structuring are discussed and debated alongside market views. Team members are encouraged to leverage each other’s particular skills in trade structuring across various markets in order to enhance outcomes. ",
+                                "title": null,
+                                "footnoteSymbol": null
+                            }
+                        ],
+                        "tradeStructuringFootnotes": [
+                            {
+                                "footnoteSymbol": "1",
+                                "linkText": "click here",
+                                "modalCloseButton": "Close",
+                                "text": "References to future returns are not promises or even estimates of actual returns that an investor may achieve. Any forecasts and other material contained in this website are for illustrative purposes only and are not to be relied upon as advice or interpreted as a recommendation. Brevan Howard gives no representations, warranties or undertakings that any indicative performance or return will be achieved in the future or that the investment objectives and policies from time to time of our funds will be met. Past performance is no guarantee and is not indicative of future results. While our funds are subject to market risks common to other types of investments, including market volatility, the funds employ certain trading techniques, such as the use of leverage and other speculative investment practices that may increase the risk of investment loss. ",
+                                "modalContent": {
+                                    "text": "References to future returns are not promises or even estimates of actual returns that an investor may achieve. Any forecasts and other material contained in this website are for illustrative purposes only and are not to be relied upon as advice or interpreted as a recommendation. Brevan Howard gives no representations, warranties or undertakings that any indicative performance or return will be achieved in the future or that the investment objectives and policies from time to time of our funds will be met. Past performance is no guarantee and is not indicative of future results. While our funds are subject to market risks common to other types of investments, including market volatility, the funds employ certain trading techniques, such as the use of leverage and other speculative investment practices that may increase the risk of investment loss.",
+                                    "title": "References to Future Returns"
+                                }
+                            },
+                            {
+                                "footnoteSymbol": "2",
+                                "linkText": "click here",
+                                "modalCloseButton": "Close",
+                                "text": "Some regulated exchanges may permit our funds to enter into stop-loss or stop-limit orders for security futures contracts, which are intended to limit our exposure to losses due to market fluctuations but won’t necessarily limit potential losses to the intended amount, as market conditions may make it impossible to execute the order or to get the stop price. ",
+                                "modalContent": {
+                                    "text": "Some regulated exchanges may permit our funds to enter into stop-loss or stop-limit orders for security futures contracts, which are intended to limit our exposure to losses due to market fluctuations but won’t necessarily limit potential losses to the intended amount, as market conditions may make it impossible to execute the order or to get the stop price.",
+                                    "title": "Stop-Loss and Stop-Limit Orders for Futures Contracts"
+                                }
+                            }
+                        ],
+                        "riskManagementTitle": "Risk <br />\r\nManagement",
+                        "riskManagementImage": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-num-3-3.jpg",
+                            "mediaItemId": 1093,
+                            "modified": "2021-04-05 11:51:28",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/ph-num-3-3-306729504e9a192c5eeb29881b75505f.jpg",
+                                        "width": 238
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIEAQP/2gAMAwEAAhADEAAAAZ+yn8w1jQ1XS5zycmWigsk//8QAHBABAQACAgMAAAAAAAAAAAAAAwIAAQQTEiEi/9oACAEBAAEFApGrwvlkqewzXSs7ByIE0mgO8U57NuU7nH1ry5Pp/wD/xAAcEQABBAMBAAAAAAAAAAAAAAAAAQIRExIhMUH/2gAIAQMBAT8BRuJc7xSLOjtLB//EABwRAAEEAwEAAAAAAAAAAAAAAAABAhETEiExUf/aAAgBAgEBPwFzsytPCa+DdpJ//8QAIRAAAgIBAgcAAAAAAAAAAAAAAAECETEiUQMQEiEyQfD/2gAIAQEABj8CuK8ck/vRLS8jUdMW6aew1Hidaa2FKcFZ3NWUVfLBKj//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFh8JH/2gAIAQEAAT8hCbpR+oBXTFqblcwmRTANPbgFE23zqYGXlbzEiloULmoWipruty4NeA1NowqHEIYAdT//2gAMAwEAAgADAAAAEHTVAP/EABkRAQEBAAMAAAAAAAAAAAAAAAERACExUf/aAAgBAwEBPxADXnJMSZYi61P43//EABkRAQADAQEAAAAAAAAAAAAAAAEAIVERMf/aAAgBAgEBPxBlVTe0Cuj2APU//8QAHhABAAMAAwADAQAAAAAAAAAAAQARITFBYVFxkaH/2gAIAQEAAT8QuX5IlhTruNfgT+I4USTNb9S0o49oHDTtYL12UF2k3EC65K/XstjYEhRy57c4MGSw+NjoR7Jw9+NZcYFHGo8QnSOgK6l9y28hoUcE/9k=",
+                                        "aspectRatio": 0.7746478873239436,
+                                        "src": "/static/306729504e9a192c5eeb29881b75505f/ea5cd/ph-num-3-3.jpg",
+                                        "srcSet": "/static/306729504e9a192c5eeb29881b75505f/8d9ee/ph-num-3-3.jpg 220w,\n/static/306729504e9a192c5eeb29881b75505f/ea5cd/ph-num-3-3.jpg 238w",
+                                        "sizes": "(max-width: 238px) 100vw, 238px"
+                                    }
+                                }
+                            }
+                        },
+                        "riskManagementImage2": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-num-3-1.jpg",
+                            "mediaItemId": 1094,
+                            "modified": "2021-04-05 11:51:39",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/ph-num-3-1-ac28b330113869608df7e901f6e125a5.jpg",
+                                        "width": 588
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQB/9oADAMBAAIQAxAAAAGp3hn+noBOFRmLeSaJGwtDb//EABwQAAIDAQADAAAAAAAAAAAAAAIDAQQRABIUMf/aAAgBAQABBQKm1QmvDqV1QKodPlTa0gP3e0dS3FsdIyHD8nv/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMREyFR/9oACAEDAQE/AY+FsWjIz//EABoRAAICAwAAAAAAAAAAAAAAAAABAiEREjH/2gAIAQIBAT8Bn3JQ7NEf/8QAIhAAAQQABQUAAAAAAAAAAAAAAQACESEDEiIxcRATMkGB/9oACAEBAAY/AgZJe6Rsm1OlpXhM2pa200To24QGC5mQD2j2gssmrQyOqEeF86f/xAAdEAEAAwEAAwEBAAAAAAAAAAABABEhMUFhcVGh/9oACAEBAAE/Ia0/MaZ4f5KLSgPSEGoL2zLGoh2+EW4H0G45AHHgK2euRY1CnX8iZK2ByCTWDrOfvO0eHyf/2gAMAwEAAgADAAAAEHz2wP/EABsRAAEEAwAAAAAAAAAAAAAAABEAARAhMZHw/9oACAEDAQE/EBbEIFDtqxxB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREAIRD/2gAIAQIBAT8QbSbgXabs3w//xAAgEAEAAgIBBAMAAAAAAAAAAAABABEhMUFRYXGxgaHw/9oACAEBAAE/EGeUghraUtY07zPIGYKFs+CWyuarte8pNA5FQrFdInUHTAjBM8UjZ0YvMZ0PylF+aNwypr3Nc2eIJyZgFj3NyBQW0zzPzek+2m3g9T//2Q==",
+                                        "aspectRatio": 0.8,
+                                        "src": "/static/ac28b330113869608df7e901f6e125a5/e98cb/ph-num-3-1.jpg",
+                                        "srcSet": "/static/ac28b330113869608df7e901f6e125a5/8d9ee/ph-num-3-1.jpg 220w,\n/static/ac28b330113869608df7e901f6e125a5/68753/ph-num-3-1.jpg 440w,\n/static/ac28b330113869608df7e901f6e125a5/e98cb/ph-num-3-1.jpg 588w",
+                                        "sizes": "(max-width: 588px) 100vw, 588px"
+                                    }
+                                }
+                            }
+                        },
+                        "riskManagementContent": [
+                            {
+                                "text": "Risk management is a combination of art and science that is managed both quantitatively and qualitatively. We apply a rigorous, and often forensic, focus on detail.",
+                                "title": "Art & Science"
+                            },
+                            {
+                                "text": "Risk does not act in a silo and is instead integral to each portfolio manager's investment process and portfolio construction. Each portfolio manager has a bespoke risk mandate and a designated risk manager, assigned to work in close collaboration.",
+                                "title": "Not Simply a Control Function"
+                            },
+                            {
+                                "text": "Our proprietary bank of stress tests have been developed over almost two decades and is continuously updated. These tools allow us to examine tail risks and mitigate potential loss scenarios.",
+                                "title": "Focus on Stress Tests & Scenario Analysis"
+                            }
+                        ],
+                        "leadershipSection": {
+                            "name": "introduction",
+                            "title": "About Us",
+                            "text": "Founded in 2002, we are a leading global alternative investment management platform, specialising in global macro and digital assets. We manage assets for institutional investors around the world including sovereign wealth funds, corporate and public pension plans, foundations and endowments.<br />\r\n<br />\r\nWe have over 1122+ team members and over 162+ Portfolio Managers/Traders/Sub-PMs with offices in London, New York, Geneva, Jersey, Hong Kong, Abu Dhabi, Singapore, Austin, Chicago and the Cayman Islands.<br />\r\n<br />\r\nThe firm is led by CEO, Aron Landy.",
+                            "quoteText": "Our purpose is to deliver outstanding investment returns to our clients in every macroeconomic environment.",
+                            "fullName": "Aron Landy",
+                            "companyPosition": "chief executive officer",
+                            "imageText": "By utilising our exceptional talent base, innovative technology and tenured institutional infrastructure, we seek to deliver the best results possible for our clients whilst staying at the forefront of our evolving industry.",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/about_intro_new_crop_desktop.jpg",
+                                "mediaItemId": 1166,
+                                "modified": "2021-04-13 15:01:03",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/about_intro_new_crop_desktop-dc6b4a708fa364d19dc8dcf60fb7db53.jpg",
+                                            "width": 640
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/aAAwDAQACEAMQAAABRniWerTAyKoR2Z7FAlhI/8QAHRAAAwACAgMAAAAAAAAAAAAAAQIDABEEEhMiI//aAAgBAQABBQKTdYqw26l2JIz2OEbKcjwTkZWLJ2b5MgM9NYBv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAESEf/aAAgBAwEBPwGMxlx//8QAGREBAQADAQAAAAAAAAAAAAAAAQACERIx/9oACAECAQE/AX2F1ORd3//EACAQAAIBBAEFAAAAAAAAAAAAAAABEQISIUExEBMiYoH/2gAIAQEABj8CtfOujqlIUDMtCVs/R1XJN6HE4xyKe5Oy3yiR2049sn//xAAcEAACAwADAQAAAAAAAAAAAAABEQAhMUFxgZH/2gAIAQEAAT8heECajntSwk4JgAsWlABEBXNwJUiK5gCVzP3AKIiXtewK9CwIcefDghQtwRTGu4DGeif/2gAMAwEAAgADAAAAEBgsMf/EABkRAQACAwAAAAAAAAAAAAAAAAEAERAhMf/aAAgBAwEBPxClGuRRWsn/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxBIt7BDZa5sFRs//8QAIBABAAICAgEFAAAAAAAAAAAAAREhADFBUaFhcYGx0f/aAAgBAQABPxB2ciBdP5fjAoMAovHXn7yPgVQEOMDAFCyN40hs0GUTchHoOqxUwU1It6RxvFsNZEDVon3MWjmlSguHA3FotGbg4rCu34K+tJH5jLSARAGibrnP/9k=",
+                                            "aspectRatio": 0.6666666666666666,
+                                            "src": "/static/dc6b4a708fa364d19dc8dcf60fb7db53/db297/about_intro_new_crop_desktop.jpg",
+                                            "srcSet": "/static/dc6b4a708fa364d19dc8dcf60fb7db53/e598e/about_intro_new_crop_desktop.jpg 160w,\n/static/dc6b4a708fa364d19dc8dcf60fb7db53/ef340/about_intro_new_crop_desktop.jpg 320w,\n/static/dc6b4a708fa364d19dc8dcf60fb7db53/db297/about_intro_new_crop_desktop.jpg 640w",
+                                            "sizes": "(max-width: 640px) 100vw, 640px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/about_intro_new_crop_mobile.jpg",
+                                "mediaItemId": 1167,
+                                "modified": "2021-04-13 15:01:08",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/about_intro_new_crop_mobile-a45caac2ede97a99aa9642f991c0e9be.jpg",
+                                            "width": 390
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAXABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/2gAMAwEAAhADEAAAAYa1+pqVlMM58Yq+ocP/xAAaEAADAQEBAQAAAAAAAAAAAAAAAQIDIRIT/9oACAEBAAEFAnhmlOcnxzLpNJj0lHvivrs//8QAGBEBAQADAAAAAAAAAAAAAAAAAQADEhP/2gAIAQMBAT8BcZcyLZv/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDERMx/9oACAECAQE/AZyPR0Y/RRLP/8QAHxAAAQMDBQAAAAAAAAAAAAAAAAECEQMgITJBcYGx/9oACAEBAAY/ApVjRZp8ZNLSOyU2U8xZ/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFhQVH/2gAIAQEAAT8hSUG7L1EoK3OSUb5Ww0M3ljzwl65GyIfTfCD22xRPYt/Z/9oADAMBAAIAAwAAABD8EEP/xAAZEQADAAMAAAAAAAAAAAAAAAAAAREhcZH/2gAIAQMBAT8QoiNfWM2qyOKf/8QAGBEBAQADAAAAAAAAAAAAAAAAAQARQZH/2gAIAQIBAT8QUlhdPCAYEIKX/8QAIBABAAICAQQDAAAAAAAAAAAAAREhADGRQVGBsXGhwf/aAAgBAQABPxCNDCkHypw31EGkqt9P3OiU3I1zjyQoUq+z6HAbLNnZFnknzGRNlgglC1goPQ2TFUce8IVS2sLFEGr0duZz/9k=",
+                                            "aspectRatio": 0.8839779005524862,
+                                            "src": "/static/a45caac2ede97a99aa9642f991c0e9be/eb69e/about_intro_new_crop_mobile.jpg",
+                                            "srcSet": "/static/a45caac2ede97a99aa9642f991c0e9be/e598e/about_intro_new_crop_mobile.jpg 160w,\n/static/a45caac2ede97a99aa9642f991c0e9be/ef340/about_intro_new_crop_mobile.jpg 320w,\n/static/a45caac2ede97a99aa9642f991c0e9be/eb69e/about_intro_new_crop_mobile.jpg 390w",
+                                            "sizes": "(max-width: 390px) 100vw, 390px"
+                                        }
+                                    }
+                                }
+                            },
+                            "ceoPhoto": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-ceo-img.jpg",
+                                "mediaItemId": 1086,
+                                "modified": "2021-04-05 11:47:35",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-ceo-img-7ac5a94c5f224520932d9b4f9fbe4dcb.jpg",
+                                            "width": 456
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAQFBgP/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABu4sDnLfhHHwQrVhT/8QAHxAAAgECBwAAAAAAAAAAAAAAAgMBBAUAERMUISIk/9oACAEBAAEFAi4BRFqYrLhKS3kIASgwuUexfc6FmaP/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8BEiC//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ATaiv//EACAQAAEEAQQDAAAAAAAAAAAAAAEAAgMREiEiMVEQYXH/2gAIAQEABj8CJ6CouysdceDFG3d2VHMGZNk0PpBw4ItfQE2EnblaLa0Y4tC//8QAHhABAAICAQUAAAAAAAAAAAAAAQARITFBYXGB4fD/2gAIAQEAAT8hSWWohE2QsbpaVMBjvUeIknYC8s2TUOhMusR2YqLDt6nVEzx8z//aAAwDAQACAAMAAAAQfyhA/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERMRAhUf/aAAgBAwEBPxDYm8Km1PR2f//EABkRAAIDAQAAAAAAAAAAAAAAAAABEBExIf/aAAgBAgEBPxDgrIdqxYf/xAAfEAEAAgICAgMAAAAAAAAAAAABESEAQTFRYXGBscH/2gAIAQEAAT8Q8qPAQowc0wDCihNN8zq8b4CdEL8pNbU8te8I8lD4kd2kTrJdrR6ST7w7EmL54/MvmSKMwmOphlxbAmxhBYuKfGf/2Q==",
+                                            "aspectRatio": 0.967741935483871,
+                                            "src": "/static/7ac5a94c5f224520932d9b4f9fbe4dcb/39477/ph-ceo-img.jpg",
+                                            "srcSet": "/static/7ac5a94c5f224520932d9b4f9fbe4dcb/92c51/ph-ceo-img.jpg 210w,\n/static/7ac5a94c5f224520932d9b4f9fbe4dcb/6c1b0/ph-ceo-img.jpg 420w,\n/static/7ac5a94c5f224520932d9b4f9fbe4dcb/39477/ph-ceo-img.jpg 456w",
+                                            "sizes": "(max-width: 456px) 100vw, 456px"
+                                        }
+                                    }
+                                }
+                            },
+                            "image2": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/whiteboard-img.jpg",
+                                "mediaItemId": 1087,
+                                "modified": "2021-04-05 11:48:38",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/whiteboard-img-c9d4c12549ea0c01df7ffa5ae6c1a840.jpg",
+                                            "width": 880
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAGi9lb8WsJh/8QAGhABAAIDAQAAAAAAAAAAAAAAAwACAQQhEf/aAAgBAQABBQLdrme1vBfB0RLomn2Lxf/EABYRAQEBAAAAAAAAAAAAAAAAAAAxQf/aAAgBAwEBPwHFf//EABYRAQEBAAAAAAAAAAAAAAAAAAAxQf/aAAgBAgEBPwHUf//EABwQAAICAgMAAAAAAAAAAAAAAAABAhIRQVFhgv/aAAgBAQAGPwKLu0uExx6K02Wk8s8kkf/EABoQAAMBAQEBAAAAAAAAAAAAAAABESExUXH/2gAIAQEAAT8hUcg8m+k197+DpFxtbhVMMknpdqOU/9oADAMBAAIAAwAAABD/AB//xAAXEQEBAQEAAAAAAAAAAAAAAAABACFx/9oACAEDAQE/EAHmQ03/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8QVu4G/8QAGxABAQADAQEBAAAAAAAAAAAAAREAIUExYZH/2gAIAQEAAT8QP9kCLu+EsMHRwl+mkUe7xjdKT8jN3BTwE4GuHMU+BI/ShjO6P3P/2Q==",
+                                            "aspectRatio": 1.6058394160583942,
+                                            "src": "/static/c9d4c12549ea0c01df7ffa5ae6c1a840/902f3/whiteboard-img.jpg",
+                                            "srcSet": "/static/c9d4c12549ea0c01df7ffa5ae6c1a840/8d9ee/whiteboard-img.jpg 220w,\n/static/c9d4c12549ea0c01df7ffa5ae6c1a840/68753/whiteboard-img.jpg 440w,\n/static/c9d4c12549ea0c01df7ffa5ae6c1a840/902f3/whiteboard-img.jpg 880w",
+                                            "sizes": "(max-width: 880px) 100vw, 880px"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "methodologySection": {
+                            "leftTextColumn": "Our investment approach combines directional, relative value and derivative trading strategies designed to deliver orthogonal but complementary return streams across a broad range of investment solutions.",
+                            "rightTextColumn": "We differentiate our investment process via our three core pillars of expertise in macro thinking, trade structuring and risk management.",
+                            "title": "Three Pillars <br />\r\nof Expertise",
+                            "name": "investment approach",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-mtd.jpg",
+                                "mediaItemId": 1088,
+                                "modified": "2021-04-05 11:49:27",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-mtd-03c91fd4fe48c26db16a3c8d32ef43b0.jpg",
+                                            "width": 560
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/aAAwDAQACEAMQAAABhN93dMqZIGyahNOdKUhOv//EAB0QAAICAQUAAAAAAAAAAAAAAAIDAQQAERMjMTL/2gAIAQEAAQUCOvldEnm0AxSaWpcajIiKTGsqtZlTDUlsv94Xf//EABcRAQADAAAAAAAAAAAAAAAAAAABEBL/2gAIAQMBAT8BqGX/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARESMf/aAAgBAgEBPwHq0tP/xAAiEAACAgEBCQAAAAAAAAAAAAAAAQIREoEDECExMlFhcbH/2gAIAQEABj8CzhqUtWVwRhVr4Seyimy5XZhDqfNniRmpON9hi97v/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERMSFBUbFhcZH/2gAIAQEAAT8hcldtFvycD/AS6cSwmxlZjSuMwux5kNyTEwgz5mxPZtJMDpCsavR//9oADAMBAAIAAwAAABAswg//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EDlrJ0Y1f//EABgRAAIDAAAAAAAAAAAAAAAAAAERABBx/9oACAECAQE/ECgduJ//xAAjEAEAAQMEAAcAAAAAAAAAAAABEQAhMUFRYdEQcYGRobHw/9oACAEBAAE/EDAlpcobN6fghMoWHdJIoAYx60d853nbj2plEKorLmGrxSX3NQq0XIztcN+tqRFZeyNfO9R3okwC6sOK+f8ATwT9HLX/2Q==",
+                                            "aspectRatio": 0.8,
+                                            "src": "/static/03c91fd4fe48c26db16a3c8d32ef43b0/92ddd/ph-mtd.jpg",
+                                            "srcSet": "/static/03c91fd4fe48c26db16a3c8d32ef43b0/8d9ee/ph-mtd.jpg 220w,\n/static/03c91fd4fe48c26db16a3c8d32ef43b0/68753/ph-mtd.jpg 440w,\n/static/03c91fd4fe48c26db16a3c8d32ef43b0/92ddd/ph-mtd.jpg 560w",
+                                            "sizes": "(max-width: 560px) 100vw, 560px"
+                                        }
+                                    }
+                                }
+                            },
+                            "list": [
+                                {
+                                    "text": "Global macro research serves as the backbone of our investment process.",
+                                    "title": "Macro Thinking"
+                                },
+                                {
+                                    "text": "We seek to structure convex trades, where the upside potential significantly outweighs the downside.",
+                                    "title": "Trade Structuring"
+                                },
+                                {
+                                    "text": "Our risk management process focuses on maximising potential returns while protecting capital invested.",
+                                    "title": "Risk Management"
+                                }
+                            ]
+                        },
+                        "globeSection": {
+                            "name": "investment strategies",
+                            "leftTextColumn": "<p>Our investment strategies address a wide range of portfolio needs, actively investing and pursuing opportunities across a broad range of asset classes, instruments, and geographies globally, including digital asset strategies.</p>\n<p>The product suite includes multi-portfolio manager strategies, single-portfolio manager strategies and thematic co-investment opportunities.</p>\n",
+                            "rightTextColumn": "<p>For further information on all of our strategies, please log in below or <a href=\"mailto:ir@brevanhoward.com\">contact us</a>.</p>\n",
+                            "title": "Investment Opportunities",
+                            "acflinkAcfLink": {
+                                "externalUrl": "https://portal.brevanhoward.com/",
+                                "fieldGroupName": "acflink_acf_link",
+                                "linkText": "Login for Details",
+                                "type": "external",
+                                "openInNewWindow": true,
+                                "linkToPage": null
+                            }
+                        },
+                        "banner": {
+                            "name": null,
+                            "title": "Culture ",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-culture.jpg",
+                                "mediaItemId": 1095,
+                                "modified": "2021-04-05 11:52:16",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-culture-780408806adcc1d5f5b8f895d8836700.jpg",
+                                            "width": 1920
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/9oADAMBAAIQAxAAAAHNMU4jb//EABgQAQADAQAAAAAAAAAAAAAAAAEAAxET/9oACAEBAAEFAu0bHGxn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFRABAQAAAAAAAAAAAAAAAAAAARD/2gAIAQEABj8CL//EABoQAQABBQAAAAAAAAAAAAAAAAERABAhMUH/2gAIAQEAAT8hlGHLIl2Ff//aAAwDAQACAAMAAAAQB8//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBn/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QCf/EABkQAQEBAQEBAAAAAAAAAAAAAAERACFhkf/aAAgBAQABPxB4CIy/Mm0Eoy9y1PApv//Z",
+                                            "aspectRatio": 2.4096385542168677,
+                                            "src": "/static/780408806adcc1d5f5b8f895d8836700/807a7/ph-culture.jpg",
+                                            "srcSet": "/static/780408806adcc1d5f5b8f895d8836700/00333/ph-culture.jpg 200w,\n/static/780408806adcc1d5f5b8f895d8836700/c2a2a/ph-culture.jpg 400w,\n/static/780408806adcc1d5f5b8f895d8836700/807a7/ph-culture.jpg 800w,\n/static/780408806adcc1d5f5b8f895d8836700/f43cc/ph-culture.jpg 1200w,\n/static/780408806adcc1d5f5b8f895d8836700/3c629/ph-culture.jpg 1600w,\n/static/780408806adcc1d5f5b8f895d8836700/b1e91/ph-culture.jpg 1920w",
+                                            "sizes": "(max-width: 800px) 100vw, 800px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/about-banner-m.jpg",
+                                "mediaItemId": 1123,
+                                "modified": "2021-04-08 08:41:00",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/about-banner-m-6edc6c7c09e3da678010417c53f0bc04.jpg",
+                                            "width": 780
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAiABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/2gAMAwEAAhADEAAAAYZutM9SgYor1VKSU0i9Cz//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEQIjECIf/aAAgBAQABBQJfg3i7g0HuyPYd1rWMMf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EABsQAAICAwEAAAAAAAAAAAAAAAEQACERIDEy/9oACAEBAAY/Atvc7lXKBZX/xAAfEAADAAIBBQEAAAAAAAAAAAAAAREhMUEQUWGBkaH/2gAIAQEAAT8h5WSTkXhsbpBO6CKUVe49FR9BNzZhsgnV0LuJzlfo7mxm8m99P//aAAwDAQACAAMAAAAQXzOz8B//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEB/9oACAEDAQE/EKV6v//EABcRAAMBAAAAAAAAAAAAAAAAAAAQEQH/2gAIAQIBAT8QhCrF/8QAHRABAAMAAwEBAQAAAAAAAAAAAQARITFBYVFxof/aAAgBAQABPxBzRHQsddBw7jEhQD4MvSw8g4X2bYcGWLAAPaybAjxScJ/RLqUX4rmaCisZ+ymvvwQBpFPTFrL0xD4T/9k=",
+                                            "aspectRatio": 0.5813953488372093,
+                                            "src": "/static/6edc6c7c09e3da678010417c53f0bc04/4e86b/about-banner-m.jpg",
+                                            "srcSet": "/static/6edc6c7c09e3da678010417c53f0bc04/00333/about-banner-m.jpg 200w,\n/static/6edc6c7c09e3da678010417c53f0bc04/c2a2a/about-banner-m.jpg 400w,\n/static/6edc6c7c09e3da678010417c53f0bc04/4e86b/about-banner-m.jpg 780w",
+                                            "sizes": "(max-width: 780px) 100vw, 780px"
+                                        }
+                                    }
+                                }
+                            },
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "More Details",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/culture/"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "pageContext": {
+            "id": "cG9zdDo0OQ=="
+        }
+    },
+    "staticQueryHashes": [
+        "1296785774",
+        "2238259800",
+        "2997433256",
+        "3252952258",
+        "63159454",
+        "791754293",
+        "886364674"
+    ]
+}

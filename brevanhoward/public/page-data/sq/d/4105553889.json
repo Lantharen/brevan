@@ -1,0 +1,19 @@
+{
+    "data": {
+        "img": {
+            "childImageSharp": {
+                "original": {
+                    "src": "/static/partnership-globe-6c3448a65b66b72deef1c62924c5efb6.png",
+                    "width": 936
+                },
+                "fluid": {
+                    "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAADW0lEQVQ4y12US08TURTHz+3MtKUWWijwEXThR3DFwkRNAMGCYHShxqjxA7h36da4UHxEXaiETiul7Z2ZFlroi9IK+CDE9wJ14c64MCQ4nnN7Z/pY/Htv2zO/+Z//nLnwumzBdsUCWutlE2z7HzTKpqdaNrWP1axi11c8T1bT3sW1jJYtcjVXNLQf6znVrheYvVuHP7UV+FTJwpdqVjBgCz9I9KVUMtlPLH5fsRR4eh+OpubZSR7rGeOx0DiPhUcyC9rdlSW4aiW8d/JLvv2NFaVQNOAvQveqOQEVMHJYK5vsWzWrXrMS2hjXQ2e4Hpwy9NC0oQ+hgtPNfWTW0D0Thu7HG0QQfAgh6k45CwcbeeFUwLA99q5iaeNcVya53ocXDiJsaIrjyvVe3IdRfhTt1RlDZ1jTO4H/XzDjwc8INdcM2EenSM3BZtnSFtc4G0kveM4bcQ9CwgKGjnANoPpxT46BFOVxWgPkGKFDN6xE4HdtWbHflgGzMxV8CArmBoeT8zCawYu4cDQoHQ5KODn2oSBqCKCoQ2g/Zfwgn/LZjQIjoIoCeDZHBVSoCGeG65CAA7j3oZioaSlAcWBM4YvY+gE+JBc4V0g5QCZbdNyRM6/8DzqAzZsMS/fhQsnQXOAmqu2igCzqmaKnzXXNya8LKuooy9Ncj9zLp7wiw3bgNKmZI4FCEuqXUcAk5dcCatQBTQXmGMEcAy6QFJWFZzOuG2rJcdlHrUc7MhRw34wRD+DsRh4VUj1uy6TjmVh7Ps5K+Q3LLIfkLCqim0zT7XUrwXCG+28vJ/0dQNJ0ayQgagqgX+TZfOotcV2lutl0jDoTszuP77wAbsoMt6tcQDsegJy3jnnE2RM3xJZHeQxOZWLqZTMR/LWeU5wMlZZLC16sZrqh5GagbZTEgI+iQq+ew5HkS/a4kPbZ9TxzWtXa2ybdWk62A71u2xKGroDerg94wuyt59huJaviCo4rhtJqRcsF1kSeLjAoYTQmcMVM0FEn6rYqFsNzVHuYT0MejzLRohSTTlmz0ISb2UU4ll4AHIvec0bcdwJdXULYDjprNI14yEgbowPYDhWZvsELK+jE3l4DfK3gO7b0tUInM93UUkmNUsf13UDTWT1ynITwzPTj6pM3kr+LmLoNwX8qWSNDlAzI/gAAAABJRU5ErkJggg==",
+                    "aspectRatio": 0.9962406015037594,
+                    "src": "/static/6c3448a65b66b72deef1c62924c5efb6/c7fa2/partnership-globe.png",
+                    "srcSet": "/static/6c3448a65b66b72deef1c62924c5efb6/7caf8/partnership-globe.png 265w,\n/static/6c3448a65b66b72deef1c62924c5efb6/2b60b/partnership-globe.png 530w,\n/static/6c3448a65b66b72deef1c62924c5efb6/c7fa2/partnership-globe.png 936w",
+                    "sizes": "(max-width: 936px) 100vw, 936px"
+                }
+            }
+        }
+    }
+}

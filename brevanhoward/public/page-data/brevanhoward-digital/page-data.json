@@ -1,0 +1,343 @@
+{
+    "componentChunkName": "component---src-templates-digital-assets-js",
+    "path": "/brevanhoward-digital",
+    "result": {
+        "data": {
+            "wpgraphql": {
+                "page": {
+                    "title": "Brevan Howard Digital",
+                    "digitalassetsacf": {
+                        "modalFooterTitle": "DISCLOSURE ACCEPTANCE",
+                        "modalFooterText": "By clicking ‘I Accept’ you acknowledge you have read and understand these disclosures.",
+                        "modalCloseButtonLabel": "Close",
+                        "modalAcceptButtonLabel": "I Accept",
+                        "disclosuresModalData": {
+                            "title": "Digital Asset Disclosures",
+                            "content": [
+                                {
+                                    "text": "BREVAN HOWARD CAPITAL MANAGEMENT LP IS A MEMBER OF NFA AND IS SUBJECT TO NFA'S REGULATORY OVERSIGHT AND EXAMINATIONS. BREVAN HOWARD CAPITAL MANAGEMENT LP HAS ENGAGED OR MAY ENGAGE IN UNDERLYING OR SPOT VIRTUAL CURRENCY TRANSACTIONS IN A COMMODITY POOL. ALTHOUGH NFA HAS JURISDICTION OVER BREVAN HOWARD CAPITAL MANAGEMENT LP AND ITS COMMODITY POOL, YOU SHOULD BE AWARE THAT NFA DOES NOT HAVE REGULATORY OVERSIGHT AUTHORITY FOR UNDERLYING OR SPOT MARKET VIRTUAL CURRENCY PRODUCTS OR TRANSACTIONS OR VIRTUAL CURRENCY EXCHANGES, CUSTODIANS OR MARKETS. YOU SHOULD ALSO BE AWARE THAT GIVEN CERTAIN MATERIAL CHARACTERISTICS OF THESE PRODUCTS, INCLUDING LACK OF A CENTRALIZED PRICING SOURCE AND THE OPAQUE NATURE OF THE VIRTUAL CURRENCY MARKET, THERE CURRENTLY IS NO SOUND OR ACCEPTABLE PRACTICE FOR NFA TO ADEQUATELY VERIFY THE OWNERSHIP AND CONTROL OF A VIRTUAL CURRENCY OR THE VALUATION ATTRIBUTED TO A VIRTUAL CURRENCY BY BREVAN HOWARD CAPITAL MANAGEMENT LP.",
+                                    "title": "DIGITAL ASSET DISCLAIMER"
+                                }
+                            ]
+                        },
+                        "riskFactorsModalData": {
+                            "title": "Digital Asset Risk Factors",
+                            "content": [
+                                {
+                                    "text": "Crypto currencies are not legal tender in the United States. The level of the intrinsic values of digital assets may be subject to a broad spectrum of opinions. The price of many digital assets is based on the agreement of the parties to a transaction. There are specific risks associated with the unique features of digital assets which need to be understood.",
+                                    "title": "Unique Features of Digital Assets "
+                                },
+                                {
+                                    "text": "The price of a digital asset is based on the perceived value of the digital asset and can be subject to changes in sentiment, which may make these products highly volatile. Certain digital assets, such as some crypto currencies have experienced daily price volatility of more than 20%. Prospective investors should be aware of the potentially extreme price volatility of some digital assets and the possibility of rapid and substantial price movements, which could potentially result in significant losses.",
+                                    "title": "Price Volatility"
+                                },
+                                {
+                                    "text": "Digital assets can be traded through privately negotiated transactions and through numerous digital assets exchanges and intermediaries around the world. The lack of a centralised pricing source may pose a variety of valuation challenges. In addition, the dispersed liquidity may pose challenges for market participants trying to exit a position, particularly during periods of stress. Brevan Howard has valuation policies and procedures for assets, including digital assets, that take into account their access to liquidity and the volatility of relevant markets.",
+                                    "title": "Valuation and Liquidity"
+                                },
+                                {
+                                    "text": "The cybersecurity risks of crypto currencies and related “wallets” or spot exchanges include hacking vulnerabilities and a risk that publicly distributed ledgers may not be immutable. A cybersecurity event could potentially result in a substantial, immediate and irreversible loss for market participants that trade digital assets. Even a minor cybersecurity event in a digital asset is likely to result in downward price pressure on that product and potentially other digital assets.",
+                                    "title": "Cybersecurity"
+                                },
+                                {
+                                    "text": "The relatively new and rapidly evolving technology underlying digital assets introduces unique risks. For example, a unique private key is required to access, use or transfer a crypto currency on a blockchain or distributed ledger. The loss, theft or destruction of a private key may result in an irreversible loss. The ability to participate in forks (a change in the blockchain’s protocol that the software uses to decide whether a transaction is valid or not) could also have implications for investors. For example, a market participant holding a crypto currency position through a crypto currency exchange may be adversely impacted if the exchange does not allow its customers to participate in a fork that creates a new product.",
+                                    "title": "Technology"
+                                },
+                                {
+                                    "text": "Crypto currency balances are generally maintained as an address on the blockchain and are accessed through private keys, which may be held by a market participant or a custodian. Although crypto currency transactions are typically publicly available on a blockchain or distributed ledger, the public address does not identify the controller, owner or holder of the private key. Unlike bank and brokerage accounts, digital assets exchanges and custodians that hold digital assets do not always identify the owner. The opaque underlying or spot market may pose asset verification challenges for market participants, regulators and auditors and potentially give rise to an increased risk of manipulation and fraud.",
+                                    "title": "Opaque Spot Market"
+                                },
+                                {
+                                    "text": "Digital asset exchanges, as well as other intermediaries, custodians and vendors used to facilitate digital assets transactions, are relatively new and largely unregulated in both the United States and many foreign jurisdictions. Crypto currency exchanges generally purchase crypto currencies for their own account on the public ledger and allocate positions to customers through internal bookkeeping entries while maintaining exclusive control of the private keys. Under this structure, crypto currency exchanges collect large amounts of customer funds for the purpose of buying and holding virtual currencies on behalf of their customers. The opaque underlying spot market and lack of regulatory oversight potentially creates a risk that a crypto currency exchange may not hold sufficient crypto currencies and funds to satisfy its obligations and that such deficiency may not be easily identified or discovered. Many digital asset exchanges have experienced significant outages, downtime and transaction processing delays and may have a higher level of operational risk than regulated futures or securities exchanges.",
+                                    "title": "Digital Asset Exchanges, Intermediaries and Custodians"
+                                },
+                                {
+                                    "text": "Digital assets currently face an uncertain regulatory landscape in the United States and many foreign jurisdictions. In the United States, digital assets are not subject to federal regulatory oversight but may be regulated by one or more state regulatory bodies. In addition, many digital asset  derivatives are regulated by the CFTC, and the SEC has cautioned that many initial coin offerings are likely to fall within the definition of a security and subject to U.S. securities laws. One or more jurisdictions may, in the future, adopt laws, regulations or directives that affect digital asset networks and their users. Such laws, regulations or directives may impact the price of digital assets and their acceptance by users, merchants and service providers.",
+                                    "title": "Regulatory Landscape"
+                                },
+                                {
+                                    "text": "Many crypto currencies allow market participants to offer miners (i.e., parties that process transactions and record them on a blockchain or distributed ledger) a fee. A fee is generally necessary to ensure that a transaction is promptly recorded on a blockchain or distributed ledger. The amounts of these fees are subject to market forces and it is possible that the fees could increase substantially during a period of stress. In addition, digital asset exchanges, wallet providers and other custodians may charge high fees relative to custodians in many other financial markets.",
+                                    "title": "Transaction Fees"
+                                },
+                                {
+                                    "text": "Digital asset derivatives may experience significant price volatility and the initial margin for digital asset derivatives may be set as a percentage of the value of a particular contract, which means that margin requirements for long positions can increase if the price of the contract rises. In addition, some futures commission merchants may pose restrictions on customer trading activity in digital asset derivatives, such as requiring additional margin, imposing position limits, prohibiting naked shorting or prohibiting give-in transactions. The rules of certain designated contract markets impose trading halts that may restrict a market participant's ability to exit a position during a period of high volatility.",
+                                    "title": "Digital Asset Derivatives"
+                                }
+                            ]
+                        },
+                        "heroSectionTitle": "Crypto & Digital<br />\r\nAsset Division",
+                        "heroSectionBackground": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2022/05/da-hero-globe.png",
+                            "mediaItemId": 1353,
+                            "modified": "2022-05-16 10:46:34",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/da-hero-globe-f134646ba7e044b3a2b96a8291db87b5.png",
+                                        "width": 946
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAACk0lEQVQ4y72TTWsTQRjHn9nsS76NH0APolWrhWKttYgHQSgFDx78Cn4FBT15FYRmU7M7m5dCMcnuxppkEwoRVBoQEbx48eZB/8/M7LpGc9CDA39ml9n9zf95o0kS0iSRlBXCexqq/bhbp1EaWm+PpNjp1K07nXplo+U7V5p+hR4/pc2WT9eMtiC1GFiGZRomALWwu7jMmaTSmw9khe49pNkgtB8c7jPUud2u01WANo0UVDvULicMSkIvVxZLbxIDmEgbF7qHcSjGSWh/eCW9573AXm/57v2DfeXwRhk4VTCpneEHPFcBqzIIQBeqQHAtaZpKMcRl80HkPXnZsNfg9HRUUw5vwrEJuXBI+NEyME8pNuLzWNJJXxmwh3HofRxEzm6n7qw1a9Zqs0bXc4fjWIGUAGNXVQOrGqDFUYzNN+wW37lvkIZ6L3AAs8/C5XZemCyWxqFShUMuHCbSYkgaB+VvBJ9xJDPkGPmzEbKAUw0sO5zGEZm8OSp3DEwKZ4VDdj+C5nC50/bZpVgtA7NffohItYsuSgVnCsrfcOgjfYEDoPcewN2O76xENXExMkDVj/GCi74qFINck08nT80Q+6MXKXX7oTjB+V0U5hwDmyXgLDvQISfKHY37uuKmQLk4b5wGOoaCXkDvEAmmyFlByJfKwHxlutKFjMO8SNyf3OT0CRP1ZSCF7DWc9VbNvgzYrba/BGhG0VQUI6hhCm4umiVwB2jYawg0tjgl99TE/HFlxeTIPI9V41TkOf48kPTtKKJn3QZdgLszKMjGMuDP2ZZ5td0p96HpBtZXwL6/btIegNx/56GtpcA0WGx0UbwrKCtABIHejZYuDYyMZGnXQN7/av0OlMU7u/unVYzbwtj99/UDzjqrqiCT8JYAAAAASUVORK5CYII=",
+                                        "aspectRatio": 0.9900990099009901,
+                                        "src": "/static/f134646ba7e044b3a2b96a8291db87b5/e65c5/da-hero-globe.png",
+                                        "srcSet": "/static/f134646ba7e044b3a2b96a8291db87b5/e83f5/da-hero-globe.png 200w,\n/static/f134646ba7e044b3a2b96a8291db87b5/4f767/da-hero-globe.png 400w,\n/static/f134646ba7e044b3a2b96a8291db87b5/e65c5/da-hero-globe.png 800w,\n/static/f134646ba7e044b3a2b96a8291db87b5/41419/da-hero-globe.png 946w",
+                                        "sizes": "(max-width: 800px) 100vw, 800px"
+                                    }
+                                }
+                            }
+                        },
+                        "aboutSection": {
+                            "title": "About <br />\r\nBrevan Howard Digital",
+                            "text": "Brevan Howard Digital (\"BH Digital\") launched in September 2021 and is the dedicated crypto and digital asset division of Brevan Howard, providing institutional investors access to the wide range of diverse opportunities presented by the structural disruption and innovation of blockchain technology.<br />\r\n<br />\r\nBH Digital pairs the institutional governance, controls and risk management of Brevan Howard with expertise native to crypto markets across investing and business operations.",
+                            "textRight": "We offer unconstrained, alpha-centric and diversified exposure to the wide range of investment opportunities available across the digital asset ecosystem via a multi-manager, multi-strategy approach across both private and public markets.<br />\r\n<br />\r\nBH Digital has over 60 team members and leverages the global footprint of Brevan Howard, operating in 8 of its 10 office locations worldwide. ",
+                            "quoteText": "Our belief in the huge diversity of opportunities within the digital asset space and the significance of this to long term investors is the reason we are delighted to launch BH Digital.",
+                            "name": "Introduction",
+                            "quoteFootnote": "September 2021",
+                            "imageMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2022/05/da-about-mobile.jpg",
+                                "mediaItemId": 1373,
+                                "modified": "2022-05-16 12:38:26",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/da-about-mobile-cbae5bdf98f39f6e493a69cb7007dc3e.jpg",
+                                            "width": 390
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwb/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAfOXlVBROWhVDb//xAAaEAEAAQUAAAAAAAAAAAAAAAABABAREiAh/9oACAEBAAEFAoEtQ5Mg0//EABYRAAMAAAAAAAAAAAAAAAAAAAAQIf/aAAgBAwEBPwEr/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFRABAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQEABj8CMH//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhUXGBkf/aAAgBAQABPyGZGPgvSJXs9BYBVh2YP//aAAwDAQACAAMAAAAQj8+C/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAQUf/aAAgBAwEBPxBi4v8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/ECP/xAAeEAEBAQACAQUAAAAAAAAAAAABEQAhMUFRYYGR4f/aAAgBAQABPxBiFOPOdlnazCchniutzs+nOoJ1U6t9tTSfnSSfuYyeH1q+Ud//2Q==",
+                                            "aspectRatio": 0.8849557522123894,
+                                            "src": "/static/cbae5bdf98f39f6e493a69cb7007dc3e/eb69e/da-about-mobile.jpg",
+                                            "srcSet": "/static/cbae5bdf98f39f6e493a69cb7007dc3e/00333/da-about-mobile.jpg 200w,\n/static/cbae5bdf98f39f6e493a69cb7007dc3e/eb69e/da-about-mobile.jpg 390w",
+                                            "sizes": "(max-width: 390px) 100vw, 390px"
+                                        }
+                                    }
+                                }
+                            },
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2022/07/da-about-wide.jpg",
+                                "mediaItemId": 1456,
+                                "modified": "2022-07-15 15:40:19",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/da-about-wide-aa1be6539f2042e7132e55fd7bf9d20b.jpg",
+                                            "width": 960
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABzjLNRYMJ/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAEQETH/2gAIAQEAAQUCEWpWf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAAIDAQAAAAAAAAAAAAAAAAABECExUf/aAAgBAQABPyFaUs6whU8H/9oADAMBAAIAAwAAABAPD//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgICAwAAAAAAAAAAAAABABExQSFRYXGx/9oACAEBAAE/EMT9gULHnuUXVvc0zmFwiofZP//Z",
+                                            "aspectRatio": 2.0408163265306123,
+                                            "src": "/static/aa1be6539f2042e7132e55fd7bf9d20b/807a7/da-about-wide.jpg",
+                                            "srcSet": "/static/aa1be6539f2042e7132e55fd7bf9d20b/00333/da-about-wide.jpg 200w,\n/static/aa1be6539f2042e7132e55fd7bf9d20b/c2a2a/da-about-wide.jpg 400w,\n/static/aa1be6539f2042e7132e55fd7bf9d20b/807a7/da-about-wide.jpg 800w,\n/static/aa1be6539f2042e7132e55fd7bf9d20b/39fae/da-about-wide.jpg 960w",
+                                            "sizes": "(max-width: 800px) 100vw, 800px"
+                                        }
+                                    }
+                                }
+                            },
+                            "fullName": "Aron Landy",
+                            "fieldGroupName": "about_section",
+                            "companyPosition": "Chief Executive Officer",
+                            "ceoPhoto": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-ceo-img.jpg",
+                                "mediaItemId": 1086,
+                                "modified": "2021-04-05 11:47:35",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-ceo-img-7ac5a94c5f224520932d9b4f9fbe4dcb.jpg",
+                                            "width": 456
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAQFBgP/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABu4sDnLfhHHwQrVhT/8QAHxAAAgECBwAAAAAAAAAAAAAAAgMBBAUAERMUISIk/9oACAEBAAEFAi4BRFqYrLhKS3kIASgwuUexfc6FmaP/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8BEiC//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ATaiv//EACAQAAEEAQQDAAAAAAAAAAAAAAEAAgMREiEiMVEQYXH/2gAIAQEABj8CJ6CouysdceDFG3d2VHMGZNk0PpBw4ItfQE2EnblaLa0Y4tC//8QAHhABAAICAQUAAAAAAAAAAAAAAQARITFBYXGB4fD/2gAIAQEAAT8hSWWohE2QsbpaVMBjvUeIknYC8s2TUOhMusR2YqLDt6nVEzx8z//aAAwDAQACAAMAAAAQfyhA/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERMRAhUf/aAAgBAwEBPxDYm8Km1PR2f//EABkRAAIDAQAAAAAAAAAAAAAAAAABEBExIf/aAAgBAgEBPxDgrIdqxYf/xAAfEAEAAgICAgMAAAAAAAAAAAABESEAQTFRYXGBscH/2gAIAQEAAT8Q8qPAQowc0wDCihNN8zq8b4CdEL8pNbU8te8I8lD4kd2kTrJdrR6ST7w7EmL54/MvmSKMwmOphlxbAmxhBYuKfGf/2Q==",
+                                            "aspectRatio": 0.966183574879227,
+                                            "src": "/static/7ac5a94c5f224520932d9b4f9fbe4dcb/39477/ph-ceo-img.jpg",
+                                            "srcSet": "/static/7ac5a94c5f224520932d9b4f9fbe4dcb/00333/ph-ceo-img.jpg 200w,\n/static/7ac5a94c5f224520932d9b4f9fbe4dcb/c2a2a/ph-ceo-img.jpg 400w,\n/static/7ac5a94c5f224520932d9b4f9fbe4dcb/39477/ph-ceo-img.jpg 456w",
+                                            "sizes": "(max-width: 456px) 100vw, 456px"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "teamSection": {
+                            "diagramDescription": "",
+                            "footnote": "Data as at 1 September 2023",
+                            "name": "Talent",
+                            "textLeft": "By utilising our exceptional talent base, innovative technology and tenured institutional infrastructure, we seek to deliver the best results possible for our clients whilst staying at the forefront of our evolving industry.",
+                            "title": "Our Team",
+                            "textRight": "In addition to leveraging the support of over 1000 Brevan Howard team members, BH Digital has built a strong global team that is a unique blend of crypto native talent and traditional investment expertise. ",
+                            "secondaryStats": [
+                                {
+                                    "item": {
+                                        "number": 14,
+                                        "sufix": "+",
+                                        "text": "Project Managers"
+                                    }
+                                },
+                                {
+                                    "item": {
+                                        "number": 20,
+                                        "sufix": "+",
+                                        "text": "Investment Professionals"
+                                    }
+                                },
+                                {
+                                    "item": {
+                                        "number": 15,
+                                        "sufix": "+",
+                                        "text": "Blockchain Engineers"
+                                    }
+                                }
+                            ],
+                            "primaryStat": {
+                                "number": 73,
+                                "sufix": "+",
+                                "text": "Professionals"
+                            }
+                        },
+                        "footprintSection": {
+                            "secondaryTitle": "24/7 Global Support<br />\r\nModel for a 24/7 Market",
+                            "text": "BH Digital utilises Brevan Howard’s global footprint across 8 offices to ensure trading, risk and operational support can be accessed irrespective of time zone, 24/7, 365 days per year, in line with the crypto market.",
+                            "title": "A Global Footprint<br />\r\nfor a Global Market"
+                        },
+                        "partnersSection": {
+                            "riskFactorsText": "Digital Asset Risk Factors",
+                            "riskFactorsLinkText": "click here",
+                            "disclosuresTitle": "Digital Asset Disclosures",
+                            "disclaimerTextLinkText": "click here",
+                            "disclaimerText": "Digital Asset Disclaimer",
+                            "items": [
+                                {
+                                    "itemIcon": "growth",
+                                    "title": "Growth Strategy "
+                                },
+                                {
+                                    "itemIcon": "blockchain",
+                                    "title": "Blockchain <br />\r\nDevelopment"
+                                },
+                                {
+                                    "itemIcon": "asymmetric",
+                                    "title": "Asymmetric Information <br />\r\nAdvantage"
+                                },
+                                {
+                                    "itemIcon": "globalNetwork",
+                                    "title": "Active Network <br />\r\nParticipation"
+                                },
+                                {
+                                    "itemIcon": "governance",
+                                    "title": "Voting & <br />\r\nGovernance"
+                                }
+                            ],
+                            "name": "Opportunity",
+                            "text": "BH Digital’s evergreen structure, as well our commitment to providing founders with a large range of value add services, allows us to be a long-term, strategic partner to the portfolio companies we invest in and collaborate with. For crypto projects looking to scale, we seek to provide support in the following key areas: ",
+                            "title": "Our Partners and<br />\r\nPortfolio Companies"
+                        },
+                        "workTogetherSection": {
+                            "title": "Let’s Work Together",
+                            "name": "Partner with us"
+                        },
+                        "offices": {
+                            "directionsButtonText": "Get Directions",
+                            "title": "Our Offices",
+                            "locations": [
+                                {
+                                    "city": "Austin",
+                                    "country": "United States",
+                                    "items": [
+                                        {
+                                            "address": "1221 South Congress Ave, Suite #250, Austin, TX 78704, United States",
+                                            "link": "https://goo.gl/maps/gGaphf8eV8Skeg7s6"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "city": "London",
+                                    "country": "United Kingdom",
+                                    "items": [
+                                        {
+                                            "address": "82 Baker Street, London, W1U 6AE, United Kingdom",
+                                            "link": "https://goo.gl/maps/CpNNCUvNnY8t2DEh6"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "city": "Jersey",
+                                    "country": "Channel Islands",
+                                    "items": [
+                                        {
+                                            "address": "37 Esplanade, 6th Floor, St Helier, JE2 3QA, Jersey",
+                                            "link": "https://goo.gl/maps/NPVQUfdxSoCD1bB29"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "city": "Geneva",
+                                    "country": "Switzerland",
+                                    "items": [
+                                        {
+                                            "address": "Rue du Rhone 7, Geneva, 1204, Switzerland",
+                                            "link": "https://goo.gl/maps/2j72s54LixfzHPnC9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "city": "New York",
+                                    "country": "United States",
+                                    "items": [
+                                        {
+                                            "address": "1345 Avenue of the Americas, 28th Floor, New York, NY 10105, United States",
+                                            "link": "https://www.google.com/maps/place/1345+6th+Ave,+New+York,+NY+10105,+USA/@40.7631127,-73.9812473,17z/data=!4m5!3m4!1s0x89c258f996744935:0x83d513996ee83707!8m2!3d40.7631087!4d-73.9790586"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "city": "Chicago",
+                                    "country": "United States",
+                                    "items": [
+                                        {
+                                            "address": "208 N Green Street, Chicago, IL 60607, United States",
+                                            "link": "https://www.google.com/maps/place/208+N+Green+St,+Chicago,+IL+60607,+USA/@41.88605,-87.6511371,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2cd008cac34b:0x7691c90f0feb735a!8m2!3d41.886046!4d-87.6489484"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "city": "Singapore",
+                                    "country": "Asia",
+                                    "items": [
+                                        {
+                                            "address": "6 Temasek Boulevard, #42-04 Suntec Tower 4, Singapore 038986",
+                                            "link": "https://goo.gl/maps/7hzQfhzuAA3XP6qY7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "city": "Abu Dhabi",
+                                    "country": "United Arab Emirates",
+                                    "items": [
+                                        {
+                                            "address": "Floor 17, Al Sarab Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi",
+                                            "link": "https://maps.app.goo.gl/dwjgWCYGY9xBbDxp9"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "contactSectionName": null,
+                        "contactSectionTitle": "Contact Us"
+                    }
+                }
+            }
+        },
+        "pageContext": {
+            "id": "cG9zdDoxMzIz"
+        }
+    },
+    "staticQueryHashes": [
+        "1296785774",
+        "1799853877",
+        "2575000949",
+        "2997433256",
+        "3154791081",
+        "4105553889",
+        "63159454",
+        "886364674"
+    ]
+}

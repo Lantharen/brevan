@@ -1,0 +1,79 @@
+{
+    "data": {
+        "wpgraphql": {
+            "themeSettings": {
+                "themesettingsacf": {
+                    "contactIrPhoneLink": "+442070226250",
+                    "contactIrPhoneText": "UK: +44 20 7022 6250",
+                    "contactIrPhoneLinkUsa": "+13322665060",
+                    "contactIrPhoneTextUsa": "US : +1 332 266 5060",
+                    "contactIrEmail": "ir@brevanhoward.com",
+                    "contactIrLabel": "Investor Relations / Fund Enquiries:",
+                    "otherEnquiriesEmail": "enquiries@brevanhoward.com",
+                    "otherEnquiriesLabel": "All Other Enquiries:",
+                    "otherEnquiriesPhoneLink": "+442070226200",
+                    "otherEnquiriesPhoneText": "+44 20 7022 6200",
+                    "pressEnquiriesGroupName": "Hillary Yaffe </br> Head of Communications",
+                    "pressEnquiriesLabel": "Press Enquiries:",
+                    "pressEnquiriesUkEmail": "Hillary.Yaffe@brevanhoward.com",
+                    "pressEnquiriesUkEmailText": "Hillary.Yaffe@brevanhoward.com",
+                    "pressEnquiriesUkPhoneLink": "+12126027938",
+                    "pressEnquiriesUkPhoneText": "+ 1 (212) 602–7938",
+                    "pressEnquiriesUsaEmail": "bh@peregrinecommunications.com",
+                    "pressEnquiriesUsaEmailText": "bh@peregrinecommunications.com",
+                    "pressEnquiriesUsaPhoneLink": null,
+                    "pressEnquiriesUsaPhoneText": "Peregrine Communications Group",
+                    "siteSocialLabel": "Social:",
+                    "siteSocialLinkedinLink": "https://www.linkedin.com/company/brevan-howard/",
+                    "siteSocialLinkedinLinkText": "linkedin.com/brevanhoward",
+                    "siteSocialBhDigitalLinkedinLink": "https://uk.linkedin.com/company/bh-digital-brevanhoward",
+                    "footerMenu": [
+                        {
+                            "label": "About Us",
+                            "url": "/about-us/"
+                        },
+                        {
+                            "label": "Culture",
+                            "url": "/culture/"
+                        },
+                        {
+                            "label": "Careers",
+                            "url": "/careers/"
+                        },
+                        {
+                            "label": "Contact",
+                            "url": "/contact/"
+                        },
+                        {
+                            "label": "Brevan Howard Digital",
+                            "url": "/brevanhoward-digital"
+                        }
+                    ],
+                    "footerLinks2": [
+                        {
+                            "label": "Request Access",
+                            "url": "https://portal.brevanhoward.com/login/request-access/"
+                        },
+                        {
+                            "label": "Notices",
+                            "url": "/notices/"
+                        }
+                    ],
+                    "footerLinks1": [
+                        {
+                            "label": "Privacy Policy",
+                            "url": "/privacy-policy/"
+                        },
+                        {
+                            "label": "Terms of Use",
+                            "url": "/terms-of-use/"
+                        }
+                    ],
+                    "footerLinkedinText": "LinkedIn/Brevan Howard",
+                    "footerBhDigitalLinkedinText": "LinkedIn/BH Digital",
+                    "footerContactTitle": "Contact"
+                }
+            }
+        }
+    }
+}

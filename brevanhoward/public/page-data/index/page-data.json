@@ -1,0 +1,318 @@
+{
+    "componentChunkName": "component---src-templates-homepage-js",
+    "path": "/",
+    "result": {
+        "data": {
+            "wpgraphql": {
+                "page": {
+                    "title": "Homepage",
+                    "homepageacf": {
+                        "heroTitle": "Macro & Derivatives<br />\r\nExcellence",
+                        "heroSectionImage": {
+                            "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-home-hero.jpg",
+                            "mediaItemId": 1103,
+                            "modified": "2021-04-05 13:38:06",
+                            "localImageFile": {
+                                "childImageSharp": {
+                                    "original": {
+                                        "src": "/static/ph-home-hero-4d507e121c7fc26fd4b4b938e007bfb6.jpg",
+                                        "width": 1200
+                                    },
+                                    "fluid": {
+                                        "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABh0lJDcaDL//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwASBBEh/9oACAEBAAEFAk9I5Gski1AtJmWvePKTZ//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhMh/9oACAEDAQE/AalSuGZ//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECE//aAAgBAgEBPwGadM0P/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECERJBYVH/2gAIAQEABj8C4hRezKMlXWKFU1sh4LG2qP/EABsQAAMBAQADAAAAAAAAAAAAAAABESExQYHh/9oACAEBAAE/IVo/sMRLTIVazI84JhY0hv31x+tHTtBmyH//2gAMAwEAAgADAAAAEAz/AP/EABkRAAIDAQAAAAAAAAAAAAAAAAARATFRof/aAAgBAwEBPxCINY+dP//EABoRAAICAwAAAAAAAAAAAAAAAAABESExQaH/2gAIAQIBAT8QcJWC2+H/xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhMVFBYXGB/9oACAEBAAE/ECkxfZ3HepYcVvFwyYYMGe0vnwwgRFJ0nJxwWodYQlGaam4gPRC8lz7P/9k=",
+                                        "aspectRatio": 1.3333333333333333,
+                                        "src": "/static/4d507e121c7fc26fd4b4b938e007bfb6/807a7/ph-home-hero.jpg",
+                                        "srcSet": "/static/4d507e121c7fc26fd4b4b938e007bfb6/00333/ph-home-hero.jpg 200w,\n/static/4d507e121c7fc26fd4b4b938e007bfb6/c2a2a/ph-home-hero.jpg 400w,\n/static/4d507e121c7fc26fd4b4b938e007bfb6/807a7/ph-home-hero.jpg 800w,\n/static/4d507e121c7fc26fd4b4b938e007bfb6/f43cc/ph-home-hero.jpg 1200w",
+                                        "sizes": "(max-width: 800px) 100vw, 800px"
+                                    }
+                                }
+                            }
+                        },
+                        "atAGlanceSectionName": "At a glance",
+                        "atAGlanceTitle": "Hallmarks of Brevan Howard",
+                        "atAGlanceItems": [
+                            {
+                                "itemIcon": "talent",
+                                "title": "Extraordinary People"
+                            },
+                            {
+                                "itemIcon": "technology",
+                                "title": "Best-in-Class Technology"
+                            },
+                            {
+                                "itemIcon": "product",
+                                "title": "Diversified Investment Products"
+                            },
+                            {
+                                "itemIcon": "macro",
+                                "title": "Outstanding Macro Analysis"
+                            },
+                            {
+                                "itemIcon": "collaborative",
+                                "title": "Structuring Expertise"
+                            },
+                            {
+                                "itemIcon": "risk",
+                                "title": "Excellence in Risk Management"
+                            }
+                        ],
+                        "usInNumbers": {
+                            "listFootnote": "*includes Traders and Sub-PMs. All data as of 1 November 2023.",
+                            "name": "about us",
+                            "text": "Founded in 2002, Brevan Howard is a leading global alternative investment management platform, specialising in global macro and digital assets. Our reputation, built up over nearly two decades, is founded on the quality of our exceptional people, our best-in-class technology and wide range of dynamic investment products offered within a rigorous institutional framework.",
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "More Details",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/about-us/"
+                                }
+                            },
+                            "numbersList": [
+                                {
+                                    "number": 1122,
+                                    "symbol": "+",
+                                    "text": "A diverse and global community of independent thinkers make up our inclusive workplace.",
+                                    "title": "Team Members"
+                                },
+                                {
+                                    "number": 162,
+                                    "symbol": "+",
+                                    "text": "Specialised in their fields and diversified across trading style and geography.",
+                                    "title": "Portfolio Managers*"
+                                },
+                                {
+                                    "number": 9,
+                                    "symbol": null,
+                                    "text": "Located in key regions to serve our global client base and access unique talent pools.",
+                                    "title": "Hubs"
+                                }
+                            ],
+                            "yearsNumber": 21,
+                            "title": "Firm Overview",
+                            "yearsText": "Investing in global markets, refining and improving our investment processes and delivering results for our clients.",
+                            "yearsTitle": "Year History"
+                        },
+                        "aboutBrevan": {
+                            "name": null,
+                            "title": "Investment<br />\r\nApproach ",
+                            "text": "Our investment approach combines directional, relative value and derivative trading strategies designed to deliver orthogonal but complementary returns across a broad range of investment solutions.<br />\r\n<br />\r\nWe differentiate our investment process via our three core pillars of expertise in macro thinking, trade structuring and risk management.",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-inv-st-1.jpg",
+                                "mediaItemId": 1104,
+                                "modified": "2021-04-05 13:39:06",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-inv-st-1-cb5eaa3a98123544bbf934c7abc6e1b8.jpg",
+                                            "width": 590
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAdABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQECBv/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABmv57BEkhjq02FPpjqOI//8QAGxAAAgMBAQEAAAAAAAAAAAAAAQIAAxIEExT/2gAIAQEAAQUCfpxFvDiz1V36TWa+zI+l0hSu13CVw7M6ahU7MdKi5//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEhA//aAAgBAwEBPwGMlSH3Rd4Yf//EABkRAQEAAwEAAAAAAAAAAAAAAAEAAgMRUf/aAAgBAgEBPwFwY1Me3W//xAAjEAABAwMCBwAAAAAAAAAAAAABAAIRAzFREiEQIjIzYXGh/9oACAEBAAY/Ah1O9LSDdQKlvCAynGOZ204UBy7vyyhrtYzCsnUwdpngCV//xAAcEAEAAwEBAAMAAAAAAAAAAAABABEhQTFRgeH/2gAIAQEAAT8hYoEeGWICPsl46vhFBrA3NrX14P7LTivpcauObMP1l2psKXeMm2i4HYoBV32f/9oADAMBAAIAAwAAABCU2o//xAAaEQEAAgMBAAAAAAAAAAAAAAABABEhMUHw/9oACAEDAQE/ELAvYFaGNGHiBXU//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAIAQIBAT8Q0REWwWYY6dP/xAAgEAEAAgICAQUAAAAAAAAAAAABABEhMUFhUXGBocHh/9oACAEBAAE/ELqENRoNrjsiqjYaqw+IA5oKxDv7lRegRQ1i+eYbgnwWqC1y7LBJsioJfVIt0K8AXyXfvCzASo+gOzuU24llMWENZ8Yo/ZcCncDCOlAzP//Z",
+                                            "aspectRatio": 0.6896551724137931,
+                                            "src": "/static/cb5eaa3a98123544bbf934c7abc6e1b8/60875/ph-inv-st-1.jpg",
+                                            "srcSet": "/static/cb5eaa3a98123544bbf934c7abc6e1b8/00333/ph-inv-st-1.jpg 200w,\n/static/cb5eaa3a98123544bbf934c7abc6e1b8/c2a2a/ph-inv-st-1.jpg 400w,\n/static/cb5eaa3a98123544bbf934c7abc6e1b8/60875/ph-inv-st-1.jpg 590w",
+                                            "sizes": "(max-width: 590px) 100vw, 590px"
+                                        }
+                                    }
+                                }
+                            },
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "More Details",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/about-us/"
+                                }
+                            }
+                        },
+                        "ourCulture": {
+                            "title": "The Brevan Howard <br />\r\nExperience",
+                            "rightTextColumn": "We bring together talented and devoted individuals with a wide range of synergistic skills and independent thinking and support them via a deeply collaborative firm culture that rewards results, initiative and integrity.<br />\r\n<br />\r\nBy investing in the continuous growth and personal development of our talent, we support them in reaching their full potential whilst also creating the optimal conditions for success.",
+                            "leftTextColumn": "Central to our unique culture are our people, whose innovation and application are the bedrock of Brevan Howard and fuel our collective success.",
+                            "name": "Culture",
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "More Details",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/culture/"
+                                }
+                            },
+                            "image1": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-cr-2.jpg",
+                                "mediaItemId": 1105,
+                                "modified": "2021-04-05 13:39:50",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-cr-2-b4bf82acce04d28735035d2ab112099c.jpg",
+                                            "width": 347
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUEAgP/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/9oADAMBAAIQAxAAAAHnPFtAe1OI0ZN4cneQwd//xAAcEAADAAIDAQAAAAAAAAAAAAABAgMEEgARExT/2gAIAQEAAQUCPTNOG9EZpANxsj5i9NisaM2dFvOkWm//xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIREgMhMv/aAAgBAwEBPwHZBSceNDMPLK26n//EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhARISIy/9oACAECAQE/AazSezYo9CP/xAAeEAABBQACAwAAAAAAAAAAAAAAAQIREjEyQSFRgf/aAAgBAQAGPwKyO10aOnrFKLqGutPw4zJb2gxEb5dxGKre4Kwf/8QAHBABAAMBAQADAAAAAAAAAAAAAQARITFBUYGR/9oACAEBAAE/IaZBk42MezxZ7UvLSo7CT02NIqPnrtbEAZQp9S8tuL6TBj8CyPr2uIYz/9oADAMBAAIAAwAAABDQJ4D/xAAZEQACAwEAAAAAAAAAAAAAAAAAAREhUXH/2gAIAQMBAT8Q4qGZiXBRWjIH/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERUSFh/9oACAECAQE/EJh/S8NHrsJen//EABwQAQEAAwADAQAAAAAAAAAAAAERACExQVFhof/aAAgBAQABPxBowhUOlGccOgfTSXfmKZBBRb7yFDCqlL1O2+cMdFJZInNYHLtRYopjJiyDVd/OOBgCk8Ttr0n5h0GSuhNJrP/Z",
+                                            "aspectRatio": 0.8438818565400844,
+                                            "src": "/static/b4bf82acce04d28735035d2ab112099c/386f0/ph-cr-2.jpg",
+                                            "srcSet": "/static/b4bf82acce04d28735035d2ab112099c/00333/ph-cr-2.jpg 200w,\n/static/b4bf82acce04d28735035d2ab112099c/386f0/ph-cr-2.jpg 347w",
+                                            "sizes": "(max-width: 347px) 100vw, 347px"
+                                        }
+                                    }
+                                }
+                            },
+                            "image2": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-sld-3.jpg",
+                                "mediaItemId": 1106,
+                                "modified": "2021-04-05 13:40:25",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-sld-3-d93b68e2ea5c0b5fd2bd25a74cfde729.jpg",
+                                            "width": 850
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGA//EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABaZkXZi2Mgl//xAAcEAACAgIDAAAAAAAAAAAAAAACBAEDABMREjP/2gAIAQEAAQUCZYHcTM3RV5iXGbSplUu6/wD/xAAXEQADAQAAAAAAAAAAAAAAAAABAhAh/9oACAEDAQE/AS2z/8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIQIf/aAAgBAgEBPwEJk//EAB4QAAICAgIDAAAAAAAAAAAAAAERAAISIQNBUmGh/9oACAEBAAY/AqkXY7UPDXR8oNv3MkDuZ1+yt0nP/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAMSFRQXGB/9oACAEBAAE/IdNTdzGtGCLzAdY9REFQIzsutJj4lrU//9oADAMBAAIAAwAAABDML//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8QU6h02//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQIBAT8QB4kxy//EABoQAQEBAQEBAQAAAAAAAAAAAAERIQBBUXH/2gAIAQEAAT8QmXFAih4bmz97CAHjPs8p96pYiQTHvWdbQQSB5vNlFCGxWRkvU6gnppzv/9k=",
+                                            "aspectRatio": 1.6,
+                                            "src": "/static/d93b68e2ea5c0b5fd2bd25a74cfde729/807a7/ph-sld-3.jpg",
+                                            "srcSet": "/static/d93b68e2ea5c0b5fd2bd25a74cfde729/00333/ph-sld-3.jpg 200w,\n/static/d93b68e2ea5c0b5fd2bd25a74cfde729/c2a2a/ph-sld-3.jpg 400w,\n/static/d93b68e2ea5c0b5fd2bd25a74cfde729/807a7/ph-sld-3.jpg 800w,\n/static/d93b68e2ea5c0b5fd2bd25a74cfde729/ae340/ph-sld-3.jpg 850w",
+                                            "sizes": "(max-width: 800px) 100vw, 800px"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "careersSection": {
+                            "name": "Careers",
+                            "title": "Working <br />\r\nat Brevan <br />\r\nHoward",
+                            "text": "We are always looking for exceptional talent to join our global community. We look for individuals who are intellectually curious, passionate and share our mission and principles.",
+                            "image1": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-inv-st-2.jpg",
+                                "mediaItemId": 1107,
+                                "modified": "2021-04-05 13:40:51",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-inv-st-2-d447e21409e25625bcb807597c8202db.jpg",
+                                            "width": 560
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAD/9oADAMBAAIQAxAAAAHnd8moKywhwwyuNBSBX//EAB0QAAICAgMBAAAAAAAAAAAAAAIDAAEEBRITMzX/2gAIAQEAAQUCNlQkiIJahSk6/tYWGRS9aXLFDrzGirkuwivoXD9P/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECECH/2gAIAQMBAT8Bi0jL/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAQEv/aAAgBAgEBPwFFmb//xAAlEAAABQIEBwAAAAAAAAAAAAAAAQIREgMxBBAjcRMiQUJhcoL/2gAIAQEABj8CYklcROmCRUeRCPE7XsObF22BtVl5EJPpjUQkz9QcEkz9B8ZK3H//xAAdEAADAAIDAQEAAAAAAAAAAAAAAREhMUFh8FFx/9oACAEBAAE/IXbmsnBMzBBmRcdirI512JG5IqkNAl0jETfFVOTNua26IFWWeB6/psebo//aAAwDAQACAAMAAAAQzwkw/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQMRH/2gAIAQMBAT8QAi9YQyv/xAAZEQABBQAAAAAAAAAAAAAAAAAAARARMVH/2gAIAQIBAT8QrCeq/wD/xAAeEAACAgICAwAAAAAAAAAAAAABEQAhMWFBcVGR8P/aAAgBAQABPxC26ZhEZOA4vQtsh9t51KhpWlAkRjREQaKCBmiuGhegEgPWprkiMrk+YTIgINgyrSoxXsCGlaEFWg6PMyyzdCfdpP/Z",
+                                            "aspectRatio": 0.8,
+                                            "src": "/static/d447e21409e25625bcb807597c8202db/92ddd/ph-inv-st-2.jpg",
+                                            "srcSet": "/static/d447e21409e25625bcb807597c8202db/00333/ph-inv-st-2.jpg 200w,\n/static/d447e21409e25625bcb807597c8202db/c2a2a/ph-inv-st-2.jpg 400w,\n/static/d447e21409e25625bcb807597c8202db/92ddd/ph-inv-st-2.jpg 560w",
+                                            "sizes": "(max-width: 560px) 100vw, 560px"
+                                        }
+                                    }
+                                }
+                            },
+                            "image2": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/04/ph-cr-1.jpg",
+                                "mediaItemId": 1108,
+                                "modified": "2021-04-05 13:41:19",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/ph-cr-1-45f210c37a4cb52b8dcce7fe7fccf547.jpg",
+                                            "width": 400
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/aAAwDAQACEAMQAAABQdR70XQkLQ1WlqQ5zMk6f//EAB4QAAICAQUBAAAAAAAAAAAAAAEDAgQAEhMVITEy/9oACAEBAAEFAjMoKrjCWX9vOypcZOx9drC0alylJTuVgBW8v+S+v//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESEP/aAAgBAwEBPwGOqLfNs//EABoRAQABBQAAAAAAAAAAAAAAAAEAAhAREhP/2gAIAQIBAT8BqxtALcyf/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIAERIxECEDMkFhgZGh/9oACAEBAAY/Aq02lFT7AH4dxIrmXuK9sTZAhAxWIUQsLBNukvTNPE5H96Np/8QAHRAAAgMAAgMAAAAAAAAAAAAAAREAITFBUWGBof/aAAgBAQABPyEmCzhy8grpAmZAtXYkC+dEXtMwoOopeBgjYQl84IGGIAHWvMA4K9JpPtm0/9oADAMBAAIAAwAAABCPAYz/xAAaEQEAAgMBAAAAAAAAAAAAAAABABEQMdHw/9oACAEDAQE/EBSO42e5Bwf/xAAdEQACAQQDAAAAAAAAAAAAAAAAAREhMUFxgZHw/9oACAECAQE/EGrKxCz7kaUG3s//xAAeEAEBAAICAwEBAAAAAAAAAAABEQAhQWExUaHh8P/aAAgBAQABPxC9ERTZvnnCiypvAd5D6/QDhMFljLrW3K6/MCNCOA9PKW+8Du3zAGzzk0IdUQbJ9w1rFqgwK1EMoEhsCL1OM+xz+frPpz//2Q==",
+                                            "aspectRatio": 0.8,
+                                            "src": "/static/45f210c37a4cb52b8dcce7fe7fccf547/c2a2a/ph-cr-1.jpg",
+                                            "srcSet": "/static/45f210c37a4cb52b8dcce7fe7fccf547/00333/ph-cr-1.jpg 200w,\n/static/45f210c37a4cb52b8dcce7fe7fccf547/c2a2a/ph-cr-1.jpg 400w",
+                                            "sizes": "(max-width: 400px) 100vw, 400px"
+                                        }
+                                    }
+                                }
+                            },
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "More Details",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/careers/"
+                                }
+                            }
+                        },
+                        "banner": {
+                            "name": "Contact & locations",
+                            "title": "Partner <br />\r\nWith Us",
+                            "image": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/05/BH_PartnerWithUs_IMG_Desktop.jpg",
+                                "mediaItemId": 1216,
+                                "modified": "2021-05-24 22:25:13",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/BH_PartnerWithUs_IMG_Desktop-c32edfe4a42f0227add9b8d96a561015.jpg",
+                                            "width": 1920
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHK3CpDL//EABgQAAMBAQAAAAAAAAAAAAAAAAABAgMR/9oACAEBAAEFAs3yacsZ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAEhABAi/9oACAEBAAY/AijBl1//xAAYEAEAAwEAAAAAAAAAAAAAAAABABEhcf/aAAgBAQABPyEwKcjKsV3Ytn//2gAMAwEAAgADAAAAEPQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxAf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EABsQAAIBBQAAAAAAAAAAAAAAAAERACExQVHw/9oACAEBAAE/EASU1OkPVTDOh2IO2f/Z",
+                                            "aspectRatio": 2.4096385542168677,
+                                            "src": "/static/c32edfe4a42f0227add9b8d96a561015/807a7/BH_PartnerWithUs_IMG_Desktop.jpg",
+                                            "srcSet": "/static/c32edfe4a42f0227add9b8d96a561015/00333/BH_PartnerWithUs_IMG_Desktop.jpg 200w,\n/static/c32edfe4a42f0227add9b8d96a561015/c2a2a/BH_PartnerWithUs_IMG_Desktop.jpg 400w,\n/static/c32edfe4a42f0227add9b8d96a561015/807a7/BH_PartnerWithUs_IMG_Desktop.jpg 800w,\n/static/c32edfe4a42f0227add9b8d96a561015/f43cc/BH_PartnerWithUs_IMG_Desktop.jpg 1200w,\n/static/c32edfe4a42f0227add9b8d96a561015/3c629/BH_PartnerWithUs_IMG_Desktop.jpg 1600w,\n/static/c32edfe4a42f0227add9b8d96a561015/b1e91/BH_PartnerWithUs_IMG_Desktop.jpg 1920w",
+                                            "sizes": "(max-width: 800px) 100vw, 800px"
+                                        }
+                                    }
+                                }
+                            },
+                            "imageMobile": {
+                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/05/BH_Partner_With_Us_Mobile_new.jpg",
+                                "mediaItemId": 1219,
+                                "modified": "2021-05-25 10:30:05",
+                                "localImageFile": {
+                                    "childImageSharp": {
+                                        "original": {
+                                            "src": "/static/BH_Partner_With_Us_Mobile_new-948f66d497072f40dadb96784767034f.jpg",
+                                            "width": 780
+                                        },
+                                        "fluid": {
+                                            "base64": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAAiABQDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAIEAQMFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB89R63JzqbCetClkZtSzuriyBf//EAB0QAAIBBAMAAAAAAAAAAAAAAAECAAMQERIhI0L/2gAIAQEAAQUCKdJinATlDanplkpknXKKzRnJM8i3/8QAFxEAAwEAAAAAAAAAAAAAAAAAARAgMf/aAAgBAwEBPwFDI//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/ASv/xAAgEAABAgUFAAAAAAAAAAAAAAABABECAxASMSAhIlJh/9oACAEBAAY/ArhVvK8okbZYEI7LC3LJsaf/xAAbEAEAAwEBAQEAAAAAAAAAAAABABExIUFhEP/aAAgBAQABPyE+Cn2K4OE3YFNQIfFHnDYgNm2tlDAbOrs99lQ2D7cD7HE0/n//2gAMAwEAAgADAAAAEATLQwff/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAREDH/2gAIAQMBAT8QS1Jnqxjn/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARISD/2gAIAQIBAT8QUoibnH//xAAeEAEAAwACAgMAAAAAAAAAAAABABEhMVEQQWGh0f/aAAgBAQABPxBOcmThIDGsCglAUt3B0YrliOBqUERVBYQfxCJiLE962PHRHQmILJpSgQw96fUZHhI2KfOZMNj6k3d34//Z",
+                                            "aspectRatio": 0.5813953488372093,
+                                            "src": "/static/948f66d497072f40dadb96784767034f/4e86b/BH_Partner_With_Us_Mobile_new.jpg",
+                                            "srcSet": "/static/948f66d497072f40dadb96784767034f/00333/BH_Partner_With_Us_Mobile_new.jpg 200w,\n/static/948f66d497072f40dadb96784767034f/c2a2a/BH_Partner_With_Us_Mobile_new.jpg 400w,\n/static/948f66d497072f40dadb96784767034f/4e86b/BH_Partner_With_Us_Mobile_new.jpg 780w",
+                                            "sizes": "(max-width: 780px) 100vw, 780px"
+                                        }
+                                    }
+                                }
+                            },
+                            "acfLink": {
+                                "externalUrl": null,
+                                "fieldGroupName": "acf_link",
+                                "linkText": "Contact Us",
+                                "type": "internal",
+                                "openInNewWindow": null,
+                                "linkToPage": {
+                                    "__typename": "WPGraphQL_Page",
+                                    "uri": "/contact/"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "pageContext": {
+            "id": "cG9zdDo0OA=="
+        }
+    },
+    "staticQueryHashes": [
+        "1296785774",
+        "2238259800",
+        "2997433256",
+        "63159454",
+        "886364674"
+    ]
+}
