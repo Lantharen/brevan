@@ -1,0 +1,19 @@
+{
+    "data": {
+        "img": {
+            "childImageSharp": {
+                "original": {
+                    "src": "/static/contact-hero-new-bg-49f878005dbea62afe04534283a2985f.png",
+                    "width": 1100
+                },
+                "fluid": {
+                    "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA8klEQVQoz52T2xKCIBCGe5TMA4KZyr2Zidj7P1Ef0FgzlWYzXMC63x7+XXeRPP99dt8+HFQXzia4S09DVpm0HEQ1xsUlOw3cf4IBZDPl9ZiWV0gyA0vtLCswfkpPora4xkW/z1uMhOCZ15aKlmCBUzMm5RUskKF5URnheQJFsv0A40SpybH3Hg9LpDqesrFUrvTNJ28/Z06OT3hW28F6QggOiiwJRnI6TIp+5r0WxgmpragXYfwojzq5vI4aCXwIM2vxDrdUrlyRVrnx2HlJAkxTC3AYtQkdZi+zCXKuLAmBffIbIdi2zbsdVvK/3d7wY9wBhYKkrwzV4R0AAAAASUVORK5CYII=",
+                    "aspectRatio": 1.3754045307443366,
+                    "src": "/static/49f878005dbea62afe04534283a2985f/5e07f/contact-hero-new-bg.png",
+                    "srcSet": "/static/49f878005dbea62afe04534283a2985f/8fab7/contact-hero-new-bg.png 425w,\n/static/49f878005dbea62afe04534283a2985f/8b25d/contact-hero-new-bg.png 850w,\n/static/49f878005dbea62afe04534283a2985f/5e07f/contact-hero-new-bg.png 1100w",
+                    "sizes": "(max-width: 1100px) 100vw, 1100px"
+                }
+            }
+        }
+    }
+}

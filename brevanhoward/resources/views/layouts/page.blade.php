@@ -24,21 +24,21 @@
     <link rel="manifest" href="{{ asset('/manifest.webmanifest') }}" crossorigin="anonymous">
     <meta name="theme-color" content="#ffffff">
     <link rel="apple-touch-icon" sizes="48x48"
-          href="{{ asset('/icons/icon-48x48.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset('/icons/icon-48x48.png') }}">
     <link rel="apple-touch-icon" sizes="72x72"
-          href="{{ asset ('/icons/icon-72x72.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset ('/icons/icon-72x72.png') }}">
     <link rel="apple-touch-icon" sizes="96x96"
-          href="{{ asset ('/icons/icon-96x96.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset ('/icons/icon-96x96.png') }}">
     <link rel="apple-touch-icon" sizes="144x144"
-          href="{{ asset('/icons/icon-144x144.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset('/icons/icon-144x144.png') }}">
     <link rel="apple-touch-icon" sizes="192x192"
-          href="{{ asset('/icons/icon-192x192.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset('/icons/icon-192x192.png') }}">
     <link rel="apple-touch-icon" sizes="256x256"
-          href="{{ asset('/icons/icon-256x256.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset('/icons/icon-256x256.png') }}">
     <link rel="apple-touch-icon" sizes="384x384"
-          href="{{ asset('/icons/icon-384x384.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset('/icons/icon-384x384.png') }}">
     <link rel="apple-touch-icon" sizes="512x512"
-          href="{{ asset('/icons/icon-512x512.png?v=57e4ad3d5795e1155c18e993a85e47b0') }}">
+          href="{{ asset('/icons/icon-512x512.png') }}">
     <link as="script" rel="preload" href="{{ asset('/script-files/webpack-runtime-0019eabbd235cdabd30c.js') }}">
     <link as="script" rel="preload" href="{{ asset('/script-files/framework-4edb921af83d1c3c3bd1.js') }}">
     <link as="script" rel="preload" href="{{ asset('/script-files/app-a7cd4ccdf2dc35faf047.js') }}">
@@ -60,7 +60,7 @@
     <link rel="prefetch" href="{{ asset('/page-data/careers/page-data.json') }}" crossorigin="anonymous" as="fetch">
     <link rel="prefetch" href="{{ asset('/page-data/about-us/page-data.json') }}" crossorigin="anonymous" as="fetch">
     <link rel="prefetch" href="{{ asset('/page-data/brevanhoward-digital/page-data.json') }}" crossorigin="anonymous" as="fetch">
-    <link rel="prefetch" href="{{ asset('script-files/component---src-templates-careers-js-4b266742ac8d10c57fc9.js') }}">
+    <link rel="prefetch" href="{{ asset('/script-files/component---src-templates-careers-js-4b266742ac8d10c57fc9.js') }}">
     <link rel="prefetch" href="{{ asset('/script-files/component---src-templates-culture-js-ff62683bca5f755de11f.js') }}">
     <link rel="prefetch" href="{{ asset('/script-files/component---src-templates-about-us-js-aa62385c1585798a19f5.js') }}">
     <link rel="prefetch" href="{{ asset('/script-files/component---src-templates-contact-js-34a0084d6157baebee68.js') }}">
@@ -136,22 +136,22 @@
 <script id="gatsby-chunk-mapping">
     /*<![CDATA[*/
     window.___chunkMapping = {
-        "polyfill": ["{{ asset('script-files/polyfill-9799aaa91727104e950c.js') }}"],
-        "app": ["{{ asset('script-files/app-a7cd4ccdf2dc35faf047.js') }}"],
-        "component---src-pages-404-js": ["{{ asset('script-files/component---src-pages-404-js-fb3c30435f93d7fa9c8d.js') }}"],
-        "component---src-pages-videos-old-js": ["{{ asset('script-files/component---src-pages-videos-old-js-c6e0cc60280c08705381.js') }}"],
-        "component---src-templates-about-us-js": ["{{ asset('script-files/component---src-templates-about-us-js-aa62385c1585798a19f5.js') }}"],
-        "component---src-templates-careers-js": ["{{ asset('script-files/component---src-templates-careers-js-4b266742ac8d10c57fc9.js') }}"],
-        "component---src-templates-contact-js": ["{{ asset('script-files/component---src-templates-contact-js-34a0084d6157baebee68.js') }}"],
-        "component---src-templates-culture-js": ["{{ asset('script-files/component---src-templates-culture-js-ff62683bca5f755de11f.js') }}"],
-        "component---src-templates-digital-assets-js": ["{{ asset('script-files/component---src-templates-digital-assets-js-e1381ff23a5f481dd217.js') }}"],
-        "component---src-templates-homepage-js": ["{{ asset('script-files/component---src-templates-homepage-js-4752940f2c4dc62cef41.js') }}"],
-        "component---src-templates-notices-js": ["{{ asset('script-files/component---src-templates-notices-js-d641924fe8da6728d8f3.js') }}"],
-        "component---src-templates-standard-videos-js": ["{{ asset('script-files/component---src-templates-standard-videos-js-168fae3ec9742d59b1dd.js') }}"],
-        "component---src-templates-text-page-js": ["{{ asset('script-files//component---src-templates-text-page-js-875936d34841a0683b32.js') }}"],
-        "component---src-templates-trader-example-js": ["{{ asset('script-files/component---src-templates-trader-example-js-8e69fbb2d1ebfd1ccc51.js') }}"],
-        "component---src-templates-video-iframe-js": ["{{ asset('script-files/component---src-templates-video-iframe-js-7a4490e20c0221dc8364.js') }}"],
-        "component---src-templates-videos-template-js": ["{{ asset('script-files/component---src-templates-videos-template-js-87592dbc3db79b880f23.js') }}"]
+        "polyfill": ["{{ asset('/script-files/polyfill-9799aaa91727104e950c.js') }}"],
+        "app": ["{{ asset('/script-files/app-a7cd4ccdf2dc35faf047.js') }}"],
+        "component---src-pages-404-js": ["{{ asset('/script-files/component---src-pages-404-js-fb3c30435f93d7fa9c8d.js') }}"],
+        "component---src-pages-videos-old-js": ["{{ asset('/script-files/component---src-pages-videos-old-js-c6e0cc60280c08705381.js') }}"],
+        "component---src-templates-about-us-js": ["{{ asset('/script-files/component---src-templates-about-us-js-aa62385c1585798a19f5.js') }}"],
+        "component---src-templates-careers-js": ["{{ asset('/script-files/component---src-templates-careers-js-4b266742ac8d10c57fc9.js') }}"],
+        "component---src-templates-contact-js": ["{{ asset('/script-files/component---src-templates-contact-js-34a0084d6157baebee68.js') }}"],
+        "component---src-templates-culture-js": ["{{ asset('/script-files/component---src-templates-culture-js-ff62683bca5f755de11f.js') }}"],
+        "component---src-templates-digital-assets-js": ["{{ asset('/script-files/component---src-templates-digital-assets-js-e1381ff23a5f481dd217.js') }}"],
+        "component---src-templates-homepage-js": ["{{ asset('/script-files/component---src-templates-homepage-js-4752940f2c4dc62cef41.js') }}"],
+        "component---src-templates-notices-js": ["{{ asset('/script-files/component---src-templates-notices-js-d641924fe8da6728d8f3.js') }}"],
+        "component---src-templates-standard-videos-js": ["{{ asset('/script-files/component---src-templates-standard-videos-js-168fae3ec9742d59b1dd.js') }}"],
+        "component---src-templates-text-page-js": ["{{ asset('/script-files//component---src-templates-text-page-js-875936d34841a0683b32.js') }}"],
+        "component---src-templates-trader-example-js": ["{{ asset('/script-files/component---src-templates-trader-example-js-8e69fbb2d1ebfd1ccc51.js') }}"],
+        "component---src-templates-video-iframe-js": ["{{ asset('/script-files/component---src-templates-video-iframe-js-7a4490e20c0221dc8364.js') }}"],
+        "component---src-templates-videos-template-js": ["{{ asset('/script-files/component---src-templates-videos-template-js-87592dbc3db79b880f23.js') }}"]
     };
     /*]]>*/
 </script>

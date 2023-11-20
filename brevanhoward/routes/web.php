@@ -19,4 +19,8 @@ Route::get('/', function () {
 });
 
 Route::view('/about-us/', 'about-us')->name('about-us');
+Route::view('/culture/', 'culture')->name('culture');
+Route::view('/careers/', 'careers')->name('careers');
+Route::view('/contact/', 'contact')->name('contact');
 Route::view('/brevanhoward-digital/', 'brevanhoward-digital')->name('brevanhoward-digital');
+

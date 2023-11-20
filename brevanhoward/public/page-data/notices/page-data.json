@@ -1,0 +1,1092 @@
+{
+    "componentChunkName": "component---src-templates-notices-js",
+    "path": "/notices/",
+    "result": {
+        "data": {
+            "wpgraphql": {
+                "page": {
+                    "title": "Notices",
+                    "noticestemplateacf": {
+                        "noticeList": [
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "Please be aware that fraudsters are using multiple* false Brevan Howard names to carry out financial services. These firms are not Brevan Howard companies and the fraudsters have not been authorised to use the Brevan Howard name.<br />\r\n<br />\r\nYou should be especially wary if you have been cold called or experienced aggressive sales tactics.<br />\r\n <br />\r\nBe aware that scammers may give out other false details or mix these with some correct details of Brevan Howard. They may change contact details over time to new email addresses, telephone numbers or physical addresses.<br />\r\n<br />\r\nIf you have provided monies to this fraudulent firm, please contact your local financial regulator who will provide guidance on how to report the scam and possibly recover the proceeds.<br />\r\n<br />\r\n*Cloned Brevan Howard entities.<br />\r\n<br />\r\n1.\tBrevan Howard CFD LTD<br />\r\n2.\tWinnGroups<br />\r\n3.\thttps://www.ucnmedfd.com/ (the “website”)<br />\r\n4.\tBrevan Howard (Hong Kong) Co., Ltd.<br />\r\n5.\tBorn Howard (Hong Kong) Limited<br />\r\n6.\tBorn Howard (Hong Kong) Co,. Ltd.<br />\r\n7.\tBorn Howard Wealth Management<br />\r\n8.\tBorn Howard<br />\r\n9.\tBorn Howard Securities<br />\r\n10.\tBorn Howard Group<br />\r\n11.\tBorn Howard Securities (China) Co., Ltd <br />\r\n12.\tBowen Howard (Hong Kong) Limited<br />\r\n13.\tBowen Howard Securities<br />\r\n14.\tBorn Howard Investment and Research<br />\r\n15.\t博恩霍华德<br />\r\n16.\t博恩霍华德（香港）有限公司<br />\r\n17.\t博恩霍华德集团<br />\r\n18.\t博恩霍华德证券(中国)有限公司<br />\r\n19.\t博恩霍华德证券"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 1480,
+                                "title": "CLONED FIRM WARNING"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The Market Abuse Regulation (MAR), which became effective on 3 July 2016, introduced new market soundings (or “pre-marketing”) safe harbours to the offence of unlawfully disclosing inside information.<br />\r\n<br />\r\nMarket soundings are the communication of information, prior to the announcement of a transaction, in order to gauge the interest of potential investors in a possible transaction and the conditions relating to it such as its potential size or pricing, to one or more potential investors.<br />\r\n<br />\r\nShould you wish to discuss market soundings with Brevan Howard, please email bhcompliance@brevanhoward.com"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 1479,
+                                "title": "Market Soundings"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The Modern Slavery Act 2015 (the “<strong>Act</strong>”) seeks to address the role of businesses in preventing modern slavery from occurring in their supply chains and organisations. This Statement constitutes the modern slavery statement for Brevan Howard Asset Management LLP (“<strong>BHAM</strong>”) and Brevan Howard Asset Management Services Limited (“<strong>BHAMSL</strong>”) (together the “<strong>BH Entities</strong>”) to set out the steps that the BH Entities took during the financial year ending 31 March 2023 to ensure that modern slavery is not taking place in our business or our supply chain.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "BH Entities’ Business and Risk Profile",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "BHAM is regulated by the FCA and its sole business is to provide asset management services to the investment funds it is appointed to manage. BHAM does this in line with its regulatory obligations and to the highest professional standard.<br />\r\n<br />\r\nThe BH Entities have non-UK affiliates in Jersey, Geneva, New York, Austin, Paris, Hong Kong, Cayman, Singapore, Chicago, Dubai and Abu Dhabi; none of which conduct business in the UK. BHAMSL is a corporate member of BHAM and provides services directly to BHAM.<br />\r\n<br />\r\nAs a supplier of asset management services, we operate in a sector which is at relatively low risk of modern slavery occurring. Furthermore, the majority of the countries in which our wider group operates are not ranked as high risk by the Global Slavery Index, and we do not have an extensive supply-chain. However, we remain alert to the risk, as shown by our ongoing commitment to combatting modern slavery."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Steps taken to combat modern slavery",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "It is the policy of the BH Entities to ensure its business and supply chains are free from modern slavery and human trafficking.<br />\r\n<br />\r\nThe BH Entities’ HR Department carries out thorough checks in line with best practice and regulatory requirements before we employ a new member of staff and all of the BH Entities’ staff are subject to a range of protective policies, including:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "Bullying and Harassment Policy"
+                                                        },
+                                                        {
+                                                            "text": "Equal Opportunities Policy"
+                                                        },
+                                                        {
+                                                            "text": "Grievance Procedure"
+                                                        },
+                                                        {
+                                                            "text": "Whistleblowing Policy"
+                                                        },
+                                                        {
+                                                            "text": "Health and Safety Policy and Procedures"
+                                                        },
+                                                        {
+                                                            "text": "Coercion Policy"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The BH Entities only deal with suppliers of goods and services they believe to be reputable and carry out risk-based due diligence on its suppliers."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Action taken – 2022/2023",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The BH Entities conducted a risk-based review of their suppliers. The main criteria used to evaluate suppliers included the origin of manufacture, the nature of services provided and the location where services are provided from. Where appropriate, the BH Entities undertook checks to confirm if identified suppliers have been named on international watch lists or have negative press associated with their business which may be relevant. The suppliers within scope of this review were able to demonstrate knowledge of the Act and their resulting obligations.<br />\r\n<br />\r\nSteps have been taken towards incorporating a modern slavery check into the onboarding process for suppliers within scope of the Act, to confirm whether these suppliers have been named on international watch lists or associated with negative press and to ensure that they can demonstrate knowledge of the Act and their resulting obligations."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Ongoing Commitment",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The BH Entities will continue to monitor potential risk areas identified in our supply chains.<br />\r\n<br />\r\nThe BH Entities expect their suppliers to adopt the same standards they meet themselves and will not deal with any organisation that they believe may be connected with slavery in any way.<br />\r\n<br />\r\nThe BH Entities’ senior managers who are responsible for sourcing goods and services are aware of the need to be vigilant regarding the risk of modern slavery.<br />\r\n<br />\r\nThe BH Entities are also subject to the wider Responsible Investment Policy at a group level that seeks to ensure that it only undertakes transactions with counterparties that have adopted good governance policies and practices and, where relevant given the asset class, only invests in company securities that have good governance practices as this is central to the investment thesis."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Progress",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The BH Entities will review the steps taken so far to identify any gaps and consider the effectiveness of our approach and to evaluate whether any aspect can be improved.<br />\r\n<br />\r\nFurthermore, the BH Entities encourage employees to report any potential instances of modern slavery to management or externally through the Whistleblowing Policy.<br />\r\n<br />\r\nThe BH Entities will continue to be alert to the additional risk of modern slavery that may exist following the COVID-19 pandemic."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Approval Procedure and Publication",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>This Statement will be reviewed annually and updated where necessary to reflect changes in circumstances and actual practice. This Statement has been reviewed and approved by Board of Partners of BHAM and the Board of Directors of BHAMSL.</p>\n<p>Signed by:</p>\n<p><em>Craig Adams, Board Member, </em></p>\n<p><em>on behalf of the Members of </em><em>Brevan Howard Asset Management LLP.</em></p>\n<p><em>Ryan Matthews, Director, </em></p>\n<p><em>on behalf of </em><em>Brevan Howard Asset Management Services Limited.</em></p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 531,
+                                "title": "Brevan Howard Asset Management LLP and Brevan Howard Asset Management Services Limited: Modern Slavery Transparency Statement 2022/2023"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "FCA Conduct of Business Rule 2.2.3R requires FCA authorised firms to either disclose their compliance or explain their non-compliance with the principles set out in the UK Financial Reporting Council’s Stewardship Code (the “Code”). Brevan Howard Asset Management LLP (“BHAM” or “the Firm”) is authorised and regulated by the FCA in the United Kingdom and therefore subject to the Code.<br />\r\n<br />\r\nBHAM manages assets across a number of global diversified hedge fund and UCITS strategies, but does not take an activist shareholder approach. Accordingly, whilst the Firm supports the Code as a mechanism to promote best practice in the institutional shareholder conduct of UK listed companies, the Firm does not consider the Code or its principles to be appropriate for the funds’ investment strategies. BHAM actively endorses hedge fund industry best practice and is a founding member of the Standards Board for Alternative Investments (formerly called the Hedge Fund Standards Board), a body which promotes hedge fund best practice in relation to disclosure, valuation, risk management and fund governance."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 536,
+                                "title": "UK Stewardship Code"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The following disclosures are provided pursuant to the Pillar 3 disclosure rules as laid out by the Financial Conduct Authority (“FCA”) within section 11 of its Prudential Sourcebook for Banks, Building Societies and Investment Firms (“BIPRU”). The regulatory aim of the disclosures is to improve market discipline through additional transparency."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Regulatory Context",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The following disclosures are provided pursuant to the Pillar 3 disclosure rules as laid out by the Financial Conduct Authority (“FCA”) within section 11 of its Prudential Sourcebook for Banks, Building Societies and Investment Firms (“BIPRU”). The regulatory aim of the disclosures is to improve market discipline through additional transparency.</p>\n<p>The prudential framework for investment management firms consists of three “pillars” under the Capital Requirements Directive which has been implemented by the FCA through the General Prudential Sourcebook (“GENPRU”) and BIPRU:</p>\n<ul>\n<li>Pillar 1 sets out the minimum capital requirements for the investment manager;</li>\n<li>Pillar 2 deals with the Internal Capital Adequacy Assessment Process (“ICAAP”) and the Supervisory Review and Evaluation Process through which the investment manager and the regulator satisfy themselves as to the adequacy of capital; and</li>\n<li>Pillar 3 requires the investment manager to publish its objectives and policies in relation to risk management, and information on its risk exposures and capital resources.</li>\n</ul>\n<p>The disclosures below are the required Pillar 3 disclosures and apply solely to Brevan Howard Asset Management LLP (the “Firm”). The disclosures do not apply to the funds managed by the Firm as described below, which are exposed to different risks. Unless otherwise defined, capitalised terms used herein have the meanings given to them in BIPRU. The disclosures reflect the arrangements and financials of the Firm as at 12 July 2021 unless otherwise indicated.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Background to the Firm",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The Firm is an investment manager based in London, United Kingdom, and is incorporated in England and Wales as an English Limited Liability Partnership. The Firm is a solo UK entity authorised and regulated by the FCA in the United Kingdom to conduct investment management business. The Firm is a BIPRU firm without retail clients, and does not hold regulatory permissions to manage or hold client money or client assets.</p>\n<p>The Firm is authorised as a full scope UK Alternative Investment Fund Manager (“<strong>AIFM</strong>”) and acts as the AIFM for certain AIFs. The Firm also acts as an investment manager for a number of other AIFs for which Brevan Howard Capital Management Limited (“<strong>BHCM</strong>”), which is based in Jersey, is the AIFM. The Firm also provides certain other services to the wider Brevan Howard group, including marketing services.</p>\n<p>The Firm does not have regulatory permissions to:</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "hold client money or client assets; or"
+                                                        },
+                                                        {
+                                                            "text": "deal in investments as principal."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Verification",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The information contained in this document has not been audited by the Firm’s external auditors and does not constitute any form of financial statement and must not be relied upon in making any judgement on the Firm."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Materiality",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>BIPRU Pillar 3 rules (<strong>BIPRU 11.3.5R</strong> and <strong>BIPRU 11.4.1R</strong>) provide that Pillar 3 disclosures are only required where the information would be considered material to a user relying on that information to make economic decisions.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Proprietary and confidential information",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>BIPRU Pillar 3 rules (<strong>BIPRU 11.3.6R</strong> and <strong>BIPRU 11.3.7R</strong>) provide that firms may omit information where the information is regarded as proprietary or confidential.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Pillar 3 Disclosures",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "BIPRU 11.5.1R – Risk Management Objectives and Policies",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Governance framework",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The Firm’s governance arrangements are headed by the Board of Partners (the “<strong>Board</strong>”).</p>\n<p>The Board operates as the governing body of the Firm. It meets on a quarterly basis and on an ad hoc basis if circumstances so require, and is responsible for the day to day running and oversight of the Firm. The Board reviews, amongst other things, the level of fund capital and risk limits allocated to individual traders, the Firm’s financial information (such as monthly accounts, regulatory returns, and audited year end accounts), marketing activity, HR matters, the information technology environment, the ICAAP, internal and external audit reports and related recommendations, operational risk and compliance reports, status reports from departmental heads and oversees any relevant outsourcing that has been undertaken by the Firm.</p>\n<p>A representative of the Board sits on each of the Firm’s management committees which report into the Board. This provides assurance to the Board that relevant items are being identified and reviewed and that items which are material in light of the Board’s risk appetite are reported to the Board. In addition, and where relevant, the committees provide appropriate written reports detailing any issues for escalation to the Board. Individual Board members also provide positive assurance at the meetings that there are no other material items to report or escalate from their respective departments or from their reporting lines.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Risk management objective and framework",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The Board adopts a ‘3 lines of defence’ model. Heads of Department and relevant staff of the respective front office and supporting infrastructure areas have primary responsibility for managing and mitigating the risks specific to their area. The risk management practices and processes in place at this level constitute the ‘1st line of defence’. The ‘2nd line of defence’ is held by the relevant control functions (Risk, Legal and Compliance) and the Firm’s Valuation Committee and BHCM’s Operational and Business Risk Committee. The management committees are responsible for oversight and monitoring of the key risks facing the Firm. The ‘3rd line of defence’ is ultimately performed by the Board supported by the other Brevan Howard group management committees including BHCM’s Audit Committee. BHCM’s Audit Committee in particular provides independent oversight of Brevan Howard risk management, control and governance processes. BHCM’s Audit Committee is composed of non-executive members and meets on a quarterly basis.<br />\r\n<br />\r\nThe Board is responsible for determining the risk appetite for the Firm. The Firm has established a risk management framework to identify, measure, monitor, report and mitigate risks. Risks identified through the operation of the risk management framework are assessed as part of the Firm’s ICAAP and Pillar 2 processes.<br />\r\n<br />\r\nThe risk management framework sets out the responsibilities and escalation procedures for the identification, monitoring, and management of risks. Specific personnel are assigned responsibility for the risks across the Firm’s business units. The Board takes overall responsibility, with the assistance of Risk, Compliance and control functions, for identifying material risks to the Firm and implementing appropriate mitigating controls.<br />\r\n<br />\r\nRisks and mitigating controls are periodically reassessed, taking into account the Firm’s risk appetite. Actions are taken to improve the control framework when risks are identified which fall outside of the Firm’s risk appetite, or when weaknesses are identified in the Firm’s mitigating controls.<br />\r\n<br />\r\nBHCM’s Audit Committee approves an internal audit plan setting out the areas of the Brevan Howard business to be audited, approves the scoping of audits and appoints relevant persons or firms to perform the reviews. Results and findings of audit reviews are presented to BHCM’s Audit Committee and, where, appropriate, to any other committees or management boards including for example the Board.<br />\r\n"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Internal Capital Adequacy Assessment Process",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The Firm’s ICAAP includes an assessment of the design and performance of the internal controls in place to mitigate risks, the probability of the risk occurring, the potential financial and reputational impact, and the adequacy of the Firm’s capital base.<br />\r\n<br />\r\nThe Board formally reviews and approves a finalised ICAAP document on at least an annual basis (or more frequently if there are material changes to the Firm’s business model and risk exposures). The Board, as part of its review of the ICAAP, sets the Firm’s risk appetite, validates that the Firm’s key material risks have been considered and assessed, and validates the stress testing scenarios.<br />\r\n<br />\r\nThe Pillar 2 capital requirements of the Firm are determined through a range of methods including scenario analysis of extreme events and stress testing within the ICAAP.<br />\r\n"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "BIPRU 11.5.3R – Capital Resources",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "As a BIPRU firm, the Firm maintains sufficient capital to meet its regulatory capital requirements and takes a prudent approach to the management of its capital base. The amount and type of capital resources of the Firm as at 12 July 2021 are set out in the table below:<br />\r\n"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Table",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Table",
+                                                    "tableLabel": "Table 1: Capital Resources as at 12 July 2021",
+                                                    "rows": [
+                                                        {
+                                                            "columns": [
+                                                                {
+                                                                    "text": "CAPITAL RESOURCES"
+                                                                },
+                                                                {
+                                                                    "text": "£m"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "columns": [
+                                                                {
+                                                                    "text": "Tier One Capital"
+                                                                },
+                                                                {
+                                                                    "text": "10.75"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "columns": [
+                                                                {
+                                                                    "text": "Tier Two Capital"
+                                                                },
+                                                                {
+                                                                    "text": "0.0"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "columns": [
+                                                                {
+                                                                    "text": "Tier Three Capital\t"
+                                                                },
+                                                                {
+                                                                    "text": "0.0"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "columns": [
+                                                                {
+                                                                    "text": "Total Capital"
+                                                                },
+                                                                {
+                                                                    "text": "10.75"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The adequacy of the capital held by the Firm is assessed regularly, and at least annually, as part of the ICAAP framework and is subject to approval by the Board. The most recent ICAAP (and Pillar 2) review was completed in May 2021.</p>\n<p>As a BIPRU firm and in accordance with GENPRU 2.1.45R, the Firm is required to calculate its variable regulatory capital requirements as the higher of:</p>\n<ul>\n<li>the sum of the market and credit risk requirement, and</li>\n<li>the Fixed Overhead Requirement (“FOR”).</li>\n</ul>\n<p>The Firm has calculated its FOR in accordance with the rules and guidance set out in GENPRU 2.1.53R to GENPRU 2.1.59G, which amounts to £10.25 million. The credit and market risk capital requirements of the Firm amount to less than the FOR. Therefore, the overall Pillar 1 capital requirement of the Firm is the FOR of £10.25 million.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Table",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Table",
+                                                    "tableLabel": "Table 2: Fixed Overhead Requirement",
+                                                    "rows": [
+                                                        {
+                                                            "columns": [
+                                                                {
+                                                                    "text": null
+                                                                },
+                                                                {
+                                                                    "text": "Fixed Overhead (£m)"
+                                                                },
+                                                                {
+                                                                    "text": "Risk Weight"
+                                                                },
+                                                                {
+                                                                    "text": "FOR (£m)"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "columns": [
+                                                                {
+                                                                    "text": "Non-variable annual expenses\t"
+                                                                },
+                                                                {
+                                                                    "text": "41.01"
+                                                                },
+                                                                {
+                                                                    "text": "25%"
+                                                                },
+                                                                {
+                                                                    "text": "10.25"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "FCA Remuneration Code",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "BIPRU 11.5.18R – Remuneration",
+                                                    "titleSize": "h1"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The Firm has adopted a remuneration policy that complies with the requirements of the FCA’s Senior Management Arrangements, Systems and Controls Sourcebook (“SYSC”). Of particular relevance, chapters SYSC 19B and C sets out the BIPRU Remuneration Code and related guidance on proportionality.</p>\n<p>As a BIPRU firm (that has no other BIPRU firms within its corporate group), the Firm falls within proportionality level 3 under the BIPRU Remuneration Code regime. The Firm has concluded that, on the basis of its size and the nature, scale and complexity of its legal structure and business, it does not need to appoint a distinct remuneration committee. Instead, the Board sets and oversees compliance with the Firm’s remuneration policy, including reviewing the terms of the policy on at least an annual basis.</p>\n<p>The Firm currently sets the variable remuneration of its staff in a manner which takes into account individual performance, performance of the individual’s business unit and the overall results of the Firm. As permitted for firms falling within proportionality level 3, the Firm takes into account the specific nature of its own activities (including the fee-based nature of its revenues) in conducting any ex-ante risk adjustments to awards of variable remuneration and, given the nature of its business, has dis-applied the requirement under the BIPRU Remuneration Code to make ex-post risk adjustments.</p>\n<p>The Firm only has one “business area”, which is its investment management business. All of the Firm’s Code Staff fall into the “senior management” category of Code Staff (rather than the “risk taker” category) for the purposes of the BIPRU Remuneration Code. During the reporting year 2020 the Firm’s Code Staff totalled 11, all of whom were deemed to be performing a ‘Significant Influence Function’.</p>\n<p>The aggregate remuneration awarded to the Firm’s Code Staff during the financial year ending on 31 March 2021 in respect of the 2020 performance year was £61.9 million.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 579,
+                                "title": "Pillar 3 Disclosure"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "Financial Industry Regulatory Authority, Inc. (“FINRA”) Rule 2267 requires Brevan Howard US LLC to provide its customers with the following information:<br />\r\n<br />\r\nThe FINRA BrokerCheck Hotline Number is: (800) 289-9999.<br />\r\n<br />\r\nFINRA’s website address is: http://www.finra.org/.<br />\r\n<br />\r\nAn investor brochure that includes information describing FINRA BrokerCheck may be obtained from FINRA by contacting FINRA at the above telephone number or accessing FINRA’s website at http://www.finra.org/.<br />\r\n<br />\r\nThe Geneva Branch of Brevan Howard Investment Products Limited (“BHIPL Geneva”) is authorised by the Swiss Financial Market Supervisory Authority (“FINMA”) as an asset manager of collective assets. BHIPL Geneva’s clients have the possibility of initiating mediation proceedings before the ombudsman to which it is affiliated."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 534,
+                                "title": "Investor Education and Protection"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>Key Information Documents as prescribed by EU regulation for BH Macro Limited are located <a href=\"http://bhmacro.com/regulatory-disclosures/\" target=\"_blank\" rel=\"noopener\">here</a>.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 533,
+                                "title": "Regulation (EU) No 1286/2014 – PRIIPs Regulation"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "This privacy notice describes how Brevan Howard collects, uses and shares the information you provide to us and the information we collect in the course of operating our business and our website.<br />\r\n<br />\r\nIn this privacy notice when we refer to Brevan Howard or “we”/”us”/”our”, we mean Brevan Howard Asset Management LLP (“BHAM”) and the other relevant Brevan Howard group entities. BHAM’s contact address is 82 Baker Street, London, W1U 6AE and we are authorised and regulated in the UK by the Financial Conduct Authority.<br />\r\n<br />\r\nWe are a data controller in respect of your personal data for the purposes of applicable data protection law, such as the European Union’s General Data Protection Regulation 2016/679 and national implementing legislation, UK GDPR (which is the retained EU law version of the General Data Protection Regulation), the UK Data Protection Act 2018, the Cayman Islands Data Protection Act (2021 Revision), Dubai International Financial Centre (“DIFC”) Data Protection Law No.5 of 2020 and Abu Dhabi Global Market (“ADGM”) Data Protection Regulations 2021, together with all laws and regulations supplementing, amending or replacing the same.<br />\r\n<br />\r\nWe may revise this privacy notice at any time by amending this page. You are expected to check this page from time to time to take note of any changes we make, as they are binding on you.<br />\r\n<br />\r\nIn this privacy notice, “personal data” is any information that can be used to identify you or that we can link to you and which we have in our possession or control."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "The information that we collect and where we get it from",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "We will process personal data that you give to us including when you email us or contact us through various channels as follows:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "Accessing our website: In accessing our website, especially through the password protected investor login portal, the information that you provide may include your full name, title, telephone number, geographical location, email address and content, date and time of your email correspondence and information about your employer or your business."
+                                                        },
+                                                        {
+                                                            "text": "Contacting our Investor Relations, Marketing or other teams: When contacting us to obtain information about our funds or our firm, we are required to obtain certain personal data as outlined above to meet regulatory obligations in relation to client classification and know your customer requirements. We store this information in our Client Relationship Management system."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "How we use the information we collect",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "We may do the following with your personal data:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "use it to engage in marketing and business development activity in relation to our funds and services. This may include sending you monthly newsletters, updated DDQ documents, monthly risk reports, marketing communications and other information in relation to the Brevan Howard funds that may be of interest to you"
+                                                        },
+                                                        {
+                                                            "text": "to comply with legal and regulatory obligations that we have to discharge"
+                                                        },
+                                                        {
+                                                            "text": "record and monitor your use of our websites or our other online services for our business purposes which may include analysis of usage, measurement of site performance and generation of marketing reports"
+                                                        },
+                                                        {
+                                                            "text": "use it for our legitimate business interests, such as undertaking business research and analysis, managing the operation of our websites and our business"
+                                                        },
+                                                        {
+                                                            "text": "use it to look into any complaints or queries you may have, and"
+                                                        },
+                                                        {
+                                                            "text": "use it to prevent and respond to actual or potential fraud or illegal activities."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "Also, we may collate, process and share any statistics based on an aggregation of information held by us provided that any individual is not identified from the resulting analysis and the collation, processing and dissemination of such information is permitted by law."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Grounds for using your personal data",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "We rely on the following legal grounds to process your personal data, namely:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "Consent – we may (but usually do not) need your consent to use your personal data. You can withdraw your consent by contacting us (see below)."
+                                                        },
+                                                        {
+                                                            "text": "Performance of a contract – we may need to collect and use your personal data to enter into a contract with you or to perform our obligations under a contract with you."
+                                                        },
+                                                        {
+                                                            "text": "Legitimate interest – we may use your personal data for our legitimate interests, some examples of which are given above."
+                                                        },
+                                                        {
+                                                            "text": "Compliance with law or regulation – we may use your personal data as necessary to comply with applicable law/regulation."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "How we share information with third parties",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "We may share your personal data to other members of the Brevan Howard group for the purposes described above. We will take steps to ensure that the personal data is accessed only by group employees that have a need to do so for the purposed described in this privacy notice.<br />\r\n<br />\r\nWe may also share your personal data outside the Firm. This may include:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "Third party agents/suppliers or contractors, bound by obligations of confidentiality, in connection with the processing of your personal data for the purposes described in this privacy notice. This may include, but is not limited to, IT and communications service providers."
+                                                        },
+                                                        {
+                                                            "text": "Third parties relevant to the regulated services that we provide. This may include, but is not limited to, counterparties to transactions or litigation, regulators, authorities, governmental institutions and stock exchanges."
+                                                        },
+                                                        {
+                                                            "text": "If we sell any of our business or assets or we are acquired by a third party, we may disclose your personal data to the prospective buyer for due diligence purposes."
+                                                        },
+                                                        {
+                                                            "text": "To the extent required by law, regulation or court order, for example, if we are under a duty to disclose your personal data in order to comply with any legal obligation."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "International transfers of personal data",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The personal data that we collect from you may be transferred to, and stored at, a destination outside of the jurisdiction in which it was originally collected (“Relevant Location”). It may also be stored and processed by other companies and/or third parties in other countries, which may include destinations outside of the Relevant Location.<br />\r\n<br />\r\nWhere your personal data is transferred outside of the Relevant Location, we will ensure that it is protected in a manner that is consistent with how your personal data will be protected by us in the Relevant Location. This can be done in a number of ways, for instance:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "the country that we send the data to might be approved by the data protection authority in the Relevant Location as offering an adequate level of protection for your personal data; or"
+                                                        },
+                                                        {
+                                                            "text": "the recipient might have signed up to a contract based on “model contractual clauses” approved by the data protection authority in the Relevant Location, obliging them to protect your personal data."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "In other circumstances the law may permit us to otherwise transfer your personal data outside the Relevant Location. In all cases, however, we will ensure that any transfer of your personal data is compliant with data protection law.<br />\r\n<br />\r\nYou can obtain more details about the protection given to your personal data when it is transferred outside the Relevant Location (including in some cases a copy of the relevant contractual clauses entered into with recipients of your personal data) by contacting us using the details set out below."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Keeping your information and information security",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "How long we hold your personal data for will vary and will depend principally on:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "the purpose for which we are using your personal data – we will need to keep the information for as long as is necessary for the relevant purpose, and"
+                                                        },
+                                                        {
+                                                            "text": "legal obligations – laws or regulation may set a minimum period for which we have to keep your personal data."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "We will ensure that the personal data that we hold is subject to appropriate security measures."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Your choices and rights",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "You have a number of legal rights in relation to the personal data. These rights may (depending on where your personal data is located) include:"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_List",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_List",
+                                                    "items": [
+                                                        {
+                                                            "text": "Obtaining information regarding the processing of your personal data and access to the personal data which we hold about you."
+                                                        },
+                                                        {
+                                                            "text": "Please note that there may be circumstances in which we are entitled to refuse requests for access to copies of personal data."
+                                                        },
+                                                        {
+                                                            "text": "Requesting that we correct your personal data if it is inaccurate or incomplete."
+                                                        },
+                                                        {
+                                                            "text": "Requesting that we erase your personal data in certain circumstances. Please note that there may be circumstances where you ask us to erase your personal data but we are obliged under regulation to retain it."
+                                                        },
+                                                        {
+                                                            "text": "Objecting to, and requesting that we restrict, our processing of your personal data in certain circumstances. Again, there may be circumstances where you object to, or ask us to restrict, our processing of your personal data but we are legally or regulatory entitled to refuse that request."
+                                                        },
+                                                        {
+                                                            "text": "To object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you."
+                                                        },
+                                                        {
+                                                            "text": "To not be discriminated against by us when exercising your rights."
+                                                        },
+                                                        {
+                                                            "text": "In some circumstances, receiving some personal data in a structured, commonly used and machine-readable format and/or requesting that we transmit those information to a third party where this is technically feasible. Please note that this right only applies to personal data which you have provided to us."
+                                                        },
+                                                        {
+                                                            "text": "Withdrawing your consent, although in certain circumstances it may be lawful for us to continue processing without your consent if we have another legitimate reason (other than consent) for doing so."
+                                                        },
+                                                        {
+                                                            "text": "Lodging a complaint with the relevant data protection authority (details of which are provided below), if you think that any of your rights have been infringed by us."
+                                                        },
+                                                        {
+                                                            "text": "We can, on request, tell you which data protection authority is relevant to the processing of your personal data."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "You can exercise your rights in line with applicable law in the relevant location by contacting us using the details set out below. However, please note that these rights are conditional and are not always absolute rights."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Making a privacy complaint",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>You can contact us using the contact details at the end of this privacy notice if you have any concerns about how we have handled your personal data. If you are not satisfied with the manner in which we have dealt with your complaint, you may contact the relevant data protection authority in your jurisdiction. These may include (but are not limited to):</p>\n<p><strong>UK:</strong> by contacting the Information Commissioner’s Office at<a href=\"https://ico.org.uk/\"> ico.org.uk</a>.</p>\n<p><strong>EU:</strong> by contacting the relevant data protection authority in the applicable EU Member State. For more information, please search the website at<a href=\"https://edpb.europa.eu/\"> edpb.europa.eu</a></p>\n<p><strong>Cayman Islands:</strong> by contacting the Cayman Islands’ Ombudsman. For more information, please search their website at <a href=\"https://ombudsman.ky/\">ombudsman.ky</a></p>\n<p><strong>DIFC:</strong> by contacting the DIFC Commissioner of Data Protection. For more information, please search their website at<a href=\"https://www.difc.ae/business/operating/data-protection/\"> difc.ae/data-protection</a></p>\n<p><strong>ADGM:</strong> by contacting the ADGM Office of Data Protection. For more information, please search their website at<a href=\"https://www.adgm.com/operating-in-adgm/office-of-data-protection/for-individuals\"> adgm.com</a></p>\n<p>Contacting us</p>\n<p>If you would like further information on the collection, use, disclosure or processing of your personal data or the exercise of any of the rights listed above, please contact us at <a href=\"mailto:IR@brevanhoward.com\">IR@brevanhoward.com</a>.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 532,
+                                "title": "Brevan Howard Privacy Notice"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "This privacy notice relates to the fund entities listed in the Annex (each a “Fund”)."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "About this privacy notice",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The Fund is a data controller in respect of your personal data for the purposes of applicable data protection law, such as the European Union’s General Data Protection Regulation 2016/679 and national implementing legislation, UK GDPR (which is the retained EU law version of the General Data Protection Regulation), the UK Data Protection Act 2018, the Cayman Islands Data Protection Act (2021 Revision), Dubai International Financial Centre (“DIFC”) Data Protection Law No.5 of 2020 and Abu Dhabi Global Market (“ADGM”) Data Protection Regulations 2021, together with all laws and regulations supplementing, amending or replacing the same. The Fund is responsible for ensuring that it uses your personal data in compliance with data protection law.<br />\r\n<br />\r\nThe relevant administrator of the Fund is a data processor in respect of your personal data for the purposes of data protection law and will generally process personal data provided to it in connection with an investment in the Fund in accordance with the Fund’s instructions, and the Fund will generally act as the data controller of any such personal data<br />\r\n<br />\r\nThis privacy notice applies to you if (i) you are an applicant for shares in the Fund, (ii) your personal data has been provided to the Fund in connection with an application for shares in the Fund by another person (such as where you are a director, partner, trustee, employee, agent or direct or indirect owner of an applicant) or (iii) the Fund otherwise uses your personal data. This privacy notice sets out the basis on which personal data about you will be processed by the Fund. Please take the time to read and understand this privacy notice."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Personal data that the Fund might use",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The Fund might process the following personal data about you:</p>\n<p>(a)       Information provided to the Fund by you or (if different) the applicant: This might include your name and address (including proofs of name and address), contact details, date of birth, gender, nationality, photograph, signature, occupational history, job title, income, assets, other financial information, bank details, investment history, tax residency and tax identification information. Such information might be provided in an application form or in other documents (as part of an application process or at other times), face-to-face, by telephone, by email or otherwise.</p>\n<p>(b)       Information that the Fund collects or generates: This might include information relating to your (or an applicant’s) investment in the Fund, emails (and related data), call recordings and website usage data.</p>\n<p>(c)       Information that the Fund obtains from other sources: This might include information obtained for the purpose of the Fund’s know-your-client procedures (which include anti-money laundering procedures, counter-terrorist financing procedures, politically-exposed-person checks, sanctions checks, among other things), information from public websites and other public sources and information received from the applicant’s advisers or from intermediaries.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Uses of your personal data",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>Your personal data may be stored and processed by the Fund for the following purposes:</p>\n<p>(a) Assessing and processing applications for shares in the Fund and other share dealings, including performing know-your-client procedures, issuing and redeeming shares, receiving payments from and making payments to the applicant, calculating net asset value, and overseeing these processes.</p>\n<p>(b) General business administration, including communicating with investors, communicating with service providers and counterparties, accountancy and audit services, risk monitoring, the administration of IT systems and monitoring and improving products.</p>\n<p>(c) Compliance with legal and regulatory obligations and industry standards, including know-your-client procedures, the automatic exchange of tax information and legal judgments.</p>\n<p>(d) In respect of information shared with the Brevan Howard Capital Management L.P. acting by its sole general partner Brevan Howard Capital Management Limited (the “Manager”) and its affiliates, their business activities relating to the Fund, such as investor relations, discussions with the Fund’s service providers and counterparties, decision-making in relation to the Fund, and business strategy, development and marketing.</p>\n<p>The Fund is entitled to process your personal data in these ways for the following reasons:</p>\n<p>(a) If you are the applicant, you may enter into an investment contract with the Fund and some processing will be necessary for the performance of that contract, or will be done at your request prior to entering into that contract.</p>\n<p>(b) Processing may be necessary to discharge a relevant legal or regulatory obligation.</p>\n<p>(c) The processing will, in all cases, be necessary for the legitimate business interests of the Fund, the Manager, the Fund’s administrator or another person, such as:</p>\n<ul>\n<li>carrying out the ordinary or reasonable business activities of the Fund, the Manager, the Fund’s administrator or other persons, or other activities previously disclosed to the Fund’s investors or referred to in this privacy notice;</li>\n<li>ensuring compliance with all legal and regulatory obligations and industry standards, and preventing fraud;</li>\n<li>establishing, exercising or defending legal rights or for other purposes relating to legal proceedings; and</li>\n<li>ensuring the security of information systems.</li>\n</ul>\n<p>(d) In respect of any processing of sensitive personal data falling within special categories, such as any personal data relating to the political opinions of a politically exposed person, the processing will be subject to additional safeguards.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Disclosure of your personal data to third parties",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The Fund may from time to time, in accordance with the purposes described above, disclose your personal data to other parties, including (a) the Manager and its affiliates, (b) the Fund’s administrator and its affiliates, (c) professional advisers such as law firms and accountancy firms, (d) other service providers of the Fund, the Manager and the Fund’s administrator, including technology service providers, (e) counterparties, (f) courts and regulatory, tax and governmental authorities, and (g) prospective buyers of the Brevan Howard business for due diligence purposes. Some of these persons will process your personal data in accordance with the Fund’s instructions and others will themselves be responsible for their use of your personal data. These persons may be permitted to further disclose the personal data to other parties."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Transfers of your personal data outside the UK and the European Economic Area",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>The personal data that the Fund collects from you may be transferred to, and stored at, a destination outside of the jurisdiction in which it was originally collected (“Relevant Location”). It may also be stored and processed by other companies and/or third parties in other countries, which may include destinations outside of the Relevant Location.</p>\n<p>Where your personal data is transferred outside of the Relevant Location, the Fund will ensure that it is protected in a manner that is consistent with how your personal data will be protected by the Fund in the Relevant Location. This can be done in a number of ways, for instance:</p>\n<ul>\n<li>the country that the Fund sends the data to might be approved by the data protection authority in the Relevant Location as offering an adequate level of protection for your personal data; or</li>\n<li>the recipient might have signed up to a contract based on “model contractual clauses” approved by the data protection authority in the Relevant Location, obliging them to protect your personal data.</li>\n</ul>\n<p>In other circumstances the law may permit the Fund to otherwise transfer your personal data outside the Relevant Location. In all cases, however, the Fund will ensure that any transfer of your personal data is compliant with data protection law.</p>\n<p>You can obtain more details about the protection given to your personal data when it is transferred outside the Relevant Location (including in some cases a copy of the relevant contractual clauses entered into with recipients of your personal data) by contacting the Fund using the details set out below.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Necessity of personal data for an investment in the Fund",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The provision of certain personal data is necessary for shares in the Fund to be issued to any applicant and for compliance by the Fund and its service providers with certain legal and regulatory obligations. Accordingly, if certain personal data is not provided when requested, an application for shares might not be accepted or shares might be compulsorily redeemed."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Retention of personal data",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "How long the Fund holds your personal data for will vary. The retention period will be determined by various criteria, including the purposes for which the Fund is using it (as it will need to be kept for as long as is necessary for any of those purposes) and legal obligations (as laws or regulations may set a minimum period for which the Fund has to keep your personal data)."
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Your rights",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>You have a number of legal rights in relation to the personal data that the Fund holds about you. These rights may (depending on where your personal data is located) include the following:</p>\n<p>(a) The right to obtain information regarding the processing of your personal data and access to the personal data that the Fund holds about you.</p>\n<p>(b) In some circumstances, the right to receive some personal data in a structured, commonly used and machine-readable format and the right to request that the Fund transmits that data to a third party where this is technically feasible. Please note that this right only applies to personal data which you have provided to the Fund.</p>\n<p>(c) The right to request that the Fund rectifies your personal data if it is inaccurate or incomplete.</p>\n<p>(d) The right to request that the Fund erases your personal data in certain circumstances. Please note that there may be circumstances where you ask the Fund to erase your personal data but the Fund is legally entitled to retain it.</p>\n<p>(e) The right to object to, and the right to request that the Fund restricts, its processing of your personal data in certain circumstances. Again, there may be circumstances where you object to, or ask the Fund to restrict, its processing of your personal data but the Fund is legally entitled to continue processing your personal data or to refuse that request.</p>\n<p>(f) To object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you.</p>\n<p>(g) To not be discriminated against by the Fund when exercising your rights.</p>\n<p>(h) The right to lodge a complaint with the data protection regulator (details of which are provided below) if you think that any of your rights have been infringed by the Fund.</p>\n<p>You can exercise your rights in line with applicable law in the relevant location by contacting us using the details set out below. However, please note that these rights are conditional and are not always absolute rights.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Making a privacy complaint",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>You can contact the Fund using the contact details at the bottom of this privacy notice if you have any concerns about how the Fund has handled your personal data. If you are not satisfied with the manner in which the Fund has dealt with your complaint, you may contact the relevant data protection authority in your jurisdiction. These may include (but are not limited to):</p>\n<p><strong>UK:</strong> by contacting the Information Commissioner’s Office at <a href=\"https://ico.org.uk/\">ico.org.uk</a>.</p>\n<p><strong>EU:</strong> by contacting the relevant data protection authority in the applicable EU Member State. For more information, please search the website at <a href=\"https://edpb.europa.eu/\">edpb.europa.eu</a></p>\n<p><strong>Cayman Islands:</strong> by contacting the Cayman Islands’ Ombudsman. For more information, please search their website at <a href=\"https://ombudsman.ky/\">ombudsman.ky</a></p>\n<p><strong>DIFC:</strong> by contacting the DIFC Commissioner of Data Protection. For more information, please search their website at <a href=\"https://www.difc.ae/business/operating/data-protection/\">difc.ae/data-protection</a></p>\n<p><strong>ADGM:</strong> by contacting the ADGM Office of Data Protection. For more information, please search their website at <a href=\"https://www.adgm.com/operating-in-adgm/office-of-data-protection/for-individuals\">adgm.com</a></p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Title",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Title",
+                                                    "title": "Contacting the Fund",
+                                                    "titleSize": "h2"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>If you would like further information on the collection, use, disclosure, transfer or processing of your personal data or the exercise of any of the rights listed above, please address questions and requests to <a href=\"mailto:investor.relations@brevanhoward.com\">investor.relations@brevanhoward.com</a>.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                },
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p><strong>Annex</strong></p>\n<p><em>Cayman Funds</em></p>\n<p>Brevan Howard Fund Limited</p>\n<p>Brevan Howard Master Fund Limited</p>\n<p>Brevan Howard Asia Fund Limited</p>\n<p>Brevan Howard Asia Master Fund Limited</p>\n<p>Brevan Howard Multi-Strategy Fund Limited</p>\n<p>Brevan Howard Multi-Strategy Master Fund Limited</p>\n<p>Brevan Howard AH Fund Limited</p>\n<p>Brevan Howard AH Master Fund Limited</p>\n<p>Brevan Howard AS Macro Fund Limited</p>\n<p>Brevan Howard AS Macro Master Fund Limited</p>\n<p>Brevan Howard Greek Opportunities Fund Limited</p>\n<p>Brevan Howard Greek Opportunities Master Fund Limited</p>\n<p>Brevan Howard Global Volatility Fund Limited</p>\n<p>Brevan Howard Global Volatility Master Fund Limited</p>\n<p>Brevan Howard MB Macro Fund Limited</p>\n<p>Brevan Howard MB Macro Master Fund Limited</p>\n<p>Brevan Howard US Rates Opportunities Fund Limited</p>\n<p>Brevan Howard US Rates Opportunities Master Fund Limited</p>\n<p>Brevan Howard Alpha Strategies Fund Limited</p>\n<p>Brevan Howard Alpha Strategies Master Fund Limited</p>\n<p>Brevan Howard FG Macro Fund Limited</p>\n<p>Brevan Howard FG Macro Master Fund Limited</p>\n<p>Brevan Howard TN Macro Fund Limited</p>\n<p>Brevan Howard TN Macro Master Fund Limited</p>\n<p>Brevan Howard Special Opportunities SPC for the account of each of its segregated portfolios</p>\n<p>Brevan Howard Systematic Research &amp; Technologies Master Fund Limited</p>\n<p>Machina SIF Fund I Limited</p>\n<p>Brevan Howard Digital Asset Multi-Strategy Fund Limited</p>\n<p>BH Digital Liquid Trading Fund Limited</p>\n<p>BH Digital Liquid Directional Fund Limited</p>\n<p>BH Digital Venture Fund Limited</p>\n<p>Nova Digital Opportunities Fund Limited</p>\n<p>Nova Digital Opportunities Master Fund Limited</p>\n<p>BH Digital Asset Digital Asset Fund (I) Limited</p>\n<p>BH Digital Asset Master Fund Limited</p>\n<p>BH Digital Opportunities Fund I Limited</p>\n<p>BHDO I Investments I Limited</p>\n<p>BH Digital Liquid Trading UK Vehicle I Limited</p>\n<p>BH Digital Liquid Trading UK Vehicle II Limited</p>\n<p>BH Digital SPC for the account of each of its segregated portfolios</p>\n<p>Brevan Howard Special Opportunities (II) Limited</p>\n<p>Brevan Howard Special Opportunities (III) Limited</p>\n<p>Brevan Howard Special Opportunities (VI) Limited</p>\n<p>Brevan Howard Special Opportunities (VIII) Limited</p>\n<p>Brevan Howard Special Opportunities (XI) Limited</p>\n<p>Brevan Howard Special Opportunities (XIV) Limited</p>\n<p>Brevan Howard Special Opportunities Master SPC for the account of each of its segregated portfolios</p>\n<p>Brevan Howard Emerging Markets Multi-Strategy Fund Limited</p>\n<p>Brevan Howard Emerging Markets Multi-Strategy Fund I Limited</p>\n<p>Brevan Howard Emerging Markets Multi-Strategy Master Fund Limited</p>\n<p>BH Alkout Fund Limited</p>\n<p>Brevan Howard Alpha Strategies Fund (Cayman No.2) Limited</p>\n<p><em>Delaware Funds (each an “LP Fund”)</em></p>\n<p>Brevan Howard L.P.</p>\n<p>Brevan Howard Asia Fund L.P.</p>\n<p>Brevan Howard Multi-Strategy Fund, L.P.</p>\n<p>Brevan Howard AH Fund, L.P.</p>\n<p>Brevan Howard AS Macro Fund, L.P.</p>\n<p>Brevan Howard Greek Opportunities Fund, L.P.</p>\n<p>Brevan Howard Global Volatility Fund, L.P.</p>\n<p>Brevan Howard MB Macro Fund, L.P.</p>\n<p>Brevan Howard US Rates Opportunities Fund, L.P.</p>\n<p>Brevan Howard Alpha Strategies Fund, L.P.</p>\n<p>Brevan Howard FG Macro Fund, L.P.</p>\n<p>Brevan Howard TN Macro Fund, L.P.</p>\n<p>Brevan Howard Digital Asset Multi-Strategy Fund, L.P.</p>\n<p>Nova Digital Opportunities Fund, L.P.</p>\n<p>BH Digital Asset Digital Asset Fund, , L.P.</p>\n<p>BH Digital Venture Fund LP</p>\n<p>BH Digital Venture US Blocker LLC</p>\n<p>BH Digital Venture Cayman Blocker LP</p>\n<p>BH Digital Liquid Directional Fund LP</p>\n<p>BH Digital Liquid Directional US Blocker LLC</p>\n<p>BH Digital Liquid Directional Cayman Blocker LP</p>\n<p>BH Digital Liquid Trading Fund LP</p>\n<p>BH Digital Liquid Trading US Blocker LLC</p>\n<p>BH Digital Liquid Trading Cayman Blocker LP</p>\n<p>BH Digital Venture Master Fund I LP</p>\n<p>BH Digital Venture Master Fund II LP</p>\n<p>BH Digital Liquid Directional Master Fund I LP</p>\n<p>BH Digital Liquid Directional Master Fund II LP</p>\n<p>BH Digital Liquid Trading Master Fund I LP</p>\n<p>BH Digital Liquid Trading Master Fund II LP</p>\n<p>Brevan Howard Emerging Markets Multi-Strategy Fund, LP</p>\n<p>Brevan Howard Alpha Strategies Fund (Delaware No.2), L.P.</p>\n<p><em>Luxembourg Fund</em></p>\n<p>Coremont Investment Fund – Brevan Howard Absolute Return Government Bond Fund</p>\n<p><em>General Partner</em></p>\n<p>Brevan Howard General Partner Limited in its capacity as general partner of each LP Fund</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 566,
+                                "title": "Fund Privacy Notice"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_WysiwygText",
+                                                    "text": "<p>If you would like further information on the collection, use, disclosure, transfer or processing of your personal data or the exercise of any of the rights listed above, please address questions and requests to <a href=\"mailto:investor.relations@brevanhoward.com\">investor.relations@brevanhoward.com</a>.</p>\n",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_WysiwygText"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 2115,
+                                "title": "Contacting the Fund"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "Brevan Howard Asset Management LLP is currently considering whether it will adopt an engagement policy pursuant to Article 3g of the amended EU Shareholder Rights Directive (Directive 2007/36/EC). When that decision has been made, this webpage will be updated accordingly."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 567,
+                                "title": "Shareholder Rights Directive"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_Text",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_Text",
+                                                    "text": "The EU Sustainable Finance Disclosure Regulation (“SFDR”) requires certain firms to make public and client facing disclosures on sustainability matters. Article 4 of SFDR requires firms to disclose whether they consider the adverse impacts of investment decisions on sustainability factors. Brevan Howard Asset Management LLP (\"BHAM\" or the \"Firm\") or its affiliates (collectively \"Brevan Howard\") do not currently have a formal policy and process for considering such adverse impacts, although periodically may do so at their discretion.<br />\r\n<br />\r\nSFDR regulation applies to all financial market participants and financial advisors in the EU, with EU shareholders and those marketing in the EU, setting out clear disclosure requirements when it comes to ESG considerations. Since March 2021, SFDR requires that UCITS and AIFMs must designate investment products as an Article 6, 8 or 9 fund, and make certain disclosures in keeping with this choice. These pre-contractual disclosures are required to ensure that investors have greater transparency before entering an investment product or accepting advice. These are customarily outlined in a funds’ Prospectus or Offering Document.<br />\r\n<br />\r\nBrevan Howard manages or advises Article 6 funds, meaning they are funds that neither have a sustainable investment objective, nor do they embrace investment in assets with environmental or social benefits. This is primarily based on the assessment the Firms’ current trading strategies, however will be reviewed on an ongoing basis to ensure the correct categorisation is made.<br />\r\n<br />\r\nFor Article 6 products, there is a requirement to publish a Principle Adverse Impact (PAI) statement or explain the choice not to. As the Firm employs fewer than 500 staff, there is no requirement to publish a PAI."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 1477,
+                                "title": "Sustainable Finance Disclosure Regulation"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_FileList",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_FileList",
+                                                    "items": [
+                                                        {
+                                                            "useStaticFile": "BHAM-RTS-28-Annual-Disclosure-Report-2017.pdf",
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/BHAM-RTS-28-Annual-Disclosure-Report-2017.pdf",
+                                                                "mediaItemId": 614,
+                                                                "modified": "2020-12-17 14:17:19",
+                                                                "localStaticUrl": "/static/BHAM-RTS-28-Annual-Disclosure-Report-2017-4b810f63e829357fff3ead65b0688ff4.pdf"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2017 – PDF Format"
+                                                        },
+                                                        {
+                                                            "useStaticFile": "RTS28_BH_2017.csv",
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/RTS28_BH_2017.csv",
+                                                                "mediaItemId": 613,
+                                                                "modified": "2020-12-17 14:17:11",
+                                                                "localStaticUrl": "/static/RTS28_BH_2017-93c64df08e689877ba15607d4c526190.csv"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2017 – CSV Format"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 568,
+                                "title": "Annual Best Execution Disclosure 2017"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_FileList",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_FileList",
+                                                    "items": [
+                                                        {
+                                                            "useStaticFile": null,
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/BHAM-RTS-28-Annual-Disclosure-Report-2018-PDF-Format.pdf",
+                                                                "mediaItemId": 615,
+                                                                "modified": "2020-12-17 14:17:44",
+                                                                "localStaticUrl": "/static/BHAM-RTS-28-Annual-Disclosure-Report-2018-PDF-Format-d3568be35bf2eb3912e809914acafd61.pdf"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2018 – PDF Format"
+                                                        },
+                                                        {
+                                                            "useStaticFile": null,
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/BHAM-RTS-28-Annual-Disclosure-Report-2018-CSV-Format.csv",
+                                                                "mediaItemId": 616,
+                                                                "modified": "2020-12-17 14:17:46",
+                                                                "localStaticUrl": "/static/BHAM-RTS-28-Annual-Disclosure-Report-2018-CSV-Format-b5af6a6d088348bd017ab4d126fa2571.csv"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2018 – CSV Format"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 569,
+                                "title": "Annual Best Execution Disclosure 2018"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_FileList",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_FileList",
+                                                    "items": [
+                                                        {
+                                                            "useStaticFile": null,
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/BHAM-RTS-28-Annual-Disclosure-Report-2019-PDF-Format.pdf",
+                                                                "mediaItemId": 617,
+                                                                "modified": "2020-12-17 14:18:00",
+                                                                "localStaticUrl": "/static/BHAM-RTS-28-Annual-Disclosure-Report-2019-PDF-Format-40247b134cda6757932dba78b8db435e.pdf"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2019 – PDF Format"
+                                                        },
+                                                        {
+                                                            "useStaticFile": null,
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2020/12/BHAM-RTS-28-Annual-Disclosure-Report-2019-CSV-Format.csv",
+                                                                "mediaItemId": 618,
+                                                                "modified": "2020-12-17 14:18:02",
+                                                                "localStaticUrl": "/static/BHAM-RTS-28-Annual-Disclosure-Report-2019-CSV-Format-3662439ef5a3b155bd2b8a0d001f2965.csv"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2019 – CSV Format"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 570,
+                                "title": "Annual Best Execution Disclosure 2019"
+                            },
+                            {
+                                "__typename": "WPGraphQL_Notice",
+                                "noticesacf": {
+                                    "sections": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "__typename": "WPGraphQL_Notice_Noticesacf_sections_Components_FileList",
+                                                    "fieldGroupName": "notice_Noticesacf_sections_Components_FileList",
+                                                    "items": [
+                                                        {
+                                                            "useStaticFile": null,
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/06/BHAM-RTS-28-Annual-Disclosure-Report-2020-1.pdf",
+                                                                "mediaItemId": 1230,
+                                                                "modified": "2021-06-01 17:03:03",
+                                                                "localStaticUrl": "/static/BHAM-RTS-28-Annual-Disclosure-Report-2020-1-34f25ceaff724b4e9291a78a8d93736d.pdf"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2020 – PDF Format"
+                                                        },
+                                                        {
+                                                            "useStaticFile": null,
+                                                            "file": {
+                                                                "mediaItemUrl": "https://cms.bhstaging.dev/wp-content/uploads/2021/06/RTS28_x_20210416_134812.csv",
+                                                                "mediaItemId": 1226,
+                                                                "modified": "2021-06-01 16:26:35",
+                                                                "localStaticUrl": "/static/RTS28_x_20210416_134812-b0886b947e51f0044a47c0c83120c998.csv"
+                                                            },
+                                                            "text": "BHAM RTS 28 Annual Disclosure Report 2020 – CSV Format"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "databaseId": 1224,
+                                "title": "Annual Best Execution Disclosure 2020"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "pageContext": {
+            "id": "cG9zdDo5Nw=="
+        }
+    },
+    "staticQueryHashes": [
+        "1296785774",
+        "2997433256",
+        "63159454",
+        "886364674"
+    ]
+}
